@@ -1,0 +1,65 @@
+{
+  "bvid": "BV1CVNZ67EYZ",
+  "aid": 116935870191427,
+  "title": "deepseek v4正式版，制作飞车类型游戏",
+  "up_name": "梦回0",
+  "up_mid": 238343565,
+  "up_face": "http://i0.hdslb.com/bfs/face/153f6c7f541e659c6eba194b315a9d0fe5db6fe9.jpg",
+  "desc": "deepseek v4正式版制作的飞车游戏，可操控性和功能完整性超高",
+  "duration": 116,
+  "pub_time_ts": 1784299854,
+  "pub_time": "2026-07-17 22:50:54",
+  "stats": {
+    "view": 787,
+    "like": 44,
+    "coin": 4,
+    "favorite": 1,
+    "share": 0,
+    "reply": 7
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 5,
+    "top_comments": [
+      {
+        "user": "星云废墟",
+        "message": "功能加了好多，不同车还有区别，还有操作评价………但是我已经震鲸不起来了[汤圆]",
+        "likes": 11,
+        "time": "2026-07-17 23:02:38"
+      },
+      {
+        "user": "那我就知道",
+        "message": "这漂移还得优化，一直磕头",
+        "likes": 3,
+        "time": "2026-07-17 23:02:59"
+      },
+      {
+        "user": "贤X者",
+        "message": "雷霆音效，看看能不能改改",
+        "likes": 0,
+        "time": "2026-07-19 14:00:18"
+      },
+      {
+        "user": "Coraline-Jones",
+        "message": "要不加一个其他人机赛车同台竞技干扰，总测一个人跑的有点无聊了",
+        "likes": 0,
+        "time": "2026-07-18 07:42:00"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "牛逼",
+        "likes": 0,
+        "time": "2026-07-18 00:56:43"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

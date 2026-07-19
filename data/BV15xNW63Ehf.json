@@ -1,0 +1,83 @@
+{
+  "bvid": "BV15xNW63Ehf",
+  "aid": 116897265749438,
+  "title": "DeepSeek4.0正式版灰度测试小游戏开发",
+  "up_name": "不可以包含特殊字符",
+  "up_mid": 386749948,
+  "up_face": "https://i1.hdslb.com/bfs/face/6380906b02d0144e9ab0c785c97ae9792d251662.jpg",
+  "desc": "实测提升很大，用的Reasonix + deepseek flash模型",
+  "duration": 63,
+  "pub_time_ts": 1783710921,
+  "pub_time": "2026-07-11 03:15:21",
+  "stats": {
+    "view": 8970,
+    "like": 149,
+    "coin": 5,
+    "favorite": 25,
+    "share": 20,
+    "reply": 51
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 16,
+    "top_comments": [
+      {
+        "user": "不可以包含特殊字符",
+        "message": "哔哩哔哩更阴",
+        "likes": 30,
+        "time": "2026-07-11 03:17:38"
+      },
+      {
+        "user": "PotnQ",
+        "message": "这还是flash模型做的？",
+        "likes": 15,
+        "time": "2026-07-11 04:00:06"
+      },
+      {
+        "user": "Delight-linger",
+        "message": "感觉不错啊，比我这几天用的ds流口水版本好太多了",
+        "likes": 10,
+        "time": "2026-07-11 03:35:45"
+      },
+      {
+        "user": "奇迹的魔法师",
+        "message": "你这逆天 BGM 是怎么生成的？是 DeepSeek 直接抓取的互联网数据吗？",
+        "likes": 9,
+        "time": "2026-07-11 19:51:12"
+      },
+      {
+        "user": "Annore",
+        "message": "这个bgmhhhh",
+        "likes": 9,
+        "time": "2026-07-11 03:58:39"
+      },
+      {
+        "user": "比官网低价全模型api",
+        "message": "这种灰度测试最适合先让AI把需求拆成“玩法/界面/报错点”3块，再按块去改，不然很容易越改越乱 😆 比如我会先丢一句“把这个小游戏开发流程列成5步，并标出最容易翻车的地方”，看完再动手，效率真的",
+        "likes": 5,
+        "time": "2026-07-11 16:07:56"
+      },
+      {
+        "user": "neijb",
+        "message": "这么厉害的吗，真的假的",
+        "likes": 4,
+        "time": "2026-07-11 12:07:06"
+      },
+      {
+        "user": "黑土cz",
+        "message": "还可以，随便一句提示词就生成了这个\nhttps://santi2-clu.pages.dev/",
+        "likes": 3,
+        "time": "2026-07-12 21:13:27"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

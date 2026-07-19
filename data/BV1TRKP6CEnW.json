@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1TRKP6CEnW",
+  "aid": 116940399970848,
+  "title": "【疑似DeepSeek正式版】这才是真正的音乐.jpg②",
+  "up_name": "UPLUZ",
+  "up_mid": 4926822,
+  "up_face": "https://i0.hdslb.com/bfs/face/ce5109f538fe319034c092408f38a7c2d5a7bd48.jpg",
+  "desc": "节奏光剑玩的太菜了，大伙都没听爽，把音乐让D老师单独提出来了，还做了适配的页面效果，之前的像素鸟音乐也新加了动效，想体验的可以去试试看。\nhttp://askhow.top/games/游戏音乐厅.html",
+  "duration": 528,
+  "pub_time_ts": 1784368944,
+  "pub_time": "2026-07-18 18:02:24",
+  "stats": {
+    "view": 6598,
+    "like": 232,
+    "coin": 23,
+    "favorite": 92,
+    "share": 56,
+    "reply": 65
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "MinecraftNBDK",
+        "message": "唯一的缺点是背景的鸟开无敌了，撞柱子不死[doge]",
+        "likes": 45,
+        "time": "2026-07-18 18:35:48"
+      },
+      {
+        "user": "大脑幻肢痛",
+        "message": "我真觉得这种与现实作曲方式相似的ai音乐比suno这种基于transformer架构直接生成音频更像是AI音乐的最终形式，毕竟是可复现的",
+        "likes": 40,
+        "time": "2026-07-18 21:45:41"
+      },
+      {
+        "user": "XX你个大XX",
+        "message": "牛魔的贝多芬来了[笑哭]\n我最近几天API一直灰度不到，给我急死了。想让它试试模仿日式摇滚，比如oddloop作编曲看看行不行",
+        "likes": 39,
+        "time": "2026-07-18 18:13:14"
+      },
+      {
+        "user": "泉盛纱织",
+        "message": "这尼玛这不比网易云日推好听[笑哭]",
+        "likes": 29,
+        "time": "2026-07-18 19:53:03"
+      },
+      {
+        "user": "TetraCepra",
+        "message": "怎么deepseek只会写6415[辣眼睛]好出戏",
+        "likes": 23,
+        "time": "2026-07-18 18:12:37"
+      },
+      {
+        "user": "萨拉热窝有些热",
+        "message": "能不能让suno眩晕瘫坐，感觉ds这种可以理解语言，编程出乐谱做音乐的上限更高，可以微调[笑哭]",
+        "likes": 19,
+        "time": "2026-07-18 21:53:25"
+      },
+      {
+        "user": "搁字",
+        "message": "星海远航好听\nD老师做的这四首歌都好听[打call]\n可能我就是喜欢这种风格吧[doge]",
+        "likes": 12,
+        "time": "2026-07-18 22:09:26"
+      },
+      {
+        "user": "草从土生",
+        "message": "既然大语言模型可以midi编曲，那是不是可以srgb生图",
+        "likes": 12,
+        "time": "2026-07-18 20:45:15"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

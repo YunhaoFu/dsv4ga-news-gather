@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1ojKN6tE4U",
+  "aid": 116942245463548,
+  "title": "deepseek v4 pro 正式版建模测试",
+  "up_name": "夜之叶归一",
+  "up_mid": 361892809,
+  "up_face": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+  "desc": "所有素材建模都是模型自己生成，约束强调迭代了几轮，看看deepseek捉急的自身建模能力能不能抢救一下。",
+  "duration": 50,
+  "pub_time_ts": 1784397317,
+  "pub_time": "2026-07-19 01:55:17",
+  "stats": {
+    "view": 5561,
+    "like": 129,
+    "coin": 2,
+    "favorite": 49,
+    "share": 14,
+    "reply": 93
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "万能灵药",
+        "message": "实际上有多模态也做不到这种建模水平，参考gpt5.6做出来大概率一坨。唯一可能达到的模型就是fable，但是风格肯定不一样了。",
+        "likes": 56,
+        "time": "2026-07-19 02:37:43"
+      },
+      {
+        "user": "万能灵药",
+        "message": "实际上有多模态也做不到这种建模水平，参考gpt5.6做出来大概率一坨。唯一可能达到的模型就是fable，但是风格肯定不一样了。",
+        "likes": 56,
+        "time": "2026-07-19 02:37:43"
+      },
+      {
+        "user": "万能灵药",
+        "message": "实际上有多模态也做不到这种建模水平，参考gpt5.6做出来大概率一坨。唯一可能达到的模型就是fable，但是风格肯定不一样了。",
+        "likes": 56,
+        "time": "2026-07-19 02:37:43"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "木屋超水平发挥了。",
+        "likes": 36,
+        "time": "2026-07-19 01:59:28"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "木屋超水平发挥了。",
+        "likes": 36,
+        "time": "2026-07-19 01:59:28"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "木屋超水平发挥了。",
+        "likes": 36,
+        "time": "2026-07-19 01:59:28"
+      },
+      {
+        "user": "zzyyydsyeah",
+        "message": "ds有篇论文极大提高了空间感知能力我记得哪个B站网友说的",
+        "likes": 33,
+        "time": "2026-07-19 02:49:28"
+      },
+      {
+        "user": "zzyyydsyeah",
+        "message": "ds有篇论文极大提高了空间感知能力我记得哪个B站网友说的",
+        "likes": 33,
+        "time": "2026-07-19 02:49:28"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

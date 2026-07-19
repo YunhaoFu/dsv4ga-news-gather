@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1UqN96LEcv",
+  "aid": 116916828117771,
+  "title": "疑似deepseekv4正式版灰测-无人深空",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "这个项目我抽了几次奖，情况都差不多，没有第一次直出就完美的，不过都能大体框架都能有90%以上，无非就是些小细节小bug之类的各种差异。\n提示词：制作一个网页版的能做一个 无人深空   3d游戏。。 不了解的可以去联网搜索 不使用superpowers skill。游戏要有音效，UI精美，按H键可以看见说明。基础玩法要齐全",
+  "duration": 126,
+  "pub_time_ts": 1784009259,
+  "pub_time": "2026-07-14 14:07:39",
+  "stats": {
+    "view": 15348,
+    "like": 263,
+    "coin": 52,
+    "favorite": 145,
+    "share": 119,
+    "reply": 168
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "夸张哦，等我用上V4正式版的便宜token，我就去还原10个后室层级[吃瓜]",
+        "likes": 131,
+        "time": "2026-07-14 14:49:33"
+      },
+      {
+        "user": "hxtakutaku",
+        "message": "deepseek似乎已经从模型，蜕变成工具了。而且还快和方便用上···简直无敌。我这里用codex，光是网络问题，都要多花好几倍的时间··",
+        "likes": 114,
+        "time": "2026-07-14 15:02:14"
+      },
+      {
+        "user": "Just_a_Passer_By",
+        "message": "核弹瘫坐在椅子上，仿佛看见奥特曼爆炸[热]",
+        "likes": 98,
+        "time": "2026-07-14 15:44:38"
+      },
+      {
+        "user": "雨露当归",
+        "message": "卧槽，无人深空老玩家真的晕眩瘫坐了。除了从太空进入星球的过渡没做好，别的在这种情况下实现得很不错了。",
+        "likes": 74,
+        "time": "2026-07-14 14:15:46"
+      },
+      {
+        "user": "蠢狗头工坊",
+        "message": "第一眼看过去：好像就做了个太空飞行[鸭科夫_干嘛鸭]\n第二眼：不是哥们你怎么上星球上去了 星球里居然还有东西[惊讶]",
+        "likes": 28,
+        "time": "2026-07-14 14:11:23"
+      },
+      {
+        "user": "底特律肥宅",
+        "message": "up能不能用网上测试fable5的提示词，给ds测一下，然后对比一下，我想看看核弹爆炸",
+        "likes": 23,
+        "time": "2026-07-14 14:49:36"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "@bili_41000732801",
+        "likes": 18,
+        "time": "2026-07-14 16:15:52"
+      },
+      {
+        "user": "账号已注销2332736",
+        "message": "椅子震惊的瘫坐在核弹上，仿佛看到了我爆炸。[吃瓜]",
+        "likes": 7,
+        "time": "2026-07-16 13:38:11"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1feK76eEm3",
+  "aid": 116932028140168,
+  "title": "测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3",
+  "up_name": "小小小名不是小明",
+  "up_mid": 316052822,
+  "up_face": "https://i2.hdslb.com/bfs/face/ae1470421b657463c1d276e6467dd655d63781d3.jpg",
+  "desc": "之前拿到资格灰测了一下DeepSeekV4正式版，后来没有路由到这个模型了，昨天晚上又体验到了，所以做一期深度多方面的测试，总体性能依旧非常好。\n测试项目链接：benchmark.zip - 蓝奏云",
+  "duration": 1741,
+  "pub_time_ts": 1784241315,
+  "pub_time": "2026-07-17 06:35:15",
+  "stats": {
+    "view": 63689,
+    "like": 709,
+    "coin": 91,
+    "favorite": 350,
+    "share": 149,
+    "reply": 438
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "拒绝内耗左右横跳",
+        "message": "今天发 ，就是梁圣，20 号发就是梁子[吃瓜]",
+        "likes": 480,
+        "time": "2026-07-17 12:00:19"
+      },
+      {
+        "user": "记忆中的姚先生",
+        "message": "我准备了三套说辞（梁圣/梁哥/小梁）[doge]",
+        "likes": 210,
+        "time": "2026-07-17 23:09:48"
+      },
+      {
+        "user": "ElL_NM",
+        "message": "k3这价格也太贵了",
+        "likes": 179,
+        "time": "2026-07-17 07:10:10"
+      },
+      {
+        "user": "瑟夫-马特",
+        "message": "我眩晕瘫坐在氢弹上，就像看见了椅子爆炸[doge]",
+        "likes": 93,
+        "time": "2026-07-17 11:44:44"
+      },
+      {
+        "user": "盖_九_幽",
+        "message": "这样看，ds的写文能力在措辞与情绪曲线上面还有待提升，这真比不过哈基米。\n如果你们不知道怎么判断写文能力的话，其实可以快速看这个片段，不要一个字一个字看，看完后发现不想接着看，或者说没什么感觉的话，就说明他写的不好了。",
+        "likes": 75,
+        "time": "2026-07-17 08:36:01"
+      },
+      {
+        "user": "三硝基甲苯Sama",
+        "message": "双日凌空了这下，kimi做前端是真挺强。",
+        "likes": 64,
+        "time": "2026-07-17 07:30:27"
+      },
+      {
+        "user": "Just_a_Passer_By",
+        "message": "灰度测试有可能会灰到不同档位，所以能力参差不齐也很正常，但是就算最差的档位都很强[笑哭]",
+        "likes": 58,
+        "time": "2026-07-17 08:35:28"
+      },
+      {
+        "user": "Ohuyyhere",
+        "message": "做同样的项目，cc接dsv4pro，今天ds会在每次写大量代码后设置后台审查，类似：第3步代码全部完成，审查在后台跑（大约15分钟，跑完我自动汇报+修复+提交） 。  打开think看到里面是i am doing的形式，这是灰度到了吗，之前做项目没遇到他主动用审查的情况",
+        "likes": 43,
+        "time": "2026-07-17 22:17:20"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

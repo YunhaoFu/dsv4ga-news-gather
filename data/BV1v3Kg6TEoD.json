@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1v3Kg6TEoD",
+  "aid": 116928286824364,
+  "title": "dsv4生成可自定义音乐的下落式音游",
+  "up_name": "三十丁尼",
+  "up_mid": 2016784174,
+  "up_face": "https://i1.hdslb.com/bfs/face/8aa604c9dad802c9c638685ec1f11c9baf77ce53.jpg",
+  "desc": "一句话直出，使用deepseek V4正式版生成\n支持自己导入音乐，ai会自动生成（不过采音有点怪？毕竟是ai创作）\n\n手感尚可，应该可以不断改进",
+  "duration": 502,
+  "pub_time_ts": 1784184255,
+  "pub_time": "2026-07-16 14:44:15",
+  "stats": {
+    "view": 2482,
+    "like": 69,
+    "coin": 10,
+    "favorite": 17,
+    "share": 12,
+    "reply": 18
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 10,
+    "top_comments": [
+      {
+        "user": "铱钇锶114",
+        "message": "感觉他还懂点键型？有时候会有长的单手切和食指交互之类的，感觉不像纯随机排列出来的",
+        "likes": 13,
+        "time": "2026-07-17 00:26:59"
+      },
+      {
+        "user": "kuzers",
+        "message": "嘶，他是怎么理解哪些踩点需要制作的呢🤔",
+        "likes": 12,
+        "time": "2026-07-16 15:52:12"
+      },
+      {
+        "user": "呐喊声的",
+        "message": "deepseek的上限比我想象中还有高啊[笑哭]",
+        "likes": 12,
+        "time": "2026-07-16 15:53:44"
+      },
+      {
+        "user": "愚零徒",
+        "message": "下一步就是丰富一下音符类型，比如长音",
+        "likes": 6,
+        "time": "2026-07-16 16:01:58"
+      },
+      {
+        "user": "kuzers",
+        "message": "@冬眠の松鼠_ 召唤",
+        "likes": 5,
+        "time": "2026-07-16 15:53:04"
+      },
+      {
+        "user": "MinecraftNBDK",
+        "message": "能不能分享一下HTML文件呢，想玩",
+        "likes": 2,
+        "time": "2026-07-18 23:33:29"
+      },
+      {
+        "user": "飯綱九龍",
+        "message": "[幻想乡的日常 第1弹_给心]",
+        "likes": 1,
+        "time": "2026-07-17 13:54:48"
+      },
+      {
+        "user": "霜忆思",
+        "message": "一上来就听懂了",
+        "likes": 0,
+        "time": "2026-07-17 11:17:32"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

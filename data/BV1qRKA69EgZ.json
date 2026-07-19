@@ -1,0 +1,47 @@
+{
+  "bvid": "BV1qRKA69EgZ",
+  "aid": 116940785851655,
+  "title": "deepseek灰度测试，地球防卫军试玩",
+  "up_name": "赤麟方阵2号",
+  "up_mid": 3546602044131675,
+  "up_face": "https://i0.hdslb.com/bfs/face/fa860e24443d475dd2c79519fa33dca716d996a5.jpg",
+  "desc": "导弹给我看傻了",
+  "duration": 250,
+  "pub_time_ts": 1784375050,
+  "pub_time": "2026-07-18 19:44:10",
+  "stats": {
+    "view": 905,
+    "like": 48,
+    "coin": 4,
+    "favorite": 7,
+    "share": 0,
+    "reply": 8
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 2,
+    "top_comments": [
+      {
+        "user": "斗门不断修正公示",
+        "message": "这音效真是绝了，是deepseek自己生成的吗[笑哭]",
+        "likes": 10,
+        "time": "2026-07-18 21:44:23"
+      },
+      {
+        "user": "Coraline-Jones",
+        "message": "这导弹一次射 3 发还跟踪？到底啥导弹呀[笑哭]",
+        "likes": 3,
+        "time": "2026-07-18 20:16:06"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

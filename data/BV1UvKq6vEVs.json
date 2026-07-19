@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1UvKq6vEVs",
+  "aid": 116945047261517,
+  "title": "DeepSeek V4正式版泄露、Opus 5下周发布或由Karpathy训练、京东发布JoyAI-Talker与Video-Edit | 7月19日 AI日报",
+  "up_name": "一只AI风向标",
+  "up_mid": 3706990266157265,
+  "up_face": "https://i2.hdslb.com/bfs/face/78676a0774e20f0a0b2e5d26745273e73343bc0b.jpg",
+  "desc": "💡 今日趋势：DeepSeek V4泄露将发布，推理能力达Opus 4.8水平；Opus 5或由Karpathy训练；京东发布JoyAI-Talker语音交互模型。\n\n🤖 AI动态\n1. DeepSeek V4正式版泄露即将发布\n2. Opus 5或由Karpathy和Mythos团队训练，下周发布\n3. 京东发布JoyAI-Talker语音交互与视频编辑模型\n4. Spotify删除7500万首AI生成歌曲\n5. Cerebras上GPT-5.6 Sol任务110秒完成\n6. Hugging Face AI入侵暴露数据处理信任边界\n7. 月之暗面Kimi开源限制：Cursor需署名无收益分成\n8. 图灵量子发布量子-经典混合Agent平台QAgent\n9. 荣耀发布AgenticOS操作系统8月Robot Phone首发\n🔌 AI基础设施\n10. 阿里云发布灵骏真武M890超节点实例\n11. 曦智科技全栈光电算力技术亮相WAIC\n🦾 机器人具身智能\n12. ACT-2模型叠衣成功率超99%\n13. 魔法原子Magic-VLA K02亮相WAIC叠盒封胶超90%\n14. 千觉机器人发布VTLA具身触觉模型\n📌 模型排行榜\n15. Artificial Analysis AI 模型能力排行榜",
+  "duration": 245,
+  "pub_time_ts": 1784440057,
+  "pub_time": "2026-07-19 13:47:37",
+  "stats": {
+    "view": 5769,
+    "like": 77,
+    "coin": 0,
+    "favorite": 7,
+    "share": 6,
+    "reply": 39
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 11,
+    "top_comments": [
+      {
+        "user": "jiasdmingzu_x",
+        "message": "2个月前，4.8是神，现在4.8？快成路边一条了，d的这个成本，4.8已经被斩杀了[滑稽]",
+        "likes": 63,
+        "time": "2026-07-19 14:26:57"
+      },
+      {
+        "user": "莹星-_-",
+        "message": "核弹，椅子，瘫坐",
+        "likes": 29,
+        "time": "2026-07-19 14:43:47"
+      },
+      {
+        "user": "怎么什么昵称都选不了",
+        "message": "Opus4.8？Fable5！",
+        "likes": 14,
+        "time": "2026-07-19 14:09:23"
+      },
+      {
+        "user": "627339781",
+        "message": "什么时候核爆✋[大哭]✋",
+        "likes": 9,
+        "time": "2026-07-19 15:03:19"
+      },
+      {
+        "user": "南莫已是某某",
+        "message": "能达到4.8且之后都不降智，我就是梁小子🙏",
+        "likes": 8,
+        "time": "2026-07-19 15:27:03"
+      },
+      {
+        "user": "小粤有约",
+        "message": "d老师还没出吗[笑哭]",
+        "likes": 6,
+        "time": "2026-07-19 14:16:38"
+      },
+      {
+        "user": "KRiXeL",
+        "message": "我刚用了fable，然后我发现，fable的思维链能看到了，与此同时，也是Now，I’ll，I’m，For开头的，是我串了还是什么情况？我原本是Claude code 接入Deepseek的",
+        "likes": 5,
+        "time": "2026-07-19 16:30:34"
+      },
+      {
+        "user": "魚撚戰士",
+        "message": "還未核爆嗎[doge]",
+        "likes": 5,
+        "time": "2026-07-19 14:17:25"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

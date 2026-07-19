@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1otK365Ebd",
+  "aid": 116927515069393,
+  "title": "deepseek v4正式版灰测，生成恐怖游戏",
+  "up_name": "飞越麦当劳",
+  "up_mid": 1929605923,
+  "up_face": "https://i1.hdslb.com/bfs/face/ed9fd52ae3e8a7f958a0a2d1978c0aae692e3fb0.jpg",
+  "desc": "-",
+  "duration": 125,
+  "pub_time_ts": 1784172623,
+  "pub_time": "2026-07-16 11:30:23",
+  "stats": {
+    "view": 1766,
+    "like": 37,
+    "coin": 2,
+    "favorite": 6,
+    "share": 2,
+    "reply": 24
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 8,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "[doge]",
+        "likes": 12,
+        "time": "2026-07-16 11:36:25"
+      },
+      {
+        "user": "底特律肥宅",
+        "message": "这个鬼[笑哭]",
+        "likes": 5,
+        "time": "2026-07-16 12:43:21"
+      },
+      {
+        "user": "面壁者商鞅",
+        "message": "各位大神天尊，这个正式版编码能力到底怎么样？能超过Glm5.2比肩肥波吗？能否站稳第一梯队？",
+        "likes": 4,
+        "time": "2026-07-16 11:47:44"
+      },
+      {
+        "user": "莫菲是_",
+        "message": "如何确定自己的是正式版？必须要api才会有吗",
+        "likes": 0,
+        "time": "2026-07-16 23:13:18"
+      },
+      {
+        "user": "bili_71622642842",
+        "message": "https://opencode.ai/go?ref=ZEA5WMNPNT 使用这个订阅 5美刀立省",
+        "likes": 0,
+        "time": "2026-07-16 17:31:15"
+      },
+      {
+        "user": "西瓜泷",
+        "message": "正式版支持多模态了？",
+        "likes": 0,
+        "time": "2026-07-16 17:46:36"
+      },
+      {
+        "user": "Zeta18349276",
+        "message": "DS v4也太强了吧，生成恐怖游戏这个效果真不错！👍",
+        "likes": 0,
+        "time": "2026-07-16 17:13:06"
+      },
+      {
+        "user": "钟庭",
+        "message": "能不能生成一个类似 lol 或者 dota 类型的游戏",
+        "likes": 0,
+        "time": "2026-07-19 10:30:54"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1t6Mh6RErw",
+  "aid": 116879230244109,
+  "title": "DeepSeek V4正式版一句话生成CSGO（生成记录透明）",
+  "up_name": "冬眠の松鼠_",
+  "up_mid": 3546711534341091,
+  "up_face": "https://i0.hdslb.com/bfs/face/bbeb8374af195a11e1deda31b364f36ed2d59a77.jpg",
+  "desc": "还有什么想看的欢迎评论区留言",
+  "duration": 234,
+  "pub_time_ts": 1783435651,
+  "pub_time": "2026-07-07 22:47:31",
+  "stats": {
+    "view": 118642,
+    "like": 1355,
+    "coin": 96,
+    "favorite": 812,
+    "share": 941,
+    "reply": 811
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "AndyW安迪",
+        "message": "我前两天想让 AI 帮我做一个单机游戏的外挂，所有人都不给我做。ChatGPT、Claude、GLM-5.2 都不行，只有 DeepSeek 大哥愿意冒这个“道德风险”去做。\n\n尽管我和其他的模型都说了，这是单机游戏，而且这个游戏的岁数比很多人的岁数都大，它们还是拒绝给我这个老游戏做外挂。[微笑]",
+        "likes": 653,
+        "time": "2026-07-08 10:59:00"
+      },
+      {
+        "user": "AndyW安迪",
+        "message": "我前两天想让 AI 帮我做一个单机游戏的外挂，所有人都不给我做。ChatGPT、Claude、GLM-5.2 都不行，只有 DeepSeek 大哥愿意冒这个“道德风险”去做。\n\n尽管我和其他的模型都说了，这是单机游戏，而且这个游戏的岁数比很多人的岁数都大，它们还是拒绝给我这个老游戏做外挂。[微笑]",
+        "likes": 653,
+        "time": "2026-07-08 10:59:00"
+      },
+      {
+        "user": "AndyW安迪",
+        "message": "我前两天想让 AI 帮我做一个单机游戏的外挂，所有人都不给我做。ChatGPT、Claude、GLM-5.2 都不行，只有 DeepSeek 大哥愿意冒这个“道德风险”去做。\n\n尽管我和其他的模型都说了，这是单机游戏，而且这个游戏的岁数比很多人的岁数都大，它们还是拒绝给我这个老游戏做外挂。[微笑]",
+        "likes": 653,
+        "time": "2026-07-08 10:59:00"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "本项目token总花费0.9r",
+        "likes": 527,
+        "time": "2026-07-07 22:50:42"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "本项目token总花费0.9r",
+        "likes": 527,
+        "time": "2026-07-07 22:50:42"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "本项目token总花费0.9r",
+        "likes": 527,
+        "time": "2026-07-07 22:50:42"
+      },
+      {
+        "user": "鼠人乐乐",
+        "message": "也许灰度的算力够很惊艳，等正式出了就给蹬傻了",
+        "likes": 402,
+        "time": "2026-07-08 13:14:54"
+      },
+      {
+        "user": "鼠人乐乐",
+        "message": "也许灰度的算力够很惊艳，等正式出了就给蹬傻了",
+        "likes": 402,
+        "time": "2026-07-08 13:14:54"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

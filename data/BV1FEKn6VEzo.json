@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1FEKn6VEzo",
+  "aid": 116934259574176,
+  "title": "DeepSeek 3D Walkman播放器",
+  "up_name": "e4glet",
+  "up_mid": 335577923,
+  "up_face": "https://i2.hdslb.com/bfs/face/9434f3e51baf12a59b34873e32fb7f0c29601d6b.jpg",
+  "desc": "Walkman 播放器\n一款基于 Three.js 构建的 3D 交互式 Walkman 音乐播放器，透明探索风设计，模拟磁带机的操作体验\n\n项目开源地址：https://gitee.com/e4glet/vue3-walkman-music",
+  "duration": 121,
+  "pub_time_ts": 1784275396,
+  "pub_time": "2026-07-17 16:03:16",
+  "stats": {
+    "view": 342,
+    "like": 14,
+    "coin": 3,
+    "favorite": 2,
+    "share": 0,
+    "reply": 3
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [
+    "https://gitee.com/e4glet/vue3-walkman-music"
+  ],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [
+    "https://gitee.com/e4glet/vue3-walkman-music"
+  ],
+  "comments": {
+    "total": 2,
+    "top_comments": [
+      {
+        "user": "紫巅",
+        "message": "动画做的不错[doge]",
+        "likes": 1,
+        "time": "2026-07-18 14:46:10"
+      },
+      {
+        "user": "日月同对",
+        "message": "优秀啊",
+        "likes": 0,
+        "time": "2026-07-17 17:55:16"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

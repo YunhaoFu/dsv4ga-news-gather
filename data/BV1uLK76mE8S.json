@@ -1,0 +1,59 @@
+{
+  "bvid": "BV1uLK76mE8S",
+  "aid": 116932229470237,
+  "title": "DeepSeek v4灰度正式版+Z-image生成游戏，学院昆特牌",
+  "up_name": "爱尔奎德的死徒",
+  "up_mid": 758650,
+  "up_face": "https://i1.hdslb.com/bfs/face/a5f6898f6364a58d854fd43b97a0b54abfd4ed01.jpg",
+  "desc": "一句话生成的小游戏，二次元版本昆特牌，D老师自己调用我配置好的Z-image生成的图片。\n真的是一遍就过，没有bug\n顺便一提，D老师连卡背都给我生成好了，虽然没有用到23333",
+  "duration": 156,
+  "pub_time_ts": 1784244261,
+  "pub_time": "2026-07-17 07:24:21",
+  "stats": {
+    "view": 2475,
+    "like": 66,
+    "coin": 4,
+    "favorite": 18,
+    "share": 3,
+    "reply": 16
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 4,
+    "top_comments": [
+      {
+        "user": "大帅比是也qwe",
+        "message": "k2二次元效果，部分加了lora",
+        "likes": 9,
+        "time": "2026-07-17 12:29:59"
+      },
+      {
+        "user": "大帅比是也qwe",
+        "message": "写实风，提示词直出，部分敏感的不好发[脱单doge]",
+        "likes": 6,
+        "time": "2026-07-17 12:31:18"
+      },
+      {
+        "user": "Sir_安轩",
+        "message": "怎么判断自己灰度到了正式版呢？",
+        "likes": 0,
+        "time": "2026-07-17 23:47:42"
+      },
+      {
+        "user": "大帅比是也qwe",
+        "message": "用新开源的krea2怎么样，我用下来跑真人还是二次元效果都很好[吃瓜]",
+        "likes": 0,
+        "time": "2026-07-17 10:53:24"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

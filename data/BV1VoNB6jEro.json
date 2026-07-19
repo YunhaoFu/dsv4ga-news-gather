@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1VoNB6jEro",
+  "aid": 116924511945520,
+  "title": "【疑似DeepSeek正式版】塞尔达世界",
+  "up_name": "UPLUZ",
+  "up_mid": 4926822,
+  "up_face": "https://i0.hdslb.com/bfs/face/ce5109f538fe319034c092408f38a7c2d5a7bd48.jpg",
+  "desc": "一句话生成，左右键反了改了一次bug，又修复了一次快捷栏物品bug，可惜坠机了，修复失败。然后又加了一次创造模式。但视频中看到的效果已经完全就是一次生成的效果了。",
+  "duration": 598,
+  "pub_time_ts": 1784127857,
+  "pub_time": "2026-07-15 23:04:17",
+  "stats": {
+    "view": 5206,
+    "like": 87,
+    "coin": 6,
+    "favorite": 18,
+    "share": 18,
+    "reply": 57
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 11,
+    "top_comments": [
+      {
+        "user": "我的游戏之旅",
+        "message": "nb,已经开始大规模灰度了，好多人都灰度到了\n估计正式版就明后的事",
+        "likes": 48,
+        "time": "2026-07-15 23:11:51"
+      },
+      {
+        "user": "GrotesqueG",
+        "message": "[藏狐]这个AD方向键反了不会成为“dsv4正式版”的标志性bug吧【】，看好多mc类似物的案例都会碰到这个bug【】",
+        "likes": 34,
+        "time": "2026-07-15 23:22:53"
+      },
+      {
+        "user": "UPLUZ",
+        "message": "忽略我视频里巨大的键盘声，各位快去试试，感觉真的大规模测试了，思考强度选high，看思维链不对立刻取消重新生成，刷几次就刷出来了。",
+        "likes": 18,
+        "time": "2026-07-15 23:08:25"
+      },
+      {
+        "user": "MDOL422",
+        "message": "我去，真能做啊😦，D指导这么有实力",
+        "likes": 12,
+        "time": "2026-07-15 23:20:42"
+      },
+      {
+        "user": "TwinkYou",
+        "message": "看的人真手痒痒的[大哭]梁总别在拖了，赶紧出吧",
+        "likes": 3,
+        "time": "2026-07-16 02:06:52"
+      },
+      {
+        "user": "那我就知道",
+        "message": "@冬眠の松鼠_",
+        "likes": 3,
+        "time": "2026-07-15 23:10:22"
+      },
+      {
+        "user": "PotnQ",
+        "message": "好奇它能更多的游戏融合吗 我的世界底座+无人深空星球探索+x4基石的内容+群星的结合体",
+        "likes": 3,
+        "time": "2026-07-15 23:58:01"
+      },
+      {
+        "user": "拾二取",
+        "message": "能不能赶紧推出，然后出个token plan 呀，",
+        "likes": 2,
+        "time": "2026-07-16 11:07:45"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

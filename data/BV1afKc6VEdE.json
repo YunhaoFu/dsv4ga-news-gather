@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1afKc6VEdE",
+  "aid": 116939913431609,
+  "title": "deepseek V4 正式版 测试",
+  "up_name": "夜之叶归一",
+  "up_mid": 361892809,
+  "up_face": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+  "desc": "素材完全模型自己生成，多轮对话完善，高能，三渲二风格太出效果了，",
+  "duration": 238,
+  "pub_time_ts": 1784361671,
+  "pub_time": "2026-07-18 16:01:11",
+  "stats": {
+    "view": 22318,
+    "like": 495,
+    "coin": 35,
+    "favorite": 188,
+    "share": 153,
+    "reply": 244
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "Qilin1132",
+        "message": "看完后的感受：",
+        "likes": 225,
+        "time": "2026-07-18 16:37:35"
+      },
+      {
+        "user": "Qilin1132",
+        "message": "看完后的感受：",
+        "likes": 225,
+        "time": "2026-07-18 16:37:35"
+      },
+      {
+        "user": "Qilin1132",
+        "message": "看完后的感受：",
+        "likes": 225,
+        "time": "2026-07-18 16:37:35"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "最核心的就是风格，渲染和建模指导，其它都是次要的磨合选项",
+        "likes": 96,
+        "time": "2026-07-18 16:19:24"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "最核心的就是风格，渲染和建模指导，其它都是次要的磨合选项",
+        "likes": 96,
+        "time": "2026-07-18 16:19:24"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "最核心的就是风格，渲染和建模指导，其它都是次要的磨合选项",
+        "likes": 96,
+        "time": "2026-07-18 16:19:24"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "模型和贴图都是deepseek自己生成。东西太多，迭代了一下午，核心是这个三渲二风格，其它是次要的，这个风格太出片了，掩盖了很多建模渲染幼稚的问题。",
+        "likes": 87,
+        "time": "2026-07-18 16:05:49"
+      },
+      {
+        "user": "夜之叶归一",
+        "message": "模型和贴图都是deepseek自己生成。东西太多，迭代了一下午，核心是这个三渲二风格，其它是次要的，这个风格太出片了，掩盖了很多建模渲染幼稚的问题。",
+        "likes": 87,
+        "time": "2026-07-18 16:05:49"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1kSKT6CErs",
+  "aid": 116942715225351,
+  "title": "DeepSeek V4 正式版，帮我生成一首电子音乐【基于strudel.cc代码生成的音乐三首】",
+  "up_name": "小小小名不是小明",
+  "up_mid": 316052822,
+  "up_face": "https://i2.hdslb.com/bfs/face/ae1470421b657463c1d276e6467dd655d63781d3.jpg",
+  "desc": "基于strudel.cc--代码编曲宿主生成的电子音乐三首，十分适合小体量的游戏作为配乐使用",
+  "duration": 902,
+  "pub_time_ts": 1784404245,
+  "pub_time": "2026-07-19 03:50:45",
+  "stats": {
+    "view": 3766,
+    "like": 117,
+    "coin": 15,
+    "favorite": 44,
+    "share": 24,
+    "reply": 32
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 15,
+    "top_comments": [
+      {
+        "user": "五年补考三年挂科",
+        "message": "用乐理知识写歌，很有活人的感觉，说不定这是ai艺术另外一个方向",
+        "likes": 31,
+        "time": "2026-07-19 07:19:42"
+      },
+      {
+        "user": "爱画画的纸",
+        "message": "不是靠概率预测来生成音乐，而是用乐理知识写歌吗？真的越来越像人类了。如果给他足够的知识，像 5/4、13/8这种非常规拍子的音乐，也能写了吧？",
+        "likes": 20,
+        "time": "2026-07-19 10:01:48"
+      },
+      {
+        "user": "尊敬的愚者先生",
+        "message": "看来现在全世界除了我都灰度到了[笑哭]",
+        "likes": 17,
+        "time": "2026-07-19 10:29:41"
+      },
+      {
+        "user": "杠精MrS",
+        "message": "代码会唱歌[doge]早点睡了",
+        "likes": 10,
+        "time": "2026-07-19 04:22:48"
+      },
+      {
+        "user": "Maomaoisa",
+        "message": "卧槽 好听",
+        "likes": 10,
+        "time": "2026-07-19 04:40:14"
+      },
+      {
+        "user": "宋大阳_sondy",
+        "message": "有没有可能给ai钢琴音源去凭借乐理写钢琴曲[脱单doge]",
+        "likes": 6,
+        "time": "2026-07-19 11:45:06"
+      },
+      {
+        "user": "伊甸的亚托莉",
+        "message": "nb，感觉v4还有很大潜力啊[星星眼]期待大佬们开发",
+        "likes": 4,
+        "time": "2026-07-19 04:48:43"
+      },
+      {
+        "user": "荡殇永魔",
+        "message": "[给心心][给心心]",
+        "likes": 4,
+        "time": "2026-07-19 03:51:14"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

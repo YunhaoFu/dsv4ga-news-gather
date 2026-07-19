@@ -1,0 +1,91 @@
+{
+  "bvid": "BV1rrKG6sEAn",
+  "aid": 116928857312761,
+  "title": "疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》",
+  "up_name": "s就是这样s",
+  "up_mid": 4200244,
+  "up_face": "http://i1.hdslb.com/bfs/face/a53b34315e549956d8314d1f470f1ce0acf81e2f.jpg",
+  "desc": "游戏还有一些问题，如道路没有正确绘制，但是在道路位置上，速度是更快的。音效控制也很奇怪\nOpencode: https://opncd.ai/share/zDqW9H1H\nDEMO: https://cct124.github.io/HORIZON6_DEMO/\nCode: https://github.com/cct124/HORIZON6_DEMO",
+  "duration": 127,
+  "pub_time_ts": 1784193034,
+  "pub_time": "2026-07-16 17:10:34",
+  "stats": {
+    "view": 22069,
+    "like": 220,
+    "coin": 10,
+    "favorite": 73,
+    "share": 61,
+    "reply": 54
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/zDqW9H1H"
+  ],
+  "download_links": [
+    "https://github.com/cct124/HORIZON6_DEMO"
+  ],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/zDqW9H1H"
+  ],
+  "all_download_links": [
+    "https://github.com/cct124/HORIZON6_DEMO"
+  ],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "Haruna丶Sion",
+        "message": "让deepseek v4一句话生成deepseek v5[吃瓜]",
+        "likes": 305,
+        "time": "2026-07-17 15:58:25"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "这又是谁的部将[笑哭]",
+        "likes": 106,
+        "time": "2026-07-16 18:09:29"
+      },
+      {
+        "user": "TwinkYou",
+        "message": "中规中矩吧，要是把跑道标的更清晰一点就好了[笑哭]",
+        "likes": 21,
+        "time": "2026-07-16 19:20:09"
+      },
+      {
+        "user": "马应龙严选痔疮药",
+        "message": "https://github.com/Msy-ylzcy/horizon-japan-web这是我用GPT-5.6-Sol一句话生成的地平线6，所有东西都是它写的，包括README，音效，模型啥的",
+        "likes": 20,
+        "time": "2026-07-17 03:31:45"
+      },
+      {
+        "user": "芊里于华",
+        "message": "就ai绘画ai视频这一两年的变化和发展，这种ai做游戏，尤其如果加上多模态后，感觉真的未来可期",
+        "likes": 18,
+        "time": "2026-07-17 18:31:36"
+      },
+      {
+        "user": "未羽生",
+        "message": "想到以后的小登能自己自定义生成虚拟世界还能进去玩我就急得满地打滚",
+        "likes": 11,
+        "time": "2026-07-19 13:14:56"
+      },
+      {
+        "user": "Milo_Tin",
+        "message": "鲸震恩 恩情还不完 «😯»",
+        "likes": 10,
+        "time": "2026-07-18 09:14:05"
+      },
+      {
+        "user": "涯角望火",
+        "message": "他上哪找的BGM[笑哭]",
+        "likes": 5,
+        "time": "2026-07-17 17:23:55"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

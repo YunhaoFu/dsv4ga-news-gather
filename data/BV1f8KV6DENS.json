@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1f8KV6DENS",
+  "aid": 116930467862581,
+  "title": "不严谨测试",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "k3测得，质量大家自己看看吧。有个很严重的bug，自动跳跃，无论多高都会自动上台阶",
+  "duration": 130,
+  "pub_time_ts": 1784217461,
+  "pub_time": "2026-07-16 23:57:41",
+  "stats": {
+    "view": 1594,
+    "like": 38,
+    "coin": 2,
+    "favorite": 2,
+    "share": 0,
+    "reply": 108
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 10,
+    "top_comments": [
+      {
+        "user": "斗门不断修正公示",
+        "message": "看来这个核爆不如梁圣的威力大啊，我看外网还是比肩fable5[doge]",
+        "likes": 15,
+        "time": "2026-07-17 00:03:27"
+      },
+      {
+        "user": "PotnQ",
+        "message": "哥们看看我这个BV1ZaKV6JEnA",
+        "likes": 12,
+        "time": "2026-07-17 00:10:08"
+      },
+      {
+        "user": "GL18b",
+        "message": "单就这个，感觉不如v4",
+        "likes": 8,
+        "time": "2026-07-17 00:21:03"
+      },
+      {
+        "user": "TwinkYou",
+        "message": "感觉比opus4.8强一些[doge_金箍]可惜kimi价格太贵了，没deepseek便宜",
+        "likes": 7,
+        "time": "2026-07-17 00:02:45"
+      },
+      {
+        "user": "绿皮机器",
+        "message": "完犊子了，之前的那些K3测试感觉都是营销，幸亏没冲动买199[doge]",
+        "likes": 5,
+        "time": "2026-07-17 00:43:38"
+      },
+      {
+        "user": "mims若风",
+        "message": "我让他生成一个 3d 赛车游戏，就这么几个提示词，跑了一个半小时了",
+        "likes": 4,
+        "time": "2026-07-17 00:48:11"
+      },
+      {
+        "user": "红板根",
+        "message": "我也是，网页版k3我的世界，自动跳跃，只有在空中时才不会跳，一旦脚挨地一定会跳，然后我要修复，她还要我开会员，不然还要等[笑哭]",
+        "likes": 3,
+        "time": "2026-07-17 00:15:36"
+      },
+      {
+        "user": "我是珍宝碎片化",
+        "message": "目前看来k3性能基本是全方位比v4强的，就是定价过于抽象。",
+        "likes": 2,
+        "time": "2026-07-17 02:57:38"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

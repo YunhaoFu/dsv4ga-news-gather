@@ -1,0 +1,53 @@
+{
+  "bvid": "BV1jiKP6dEmh",
+  "aid": 116940601302321,
+  "title": "用deepseek，一天开发游戏的进度（新游戏开发中：末日堡垒对抗）",
+  "up_name": "山头小妖",
+  "up_mid": 20429773,
+  "up_face": "https://i1.hdslb.com/bfs/face/072eb52cbd011aa17922d19e8a701697f2be0148.jpg",
+  "desc": "使用deepseek，语音识别命令控制npc",
+  "duration": 53,
+  "pub_time_ts": 1784372050,
+  "pub_time": "2026-07-18 18:54:10",
+  "stats": {
+    "view": 1169,
+    "like": 25,
+    "coin": 2,
+    "favorite": 4,
+    "share": 2,
+    "reply": 10
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "温柔的智子小姐",
+        "message": "@冬眠の松鼠_",
+        "likes": 1,
+        "time": "2026-07-18 20:28:42"
+      },
+      {
+        "user": "阳光刚刚好",
+        "message": "人人做游戏，的时代",
+        "likes": 0,
+        "time": "2026-07-19 14:51:46"
+      },
+      {
+        "user": "罗二三",
+        "message": "建议引入GOAP，让LLM使用json传达各种行动的权重，并且保证无ai的情况下也有足够复杂的逻辑，而不是现在的直接平移",
+        "likes": 0,
+        "time": "2026-07-19 15:43:01"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

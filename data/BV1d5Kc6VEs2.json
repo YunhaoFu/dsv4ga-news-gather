@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1d5Kc6VEs2",
+  "aid": 116938520924262,
+  "title": "用DeepSeek（疑似正式版）复刻战双帕弥什",
+  "up_name": "果汁盒Summer",
+  "up_mid": 382250095,
+  "up_face": "https://i1.hdslb.com/bfs/face/c7b5506f66613567c1e239f33d12383d77da32cf.jpg",
+  "desc": "本次耗费0.75元",
+  "duration": 227,
+  "pub_time_ts": 1784340456,
+  "pub_time": "2026-07-18 10:07:36",
+  "stats": {
+    "view": 7365,
+    "like": 218,
+    "coin": 17,
+    "favorite": 50,
+    "share": 41,
+    "reply": 44
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 18,
+    "top_comments": [
+      {
+        "user": "夜月之玄",
+        "message": "没有复刻病毒啊[doge]",
+        "likes": 30,
+        "time": "2026-07-18 15:03:14"
+      },
+      {
+        "user": "飯綱九龍",
+        "message": "原神，启动",
+        "likes": 20,
+        "time": "2026-07-18 11:24:18"
+      },
+      {
+        "user": "Pyroath-",
+        "message": "[星星眼]强强，居然只用了0.75元嘛",
+        "likes": 20,
+        "time": "2026-07-18 13:22:33"
+      },
+      {
+        "user": "鬼门羽",
+        "message": "upup，能测下写文的文风模仿和故事编排咋样吗[笑哭]",
+        "likes": 8,
+        "time": "2026-07-18 14:32:32"
+      },
+      {
+        "user": "-雨宫优子-",
+        "message": "有模有样的",
+        "likes": 7,
+        "time": "2026-07-18 12:18:36"
+      },
+      {
+        "user": "庵中十三居士",
+        "message": "战双也是好起来了，吃上ds的流量了[doge]",
+        "likes": 6,
+        "time": "2026-07-18 21:50:00"
+      },
+      {
+        "user": "马桶小猫",
+        "message": "感觉我又要被加强了[笑哭]",
+        "likes": 5,
+        "time": "2026-07-18 11:42:20"
+      },
+      {
+        "user": "Vvvnv",
+        "message": "DeepSeek也很难用到劣质的吧[笑哭]都是国内的，api直接买直接接就好，不像一些国外的你要跑中转站啥的可能还有点问题",
+        "likes": 5,
+        "time": "2026-07-18 13:51:44"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

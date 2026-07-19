@@ -1,0 +1,53 @@
+{
+  "bvid": "BV1iBNR6YEXt",
+  "aid": 116935752681502,
+  "title": "［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比",
+  "up_name": "风味光猫",
+  "up_mid": 364213249,
+  "up_face": "https://i1.hdslb.com/bfs/face/2169ea652f9cec12d661a19557018a6a5e4f42f2.jpg",
+  "desc": "其实是不完全对比，前一个是灰测ds，通过opencode生成，后一个是正常ds，通过reasonix生成，所以底层提示词会有所不同，但是大差不差，至少这两个程序能让我直观看出正式版和预览版的差距了\n由于是一句直出所以精细度不是很高，链接会发到评论区",
+  "duration": 187,
+  "pub_time_ts": 1784298038,
+  "pub_time": "2026-07-17 22:20:38",
+  "stats": {
+    "view": 1154,
+    "like": 55,
+    "coin": 7,
+    "favorite": 12,
+    "share": 3,
+    "reply": 4
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "膏锋",
+        "message": "一些弹设看着还挺像那么回事的",
+        "likes": 1,
+        "time": "2026-07-17 23:55:54"
+      },
+      {
+        "user": "百克大米",
+        "message": "能不能让DeepSeek复刻个世嘉MD上的《Gain Ground》？",
+        "likes": 0,
+        "time": "2026-07-18 04:45:56"
+      },
+      {
+        "user": "小角牛和披甲龙龟",
+        "message": "也不错[星星眼]",
+        "likes": 0,
+        "time": "2026-07-18 02:16:42"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "bvid": "BV1LQNB6SELA",
+  "aid": 116924360951006,
+  "title": "deepseekV4pro一句话生成的幸存者游戏",
+  "up_name": "作手阿九",
+  "up_mid": 86618635,
+  "up_face": "https://i1.hdslb.com/bfs/face/a8a4c9577febb8ce8b7ebcfdb5a39460600f20dc.jpg",
+  "desc": "1",
+  "duration": 478,
+  "pub_time_ts": 1784124458,
+  "pub_time": "2026-07-15 22:07:38",
+  "stats": {
+    "view": 916,
+    "like": 33,
+    "coin": 4,
+    "favorite": 6,
+    "share": 0,
+    "reply": 5
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "小角牛和披甲龙龟",
+        "message": "是正式版吗",
+        "likes": 1,
+        "time": "2026-07-15 22:23:52"
+      },
+      {
+        "user": "喜马拉雅的一阵风",
+        "message": "这是预览版嘛",
+        "likes": 0,
+        "time": "2026-07-15 22:13:44"
+      },
+      {
+        "user": "陌梦今朝",
+        "message": "估计是灰度到正式版了",
+        "likes": 0,
+        "time": "2026-07-15 23:51:25"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

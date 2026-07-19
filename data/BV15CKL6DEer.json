@@ -1,0 +1,83 @@
+{
+  "bvid": "BV15CKL6DEer",
+  "aid": 116930820249497,
+  "title": "双日凌空! 对比测试K3与Deepseekv4(灰度正式版)实力",
+  "up_name": "Delight-linger",
+  "up_mid": 1699039750,
+  "up_face": "https://i1.hdslb.com/bfs/face/68c4c53e1c64d96e01801d4faa95f3565e32d4ee.jpg",
+  "desc": "-",
+  "duration": 3664,
+  "pub_time_ts": 1784223060,
+  "pub_time": "2026-07-17 01:31:00",
+  "stats": {
+    "view": 34632,
+    "like": 294,
+    "coin": 24,
+    "favorite": 130,
+    "share": 39,
+    "reply": 281
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "丧师百万也称能",
+        "message": "不相上下基本等于kimi没多少竞争力了，就看发布后DS是不是真灰测水平了，价格甚至比预览版更低了",
+        "likes": 189,
+        "time": "2026-07-17 01:46:53"
+      },
+      {
+        "user": "艺术就是Bakuhatsu",
+        "message": "大鲸鱼的价格为什么能这么便宜，跟市面上ai对比感觉大鲸鱼的价格就像在做慈善一样…..[大猫咪miratsu_出现]",
+        "likes": 150,
+        "time": "2026-07-17 06:37:09"
+      },
+      {
+        "user": "月夜下的琉璃色",
+        "message": "kimi这个价格只能开套餐了，open code go也烧不起。开套餐的问题就是得看量够不够高强度蹬了。",
+        "likes": 90,
+        "time": "2026-07-17 02:57:36"
+      },
+      {
+        "user": "乖乖的木木子",
+        "message": "[doge]依旧鲸震恩",
+        "likes": 58,
+        "time": "2026-07-17 09:23:07"
+      },
+      {
+        "user": "TwinkYou",
+        "message": "dp让我觉得不可思议的是能力表现区间居然这么大，希望只是灰度模型有好几款的原因吧[笑哭]",
+        "likes": 52,
+        "time": "2026-07-17 05:16:54"
+      },
+      {
+        "user": "取个合适的昵称8",
+        "message": "A➗：蒸蒸日上啊[doge]",
+        "likes": 38,
+        "time": "2026-07-17 07:10:58"
+      },
+      {
+        "user": "叶下三江丶",
+        "message": "感觉现在ds就在搞纯理论，堆算力得等到华为超节点服务器大规模交付了",
+        "likes": 36,
+        "time": "2026-07-17 07:40:49"
+      },
+      {
+        "user": "dos7lo",
+        "message": "就等着开源打脸 ao 呢，这不就来了 k3。hhhhh。但确实用不起…最近用模型的感觉就是 DeepSeek v4 pro 基本是日用的基准线，能力往下的不怎么敢信 ，能力往上或者持平的基本价格都贵了。但可能是没有太重任务，用不出来差别，但我订阅了一年的大豆包是真没治了，现在当苦力天天跑简单任务，代码是真的拉，幻觉和情绪也是真多。现在看完他的回答都要找 ds 或者 GPT 验证一遍。",
+        "likes": 24,
+        "time": "2026-07-18 00:23:16"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

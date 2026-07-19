@@ -1,0 +1,83 @@
+{
+  "bvid": "BV11oKV6AEMk",
+  "aid": 116930182645738,
+  "title": "【疑似DeepSeek正式版】像素鸟flappybird-预览版与正式版效果对比",
+  "up_name": "UPLUZ",
+  "up_mid": 4926822,
+  "up_face": "https://i0.hdslb.com/bfs/face/ce5109f538fe319034c092408f38a7c2d5a7bd48.jpg",
+  "desc": "预览版API生成这个效果花了我三块五！出来的效果只能说勉强合格，音乐完全无法衔接\n正式版API一句话生成，五分钟写完，只花了我五毛钱！效果完爆预览版！！！",
+  "duration": 87,
+  "pub_time_ts": 1784213259,
+  "pub_time": "2026-07-16 22:47:39",
+  "stats": {
+    "view": 4394,
+    "like": 102,
+    "coin": 5,
+    "favorite": 22,
+    "share": 10,
+    "reply": 65
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 10,
+    "top_comments": [
+      {
+        "user": "牛大放_DafangNiu",
+        "message": "[笑哭]离谱，梁圣快开门啊",
+        "likes": 57,
+        "time": "2026-07-16 22:52:13"
+      },
+      {
+        "user": "ArtChang",
+        "message": "要是有多模态不得杀疯了",
+        "likes": 44,
+        "time": "2026-07-16 22:53:00"
+      },
+      {
+        "user": "独在故乡亦为异客",
+        "message": "印象里正式版不仅带来了 Token 效率提高，Infra 优化等还带来了甚至比预览版更显著的缓存命中率提高，我记得某个评论区里就有图，图里的缓存命中率是 99.98%[星星眼]",
+        "likes": 19,
+        "time": "2026-07-17 00:02:19"
+      },
+      {
+        "user": "量子Bug",
+        "message": "上一次被 Deepseek 超越之后一蹶不振的是 Meta，这一次要轮到 Google 了吗？[doge]",
+        "likes": 18,
+        "time": "2026-07-17 00:07:01"
+      },
+      {
+        "user": "MDOL422",
+        "message": "😭😭😭看的我心好痒啊，开了几百次对话灰度不到😭😭😭，梁圣，赶紧上正式版啊",
+        "likes": 12,
+        "time": "2026-07-17 02:03:35"
+      },
+      {
+        "user": "今天暴雪倒闭了吗",
+        "message": "老哥帮我测下这个问题？我让deepseek自己生成的用来测知识库的[鸭科夫_干嘛鸭]",
+        "likes": 7,
+        "time": "2026-07-16 23:53:16"
+      },
+      {
+        "user": "kawaii_ruby",
+        "message": "这下恩情利滚利了😭",
+        "likes": 4,
+        "time": "2026-07-18 02:27:32"
+      },
+      {
+        "user": "63954932782_bili",
+        "message": "新版的思维链你们的很稳定吗 我那个贼不稳定 不知道为啥 做着做着就回退到老版本了。",
+        "likes": 4,
+        "time": "2026-07-17 00:39:41"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

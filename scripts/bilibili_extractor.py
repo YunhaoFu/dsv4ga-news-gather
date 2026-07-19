@@ -1,0 +1,368 @@
+#!/usr/bin/env python3
+"""
+Bilibili DeepSeek V4 灰度测试视频信息提取器
+===========================================
+从B站视频中提取：
+1. UP主信息、视频信息
+2. 简介中的共享对话链接 (opncd.ai)
+3. 评论区UP主回复中的下载链接/共享链接
+"""
+
+import requests
+import hashlib
+import time
+import json
+import re
+import os
+import sys
+from datetime import datetime, timezone, timedelta
+
+BJT = timezone(timedelta(hours=8))
+
+# ---------- WBI签名工具 ----------
+_WBI_CACHE = {"mixin_key": None, "expires_at": 0}
+
+def _get_mixin_key():
+    now = time.time()
+    if _WBI_CACHE["mixin_key"] and now < _WBI_CACHE["expires_at"]:
+        return _WBI_CACHE["mixin_key"]
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Referer': 'https://www.bilibili.com/'
+    }
+    nav = requests.get('https://api.bilibili.com/x/web-interface/nav', headers=headers, timeout=10)
+    wbi_img = nav.json()['data']['wbi_img']
+    img_key = wbi_img['img_url'].split('/')[-1].split('.')[0]
+    sub_key = wbi_img['sub_url'].split('/')[-1].split('.')[0]
+    mixin_key = hashlib.md5(f"{img_key}{sub_key}".encode()).hexdigest()
+    _WBI_CACHE["mixin_key"] = mixin_key
+    _WBI_CACHE["expires_at"] = now + 3600  # cache 1 hour
+    return mixin_key
+
+def sign_params(params: dict) -> dict:
+    """给B站API参数加上WBI签名"""
+    mixin_key = _get_mixin_key()
+    sorted_p = dict(sorted(params.items()))
+    wts = str(int(time.time()))
+    sorted_p['wts'] = wts
+    query = '&'.join([f'{k}={sorted_p[k]}' for k in sorted(sorted_p.keys())])
+    sorted_p['w_rid'] = hashlib.md5(f"{query}{mixin_key}".encode()).hexdigest()
+    return sorted_p
+
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+    'Referer': 'https://www.bilibili.com/'
+}
+
+# ---------- 链接模式 ----------
+# DeepSeek共享对话链接 (opncd.ai 或 chat.deepseek.com/share)
+SHARE_PATTERNS = [
+    r'https?://opncd\.ai/share/\w+',
+    r'https?://chat\.deepseek\.com/share/\w+',
+    r'https?://opencode\.ai/share/\w+',
+]
+
+# Code下载链接 (GitHub, Gitee, 网盘等)
+DOWNLOAD_PATTERNS = [
+    r'https?://github\.com/[^\s]+',
+    r'https?://gitee\.com/[^\s]+',
+    r'https?://pan\.baidu\.com/[^\s]+',
+    r'https?://[^\s]+\.zip',
+    r'https?://[^\s]+\.tar\.gz',
+]
+
+def extract_urls(text: str, patterns: list) -> list:
+    """从文本中提取匹配模式的URL"""
+    urls = []
+    for pat in patterns:
+        urls.extend(re.findall(pat, text))
+    return list(set(urls))
+
+# ---------- 视频信息提取 ----------
+
+def get_video_info(bvid_or_url: str) -> dict:
+    """
+    通过BVID或b23.tv短链接获取视频信息
+    返回结构化视频数据
+    """
+    # 解析输入
+    bvid = bvid_or_url
+    if 'b23.tv' in bvid_or_url or 'bilibili.com' in bvid_or_url:
+        r = requests.get(bvid_or_url, headers=HEADERS, allow_redirects=True, timeout=10)
+        m = re.search(r'/video/(BV\w+)', r.url)
+        if not m:
+            return {"error": "无法从链接中提取BVID"}
+        bvid = m.group(1)
+
+    # 获取视频元数据
+    r = requests.get(f'https://api.bilibili.com/x/web-interface/view?bvid={bvid}',
+                     headers=HEADERS, timeout=10)
+    data = r.json()
+    if data.get('code') != 0:
+        return {"error": f"API返回错误: {data.get('message', 'unknown')}"}
+
+    vd = data['data']
+    aid = vd['aid']
+    pub_ts = vd['pubdate']
+
+    result = {
+        "bvid": bvid,
+        "aid": aid,
+        "title": vd['title'],
+        "up_name": vd['owner']['name'],
+        "up_mid": vd['owner']['mid'],
+        "up_face": vd['owner'].get('face', ''),
+        "desc": vd.get('desc', ''),
+        "duration": vd.get('duration', 0),
+        "pub_time_ts": pub_ts,
+        "pub_time": datetime.fromtimestamp(pub_ts, tz=BJT).strftime('%Y-%m-%d %H:%M:%S'),
+        "stats": {
+            "view": vd['stat']['view'],
+            "like": vd['stat']['like'],
+            "coin": vd['stat']['coin'],
+            "favorite": vd['stat']['favorite'],
+            "share": vd['stat']['share'],
+            "reply": vd['stat']['reply'],
+        },
+        "tags": [],
+        "share_links": extract_urls(vd.get('desc', ''), SHARE_PATTERNS),
+        "download_links": extract_urls(vd.get('desc', ''), DOWNLOAD_PATTERNS),
+        "comments_links": {"share": [], "download": []},
+    }
+
+    # 获取标签
+    try:
+        tag_r = requests.get(f'https://api.bilibili.com/x/web-interface/tag/archive?bvid={bvid}',
+                             headers=HEADERS, timeout=10)
+        tag_data = tag_r.json()
+        if tag_data.get('code') == 0:
+            result['tags'] = [t['tag_name'] for t in tag_data['data']]
+    except Exception:
+        pass
+
+    return result
+
+# ---------- 评论提取 ----------
+
+def get_comments(aid: int, up_mid: int, max_pages: int = 5) -> dict:
+    """
+    获取视频评论，重点关注UP主的回复
+    返回: { top_comments: [], up_replies_with_links: [] }
+    """
+    all_replies = []
+    up_replies_with_links = []
+
+    for pn in range(1, max_pages + 1):
+        params = sign_params({
+            'type': '1', 'oid': str(aid), 'mode': '3', 'ps': '20', 'pn': str(pn)
+        })
+        try:
+            r = requests.get('https://api.bilibili.com/x/v2/reply/main',
+                             params=params, headers=HEADERS, timeout=10)
+            cdata = r.json()
+            if cdata.get('code') != 0:
+                break
+            replies = cdata['data'].get('replies', [])
+            if not replies:
+                break
+            all_replies.extend(replies)
+            if len(replies) < 20:
+                break
+        except Exception:
+            break
+
+    # 分析评论
+    for r in all_replies:
+        # 检查UP主的子回复
+        for sub in r.get('replies') or []:
+            if sub['member']['mid'] == up_mid:
+                msg = sub['content']['message']
+                share_urls = extract_urls(msg, SHARE_PATTERNS)
+                dl_urls = extract_urls(msg, DOWNLOAD_PATTERNS)
+                if share_urls or dl_urls:
+                    up_replies_with_links.append({
+                        "reply_to": r['member']['uname'],
+                        "message": msg,
+                        "share_links": share_urls,
+                        "download_links": dl_urls,
+                        "time": datetime.fromtimestamp(sub['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
+                    })
+
+        # 检查UP主自己发的顶级评论
+        if r['member']['mid'] == up_mid:
+            msg = r['content']['message']
+            share_urls = extract_urls(msg, SHARE_PATTERNS)
+            dl_urls = extract_urls(msg, DOWNLOAD_PATTERNS)
+            if share_urls or dl_urls:
+                up_replies_with_links.append({
+                    "reply_to": "(UP主评论)",
+                    "message": msg,
+                    "share_links": share_urls,
+                    "download_links": dl_urls,
+                    "time": datetime.fromtimestamp(r['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
+                })
+
+    # 取高赞评论
+    top_comments = []
+    for r in sorted(all_replies, key=lambda x: x.get('like', 0), reverse=True)[:8]:
+        top_comments.append({
+            "user": r['member']['uname'],
+            "message": r['content']['message'][:300],
+            "likes": r.get('like', 0),
+            "time": datetime.fromtimestamp(r['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
+        })
+
+    return {
+        "total": len(all_replies),
+        "top_comments": top_comments,
+        "up_replies_with_links": up_replies_with_links,
+    }
+
+# ---------- 主流程 ----------
+
+def extract_video(bvid_or_url: str, max_comment_pages: int = 3) -> dict:
+    """对一个视频执行完整的信息提取"""
+    print(f"  [提取中] 正在获取视频信息...")
+    info = get_video_info(bvid_or_url)
+    if "error" in info:
+        print(f"  [错误] {info['error']}")
+        return info
+
+    aid = info['aid']
+    up_mid = info['up_mid']
+    bvid = info['bvid']
+
+    print(f"  标题: {info['title']}")
+    print(f"  UP主: {info['up_name']}")
+    print(f"  发布时间: {info['pub_time']}")
+
+    # 获取评论
+    print(f"  [提取中] 正在获取评论...")
+    comments = get_comments(aid, up_mid, max_comment_pages)
+
+    # 合并简介和评论中的链接
+    all_share = list(info['share_links'])
+    all_download = list(info['download_links'])
+
+    for up_reply in comments['up_replies_with_links']:
+        for url in up_reply['share_links']:
+            if url not in all_share:
+                all_share.append(url)
+        for url in up_reply['download_links']:
+            if url not in all_download:
+                all_download.append(url)
+
+    info['all_share_links'] = all_share
+    info['all_download_links'] = all_download
+    info['comments'] = comments
+
+    print(f"  共享链接: {len(all_share)} 个")
+    print(f"  下载链接: {len(all_download)} 个")
+    print(f"  高赞评论: {len(comments['top_comments'])} 条")
+    print(f"  UP主含链接回复: {len(comments['up_replies_with_links'])} 条")
+
+    return info
+
+def save_result(info: dict, output_dir: str):
+    """保存提取结果为JSON和Markdown"""
+    bvid = info.get('bvid', 'unknown')
+
+    # JSON
+    json_path = os.path.join(output_dir, f'{bvid}.json')
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(info, f, ensure_ascii=False, indent=2)
+    print(f"  [保存] JSON: {json_path}")
+
+    # Markdown摘要
+    md_path = os.path.join(output_dir, f'{bvid}.md')
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(format_markdown(info))
+    print(f"  [保存] Markdown: {md_path}")
+
+def format_markdown(info: dict) -> str:
+    """格式化为Markdown"""
+    lines = []
+    lines.append(f"# {info.get('title', '未知标题')}")
+    lines.append("")
+    lines.append(f"- **BVID**: `{info.get('bvid', '?')}`")
+    lines.append(f"- **UP主**: [{info.get('up_name', '?')}](https://space.bilibili.com/{info.get('up_mid', '?')})")
+    lines.append(f"- **发布时间**: {info.get('pub_time', '?')}")
+    lines.append(f"- **时长**: {info.get('duration', 0)}秒")
+    lines.append(f"- **播放/点赞/评论**: {info.get('stats', {}).get('view', '?')} / {info.get('stats', {}).get('like', '?')} / {info.get('stats', {}).get('reply', '?')}")
+    lines.append(f"- **视频链接**: [B站观看](https://www.bilibili.com/video/{info.get('bvid', '?')})")
+    lines.append("")
+
+    # 简介
+    desc = info.get('desc', '')
+    if desc:
+        lines.append("## 📝 视频简介")
+        lines.append("")
+        lines.append(f"> {desc}")
+        lines.append("")
+
+    # 共享链接
+    share = info.get('all_share_links', info.get('share_links', []))
+    if share:
+        lines.append("## 🔗 DeepSeek 对话共享链接")
+        lines.append("")
+        for url in share:
+            lines.append(f"- [对话链接]({url})")
+        lines.append("")
+
+    # 下载链接
+    download = info.get('all_download_links', info.get('download_links', []))
+    if download:
+        lines.append("## 📦 项目下载链接")
+        lines.append("")
+        for url in download:
+            lines.append(f"- [{url}]({url})")
+        lines.append("")
+
+    # UP主含链接回复
+    up_replies = info.get('comments', {}).get('up_replies_with_links', [])
+    if up_replies:
+        lines.append("## 💬 UP主评论中的链接")
+        lines.append("")
+        for ur in up_replies:
+            lines.append(f"- **回复** {ur['reply_to']} ({ur['time']}):")
+            lines.append(f"  > {ur['message']}")
+            if ur.get('share_links'):
+                for u in ur['share_links']:
+                    lines.append(f"  - 🔗 对话: {u}")
+            if ur.get('download_links'):
+                for u in ur['download_links']:
+                    lines.append(f"  - 📦 下载: {u}")
+        lines.append("")
+
+    # 高赞评论
+    top = info.get('comments', {}).get('top_comments', [])
+    if top:
+        lines.append("## 🏆 高赞评论")
+        lines.append("")
+        for c in top:
+            lines.append(f"- **{c['user']}** (👍{c['likes']}): {c['message']}")
+        lines.append("")
+
+    return '\n'.join(lines)
+
+
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description='B站 DeepSeek V4 视频信息提取器')
+    parser.add_argument('input', nargs='+', help='BVID 或 b23.tv 短链接')
+    parser.add_argument('--output', '-o', default='./data', help='输出目录')
+    parser.add_argument('--save-json', action='store_true', default=True, help='保存JSON')
+    args = parser.parse_args()
+
+    os.makedirs(args.output, exist_ok=True)
+
+    for vid in args.input:
+        print(f"\n{'='*60}")
+        print(f"处理: {vid}")
+        print('='*60)
+        result = extract_video(vid)
+        if 'error' in result:
+            print(f"  ❌ 失败: {result['error']}")
+        else:
+            save_result(result, args.output)
+            print(f"  ✅ 提取完成")

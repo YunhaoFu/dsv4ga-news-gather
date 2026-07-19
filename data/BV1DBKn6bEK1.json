@@ -1,0 +1,47 @@
+{
+  "bvid": "BV1DBKn6bEK1",
+  "aid": 116934041471559,
+  "title": "deepseek正式版灰度做雷霆战机",
+  "up_name": "浪迹天涯人free",
+  "up_mid": 487326937,
+  "up_face": "https://i1.hdslb.com/bfs/face/410117e5a56722b0800b055a49acdb1a8ebf17cc.jpg",
+  "desc": "因为灰度到占一小部分，然后都是用预览版改，很难受",
+  "duration": 127,
+  "pub_time_ts": 1784271958,
+  "pub_time": "2026-07-17 15:05:58",
+  "stats": {
+    "view": 645,
+    "like": 31,
+    "coin": 0,
+    "favorite": 1,
+    "share": 0,
+    "reply": 3
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 2,
+    "top_comments": [
+      {
+        "user": "Z-0-Z",
+        "message": "这个应该不是ga版，对话存在大量let me",
+        "likes": 3,
+        "time": "2026-07-17 16:06:26"
+      },
+      {
+        "user": "杠精MrS",
+        "message": "[笑哭]",
+        "likes": 0,
+        "time": "2026-07-18 15:41:43"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

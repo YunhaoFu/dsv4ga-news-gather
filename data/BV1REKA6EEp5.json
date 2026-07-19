@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1REKA6EEp5",
+  "aid": 116939309456789,
+  "title": "霓虹浪人-deepseek一锅出版本",
+  "up_name": "康康不说骚话",
+  "up_mid": 40163570,
+  "up_face": "https://i2.hdslb.com/bfs/face/23788bf9caf06ac7fa8f8b80df06bdc9a715a2c0.jpg",
+  "desc": "装载deepseek-v4-pro正式版的claude code，一段prompt生成的游戏，花费0.64元，时间30mins",
+  "duration": 96,
+  "pub_time_ts": 1784352419,
+  "pub_time": "2026-07-18 13:26:59",
+  "stats": {
+    "view": 1776,
+    "like": 64,
+    "coin": 11,
+    "favorite": 11,
+    "share": 3,
+    "reply": 27
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 13,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "牛[doge]",
+        "likes": 7,
+        "time": "2026-07-18 15:13:56"
+      },
+      {
+        "user": "中秋满月",
+        "message": "试试做个联机版",
+        "likes": 3,
+        "time": "2026-07-18 17:56:01"
+      },
+      {
+        "user": "Augenstern_-__-",
+        "message": "这风格完全可以走RPG闯关的路子[doge]",
+        "likes": 2,
+        "time": "2026-07-18 16:17:59"
+      },
+      {
+        "user": "角色c",
+        "message": "这个好强啊",
+        "likes": 2,
+        "time": "2026-07-18 15:41:22"
+      },
+      {
+        "user": "吴迪叭叭叭比",
+        "message": "直接上架，我买",
+        "likes": 2,
+        "time": "2026-07-18 16:01:43"
+      },
+      {
+        "user": "小角牛和披甲龙龟",
+        "message": "这几天看爽了[笑哭]",
+        "likes": 1,
+        "time": "2026-07-18 14:47:54"
+      },
+      {
+        "user": "锈化工程师",
+        "message": "@冬眠の松鼠_",
+        "likes": 1,
+        "time": "2026-07-18 14:50:46"
+      },
+      {
+        "user": "被限速的胶圈",
+        "message": "wow,cool！",
+        "likes": 1,
+        "time": "2026-07-18 13:40:28"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

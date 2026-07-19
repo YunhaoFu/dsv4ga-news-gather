@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1qgN66xEQk",
+  "aid": 116925854124014,
+  "title": "【东方】Deepseek-v4正式版（疑似）灰度一次生成 - 东 方 智 械 录",
+  "up_name": "飯綱九龍",
+  "up_mid": 35822724,
+  "up_face": "https://i0.hdslb.com/bfs/face/70331bca6d8369b8f256acb123146186d7435e67.jpg",
+  "desc": "作品介绍：嗯，这个智械录呢，笑，怎么说——就是那种，幻想乡里忽然冒出一堆自律机械啊、会思考的机关人偶什么的，的感觉。起因大概是从外界流入了什么“AI”技术，结果被某个闲着没事干的妖怪捡去乱搞，搞得红魔馆的钟楼开始自己报错时，神社的赛钱箱也会自动拒绝硬币了，笑。玩法嘛，还是纵版射击那套，不过弹幕会“学习”玩家的躲法，变成稍微刁难人的形状——当然也就稍微啦，毕竟我是喝多了写的设计，什么学习算法之类的，其实连我自己都没太搞懂，大概就是看起来聪明一点的弹幕吧。\n由东方红魔乡原作进行改编（\nhttps://opncd.ai/share/olnENMEC",
+  "duration": 347,
+  "pub_time_ts": 1784159100,
+  "pub_time": "2026-07-16 07:45:00",
+  "stats": {
+    "view": 24737,
+    "like": 422,
+    "coin": 30,
+    "favorite": 159,
+    "share": 264,
+    "reply": 188
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/olnENMEC"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/olnENMEC"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "墨水4号A",
+        "message": "请继续更新，这是我了解deepseek v4的唯一方式",
+        "likes": 517,
+        "time": "2026-07-16 07:47:16"
+      },
+      {
+        "user": "桥田阳",
+        "message": "眩晕瘫坐在椅子上，仿佛看到灵乌路空爆炸💥",
+        "likes": 170,
+        "time": "2026-07-16 11:09:36"
+      },
+      {
+        "user": "小男孩同志",
+        "message": "群友有给最新数据了，这命中率接近100了",
+        "likes": 108,
+        "time": "2026-07-16 10:08:53"
+      },
+      {
+        "user": "Primary_____",
+        "message": "预览版只会做史[大哭]",
+        "likes": 99,
+        "time": "2026-07-16 17:37:23"
+      },
+      {
+        "user": "小男孩同志",
+        "message": "离谱缓存，这什么黑科技，快5000倍了（已灰度的群友分享）",
+        "likes": 60,
+        "time": "2026-07-16 10:07:26"
+      },
+      {
+        "user": "账号已注销2332736",
+        "message": "到时候搞得半夜都是高峰[喜极而泣][喜极而泣]",
+        "likes": 57,
+        "time": "2026-07-16 17:04:02"
+      },
+      {
+        "user": "一般自闭男子",
+        "message": "是了好几次，开了好几次对话都是let me，为什么灰度不到我啊[笑哭]",
+        "likes": 46,
+        "time": "2026-07-16 09:36:26"
+      },
+      {
+        "user": "-Eyed-",
+        "message": "我这个月用了40亿token了，怎么还没到我😠",
+        "likes": 42,
+        "time": "2026-07-16 16:35:19"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

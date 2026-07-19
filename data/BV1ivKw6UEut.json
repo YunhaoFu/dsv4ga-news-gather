@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1ivKw6UEut",
+  "aid": 116939779284754,
+  "title": "【疑似deepseekv4正式版】ai里的贝多芬   多种音乐生成测试",
+  "up_name": "伊甸的亚托莉",
+  "up_mid": 183884156,
+  "up_face": "https://i2.hdslb.com/bfs/face/42fa24f01516bdd02cc8b21f22f37b317d04a3d5.jpg",
+  "desc": "-第1首和第6首很惊喜，其他的发挥比较稳定。\n目前测下来鲸鱼好像不会太劲的风格，大部分都比较平缓（也可能是提示词不太精确）",
+  "duration": 1115,
+  "pub_time_ts": 1784359490,
+  "pub_time": "2026-07-18 15:24:50",
+  "stats": {
+    "view": 7263,
+    "like": 167,
+    "coin": 21,
+    "favorite": 80,
+    "share": 50,
+    "reply": 74
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "是个-糊涂鬼-呀_",
+        "message": "人类至今未能理解小聋瞎DS是怎么写出来的[吃瓜]",
+        "likes": 112,
+        "time": "2026-07-18 15:58:22"
+      },
+      {
+        "user": "星云废墟",
+        "message": "什么8bit贝多芬[抠鼻]",
+        "likes": 53,
+        "time": "2026-07-18 16:51:16"
+      },
+      {
+        "user": "独在故乡亦为异客",
+        "message": "！？许愿机？！",
+        "likes": 40,
+        "time": "2026-07-18 16:14:29"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "我感觉作为BGM挺优秀的，作为完整的歌曲还差点意思，不过非多模态这样已经无敌了[doge]",
+        "likes": 37,
+        "time": "2026-07-18 16:13:06"
+      },
+      {
+        "user": "iterActor",
+        "message": "AI写不出太劲的音乐，那种音乐需要到位的混音，显然AI现在基本只会根据乐理写旋律和元素堆砌，不过做的够好了",
+        "likes": 36,
+        "time": "2026-07-18 17:49:14"
+      },
+      {
+        "user": "UPLUZ",
+        "message": "给每首音乐做专属页面这一点感觉可以用到各个音乐软件上，成本太低效果太好了",
+        "likes": 27,
+        "time": "2026-07-18 15:59:50"
+      },
+      {
+        "user": "伊甸的亚托莉",
+        "message": "平均每首一毛五",
+        "likes": 24,
+        "time": "2026-07-18 15:45:46"
+      },
+      {
+        "user": "飯綱九龍",
+        "message": "第四首怎么有东方味，甚至还有东方主旋律？[笑哭]",
+        "likes": 20,
+        "time": "2026-07-18 17:42:53"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

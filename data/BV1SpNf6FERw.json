@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1SpNf6FERw",
+  "aid": 116937262633311,
+  "title": "疑似 deepseek v4 正式版模型测试",
+  "up_name": "LikrFG",
+  "up_mid": 505727661,
+  "up_face": "https://i0.hdslb.com/bfs/face/6eb5594b17061ad96b8c77ed9a750781079aab21.jpg",
+  "desc": "五个项目的 opencode 会话依次是\nhttps://opncd.ai/share/5MEgjF59\nhttps://opncd.ai/share/FbdwXgJZ\nhttps://opncd.ai/share/TS7WEOCp\nhttps://opncd.ai/share/TLZxVOMK\nhttps://opncd.ai/share/5G7aC4GS",
+  "duration": 1106,
+  "pub_time_ts": 1784321128,
+  "pub_time": "2026-07-18 04:45:28",
+  "stats": {
+    "view": 1011,
+    "like": 49,
+    "coin": 6,
+    "favorite": 6,
+    "share": 1,
+    "reply": 9
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/5MEgjF59",
+    "https://opncd.ai/share/TS7WEOCp",
+    "https://opncd.ai/share/FbdwXgJZ",
+    "https://opncd.ai/share/5G7aC4GS",
+    "https://opncd.ai/share/TLZxVOMK"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/5MEgjF59",
+    "https://opncd.ai/share/TS7WEOCp",
+    "https://opncd.ai/share/FbdwXgJZ",
+    "https://opncd.ai/share/5G7aC4GS",
+    "https://opncd.ai/share/TLZxVOMK"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 6,
+    "top_comments": [
+      {
+        "user": "斗门不断修正公示",
+        "message": "感觉还是和别的有一些差距，灰测之间亦有高下，但是基本上相当于预览版都是大幅提升了",
+        "likes": 5,
+        "time": "2026-07-18 09:21:07"
+      },
+      {
+        "user": "Augenstern_-__-",
+        "message": "太强了，池核可以把场景和材质迭代一下，场景可以改成宏大的，水体效果太通透了，就是要那种效果[打call]，我那个感觉只是贴图一样",
+        "likes": 1,
+        "time": "2026-07-18 15:25:50"
+      },
+      {
+        "user": "AutoDove",
+        "message": "DeepSeek快出来吧",
+        "likes": 1,
+        "time": "2026-07-18 07:13:20"
+      },
+      {
+        "user": "雨露当归",
+        "message": "你的方块深空除了没降落动画，完成度很高。生物很丰富，星球上还有护卫。",
+        "likes": 0,
+        "time": "2026-07-18 14:12:06"
+      },
+      {
+        "user": "ugsgyshhfg",
+        "message": "可以测带voxy的mc吗",
+        "likes": 0,
+        "time": "2026-07-18 10:37:20"
+      },
+      {
+        "user": "夏夏夏风洒",
+        "message": "这么厉害",
+        "likes": 0,
+        "time": "2026-07-18 22:30:15"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

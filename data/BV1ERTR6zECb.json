@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1ERTR6zECb",
+  "aid": 116874129969427,
+  "title": "DeepSeek V4正式版生成的《我的世界》",
+  "up_name": "冬眠の松鼠_",
+  "up_mid": 3546711534341091,
+  "up_face": "https://i0.hdslb.com/bfs/face/bbeb8374af195a11e1deda31b364f36ed2d59a77.jpg",
+  "desc": "DeepSeek一句话生成《我的世界》",
+  "duration": 100,
+  "pub_time_ts": 1783357751,
+  "pub_time": "2026-07-07 01:09:11",
+  "stats": {
+    "view": 162869,
+    "like": 2472,
+    "coin": 79,
+    "favorite": 876,
+    "share": 1036,
+    "reply": 619
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "win小邵",
+        "message": "看完之后我的表情：",
+        "likes": 791,
+        "time": "2026-07-07 16:14:36"
+      },
+      {
+        "user": "win小邵",
+        "message": "看完之后我的表情：",
+        "likes": 791,
+        "time": "2026-07-07 16:14:36"
+      },
+      {
+        "user": "win小邵",
+        "message": "看完之后我的表情：",
+        "likes": 791,
+        "time": "2026-07-07 16:14:36"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "刚才问了室友，他说token花了0.5r",
+        "likes": 610,
+        "time": "2026-07-07 01:21:48"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "刚才问了室友，他说token花了0.5r",
+        "likes": 610,
+        "time": "2026-07-07 01:21:48"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "刚才问了室友，他说token花了0.5r",
+        "likes": 610,
+        "time": "2026-07-07 01:21:48"
+      },
+      {
+        "user": "阿_韵_",
+        "message": "没电脑，5月份手机上做的web，区块加载很不错，建造，破坏动画，非常不错，实时阴影以及，算法的云，流畅到能做一些高难度动作，比如跳搭之类的，AI未来可期",
+        "likes": 293,
+        "time": "2026-07-08 12:47:40"
+      },
+      {
+        "user": "阿_韵_",
+        "message": "没电脑，5月份手机上做的web，区块加载很不错，建造，破坏动画，非常不错，实时阴影以及，算法的云，流畅到能做一些高难度动作，比如跳搭之类的，AI未来可期",
+        "likes": 293,
+        "time": "2026-07-08 12:47:40"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

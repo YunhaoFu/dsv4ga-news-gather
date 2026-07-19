@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1MTNz6zEPi",
+  "aid": 116924126069968,
+  "title": "疑似dsv4正式版灰度-我的世界X无人深空",
+  "up_name": "飯綱九龍",
+  "up_mid": 35822724,
+  "up_face": "https://i0.hdslb.com/bfs/face/70331bca6d8369b8f256acb123146186d7435e67.jpg",
+  "desc": "随手一试发现突然有灰度，赶紧用@kdzzzds  的prompt测试了一下，结果落在别的星球会出现逆天bug. 如果抛去对话意外中断的因素，和后来发现难度太大上不了飞船开了创造模式，勉强可以算准一轮对话生成\n会话链接: https://opncd.ai/share/6SRye5Q7\n分享链接：https://ascb9.github.io/mcronghe/\n备注：本工程并不是纯dsv4正式版完成的，我好像设了个全局agent在需要识图时会调用qwen-3.6-chat",
+  "duration": 160,
+  "pub_time_ts": 1784120850,
+  "pub_time": "2026-07-15 21:07:30",
+  "stats": {
+    "view": 1886,
+    "like": 38,
+    "coin": 4,
+    "favorite": 7,
+    "share": 1,
+    "reply": 68
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/6SRye5Q7"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/6SRye5Q7"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 15,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "666，高维碎片越来越多了",
+        "likes": 26,
+        "time": "2026-07-15 21:22:38"
+      },
+      {
+        "user": "飯綱九龍",
+        "message": "@I修行者I 做出来是这样，能够移动视角释放技能",
+        "likes": 14,
+        "time": "2026-07-15 22:33:01"
+      },
+      {
+        "user": "hxtakutaku",
+        "message": "我的思维链发生了巨变，难道说？",
+        "likes": 11,
+        "time": "2026-07-15 22:09:28"
+      },
+      {
+        "user": "变成李宗伟打爆安赛龙",
+        "message": "所以到底什么时候发布[笑哭]",
+        "likes": 4,
+        "time": "2026-07-15 21:49:09"
+      },
+      {
+        "user": "kuzers",
+        "message": "deepseek正常，日常某些地方偷懒一下[doge]",
+        "likes": 3,
+        "time": "2026-07-15 21:25:58"
+      },
+      {
+        "user": "momomomomooommom",
+        "message": "up测一下三国志和维多利亚结合的游戏[星星眼]下面是 prompt\n\n【游戏开发Prompt】\n开发一款对标《维多利亚》的三国深度大战略游戏，时间线184-280年，摒弃武将数值平推模式，核心还原古代真实战争逻辑，所有军事行动受粮饷、地形、交通、政治、经济刚性约束，战争是政治经济的延伸而非核心玩法。\n \n核心准则：1.严格贴合三国兵制、粮饷标准、历史交通网络、关隘分布与政经制度；2.人口、粮食、财政、政治、军事五维系统深度联动，单变量引发连锁反应；3.胜负核心是摧毁敌方补给与统治基础，过度征伐先导致内部崩溃。\n \n核心系统：\n1.POP人口：设世家大族、地方豪强、自耕农、屯田民、世兵、手工业者",
+        "likes": 2,
+        "time": "2026-07-15 23:23:37"
+      },
+      {
+        "user": "stupid_scout",
+        "message": "这绝对是发布的前兆[doge]",
+        "likes": 1,
+        "time": "2026-07-15 23:27:49"
+      },
+      {
+        "user": "红板根",
+        "message": "赶紧测测其他的",
+        "likes": 1,
+        "time": "2026-07-15 21:21:30"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

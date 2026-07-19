@@ -1,0 +1,83 @@
+{
+  "bvid": "BV19rKV6VEFW",
+  "aid": 116930014877908,
+  "title": "DeepseekV4正式版 测试传送门（功能实现很不错！还有一些传送门问题测试）",
+  "up_name": "stupid_scout",
+  "up_mid": 517637254,
+  "up_face": "https://i1.hdslb.com/bfs/face/02df9ac2abe276a954f0cac1e24bc912deb5cc6d.jpg",
+  "desc": "@kdzzzds  传送门",
+  "duration": 113,
+  "pub_time_ts": 1784210677,
+  "pub_time": "2026-07-16 22:04:37",
+  "stats": {
+    "view": 4997,
+    "like": 99,
+    "coin": 12,
+    "favorite": 23,
+    "share": 22,
+    "reply": 47
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "_Dreemurr_逐梦",
+        "message": "核弹爆炸 震碎银河系 震惊瘫坐",
+        "likes": 39,
+        "time": "2026-07-16 22:36:40"
+      },
+      {
+        "user": "喜马拉雅的一阵风",
+        "message": "kimi k3大规模推送了",
+        "likes": 23,
+        "time": "2026-07-16 22:18:41"
+      },
+      {
+        "user": "-___-_-_-___一",
+        "message": "效果夸张",
+        "likes": 11,
+        "time": "2026-07-16 22:08:26"
+      },
+      {
+        "user": "喜马拉雅的一阵风",
+        "message": "测一测",
+        "likes": 10,
+        "time": "2026-07-16 22:22:24"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "牛逼，感谢up",
+        "likes": 8,
+        "time": "2026-07-16 22:09:38"
+      },
+      {
+        "user": "bs清洁工",
+        "message": "感觉很还原了。物理逻辑也对",
+        "likes": 5,
+        "time": "2026-07-16 22:52:48"
+      },
+      {
+        "user": "AItair_",
+        "message": "两个门嵌套，原版也做不到吧。演示里好像橙色门优先级更高？按理说进入门里会在另一个门出来，这个直接从一个门折叠了。",
+        "likes": 5,
+        "time": "2026-07-17 00:09:18"
+      },
+      {
+        "user": "墨水4号A",
+        "message": "https://b23.tv/Wdv2nmV",
+        "likes": 4,
+        "time": "2026-07-17 00:51:47"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

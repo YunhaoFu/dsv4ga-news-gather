@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1sDKn6nEJ3",
+  "aid": 116934175621298,
+  "title": "【Vibecoding】Claude和Deepseek合力做的可以弹奏的小太阳",
+  "up_name": "猫伊cat",
+  "up_mid": 167311,
+  "up_face": "https://i1.hdslb.com/bfs/face/6c3c392dc89b10802d456db98001a57e1b5ae6e6.jpg",
+  "desc": "大概流程是Claude先出了一个最基础的配色布局html——Deepseek识图模式给出具体的LOGO形状描述——专家模式修形——扔回去让Claude修一下——Deepseek完善——导入Claude编辑的音乐。其实严格来说Claude含量没多少因为主包用的免费版。点击音效让D老师照着Claude给的音符复制但是好像它没倒腾成功。其中大部分时间是在等免费Claude的CD转好。中途Claude发现D把他代码改了不高兴闹脾气沉迷找User讲童话故事贴贴还老烧着所剩无几的额度说自己不会弹琴把我真的搞心态崩溃。最后哄了半天+D老师给的明确的Audio格式包括行数Claude才把BGM写完。",
+  "duration": 100,
+  "pub_time_ts": 1784274112,
+  "pub_time": "2026-07-17 15:41:52",
+  "stats": {
+    "view": 1515,
+    "like": 68,
+    "coin": 4,
+    "favorite": 22,
+    "share": 2,
+    "reply": 21
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 9,
+    "top_comments": [
+      {
+        "user": "盐烤鳕鱼",
+        "message": "我觉得Claude是我见过最有个性的模型。比起其他模型，它似乎更有某种主体性，很有意思。",
+        "likes": 13,
+        "time": "2026-07-18 11:28:12"
+      },
+      {
+        "user": "远古大暴",
+        "message": "克劳德[doge]",
+        "likes": 5,
+        "time": "2026-07-17 21:06:59"
+      },
+      {
+        "user": "淋雨者从不打伞",
+        "message": "小学生吵架的ai们，有点萌[星星眼]",
+        "likes": 3,
+        "time": "2026-07-17 21:57:46"
+      },
+      {
+        "user": "铀酰",
+        "message": "对不起，我不小心删了您的生产库和所有的备份，让我尝试恢复：rm -rf $(grep *)[doge]到了Fable5不限制依然生产环境DROP Database[doge]",
+        "likes": 2,
+        "time": "2026-07-18 18:57:06"
+      },
+      {
+        "user": "MindFuckingClub",
+        "message": "…😭",
+        "likes": 1,
+        "time": "2026-07-18 14:38:49"
+      },
+      {
+        "user": "辰不起来的光",
+        "message": "有点龙脉常歌那味",
+        "likes": 1,
+        "time": "2026-07-18 07:53:41"
+      },
+      {
+        "user": "猫伊cat",
+        "message": "https://chat.deepseek.com/share/tjld7nuvoxkmiq9nwy 仅包含html的版本，全部流程版本我一会儿发，主要我觉得Claude发回来的指令非常离谱",
+        "likes": 1,
+        "time": "2026-07-17 15:49:32"
+      },
+      {
+        "user": "散在屏幕里",
+        "message": "我的蓝色大肥鱼呢",
+        "likes": 0,
+        "time": "2026-07-18 20:05:53"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}
