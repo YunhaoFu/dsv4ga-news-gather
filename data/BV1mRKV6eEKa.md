@@ -11,6 +11,10 @@
 
 > 坠机好几天，终于又灰度到了
 
+## 📦 项目下载链接
+
+- [https://b23.tv/BV1w4KL6aEiG](https://b23.tv/BV1w4KL6aEiG)
+
 ## 🏆 高赞评论
 
 - **kuzers** (👍117): 嘿嘿嘿，这是kimi k3的价格[doge][doge][doge]

@@ -11,6 +11,10 @@
 
 > 手残党，玩不了魂系
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg](https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg)
+
 ## 🏆 高赞评论
 
 - **七月荧惑守天心** (👍45): 感觉功能上没问题，就是敌人攻击欲望太低了，还有美术太难绷了

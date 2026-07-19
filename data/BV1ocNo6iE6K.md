@@ -7,6 +7,11 @@
 - **播放/点赞/评论**: 3488 / 131 / 36
 - **视频链接**: [B站观看](https://www.bilibili.com/video/BV1ocNo6iE6K)
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1aF-Auhba6IUrTCBpHpgukw?pwd=6666](https://pan.baidu.com/s/1aF-Auhba6IUrTCBpHpgukw?pwd=6666)
+- [https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777](https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777)
+
 ## 🏆 高赞评论
 
 - **余烬与灰风** (👍24): [笑哭]放taptap上会有人看广告和氪金的程度

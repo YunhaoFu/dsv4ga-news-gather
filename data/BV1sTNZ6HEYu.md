@@ -12,6 +12,16 @@
 > 之前拿到资格灰测了一下DeepSeekV4正式版，后来没有路由到这个模型了，昨天晚上又体验到了，所以做一期深度多方面的测试，总体性能依旧非常好。
 提示词和成果放在评论区
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/73YWjtrl)
+- [对话链接](https://opncd.ai/share/cL3VmLA1)
+
+## 📦 项目下载链接
+
+- [https://github.com/Xnmk029/light_ocr_translate/releases](https://github.com/Xnmk029/light_ocr_translate/releases)
+- [https://wwbol.lanzout.com/ibYVb3x0gv3c](https://wwbol.lanzout.com/ibYVb3x0gv3c)
+
 ## 🏆 高赞评论
 
 - **月夜下的琉璃色** (👍7): 这两天v4正式版的视觉效果真就这么大提升吗，难道真的在更新模型？

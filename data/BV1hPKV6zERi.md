@@ -11,6 +11,17 @@
 
 > 特勾八牛逼 卧槽
 
+## 📦 项目下载链接
+
+- [蓝奏云: DSv4战地游戏](https://wwbcc.lanzouq.com/b00yb93ogj)  密码: h4fa
+
+## 💬 UP主评论中的链接（置顶）
+
+- **回复** (UP主置顶评论):
+  > 下载链接进这里面
+  > https://www.bilibili.com/opus/1226030824492630041
+  - 📦 下载: https://wwbcc.lanzouq.com/b00yb93ogj
+
 ## 🏆 高赞评论
 
 - **GrotesqueG** (👍2171): [笑哭]dsv4这种无多模态硬梭美术的哥布林绿皮科技式操作真是令人震撼的同时感到费解【】

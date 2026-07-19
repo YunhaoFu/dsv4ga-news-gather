@@ -11,6 +11,10 @@
 
 > DeepSeek一句话生成《我的世界》
 
+## 📦 项目下载链接
+
+- [https://b23.tv/BV1t6Mh6RErw](https://b23.tv/BV1t6Mh6RErw)
+
 ## 🏆 高赞评论
 
 - **win小邵** (👍791): 看完之后我的表情：

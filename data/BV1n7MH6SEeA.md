@@ -11,6 +11,12 @@
 
 > 简介懒得写了，反正也没人看。想要API的可以找我室友：_MCMR
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/EYJa8Tle)
+- [对话链接](https://opncd.ai/share/XGCzXWBj)
+- [对话链接](https://opncd.ai/share/o8R56xdE)
+
 ## 🏆 高赞评论
 
 - **watching君** (👍482): 看到评论区都在和fable5做比较，我就知道DeepSeekv4正式版的含金量了[doge]

@@ -11,6 +11,14 @@
 
 > 基于strudel.cc--代码编曲宿主生成的电子音乐三首，十分适合小体量的游戏作为配乐使用
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/jHpl4a2H)
+
+## 📦 项目下载链接
+
+- [https://wwbol.lanzout.com/iryJC3xa9v2j](https://wwbol.lanzout.com/iryJC3xa9v2j)
+
 ## 🏆 高赞评论
 
 - **五年补考三年挂科** (👍31): 用乐理知识写歌，很有活人的感觉，说不定这是ai艺术另外一个方向

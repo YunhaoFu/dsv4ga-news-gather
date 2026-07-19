@@ -20,6 +20,7 @@ Code: https://github.com/cct124/HORIZON6_DEMO
 
 ## 📦 项目下载链接
 
+- [https://b23.tv/DRqFaEh](https://b23.tv/DRqFaEh)
 - [https://github.com/cct124/HORIZON6_DEMO](https://github.com/cct124/HORIZON6_DEMO)
 
 ## 🏆 高赞评论

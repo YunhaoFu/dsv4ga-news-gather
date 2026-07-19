@@ -12,6 +12,17 @@
 > 之前拿到资格灰测了一下DeepSeekV4正式版，后来没有路由到这个模型了，昨天晚上又体验到了，所以做一期深度多方面的测试，总体性能依旧非常好。
 测试项目链接：benchmark.zip - 蓝奏云
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/4ezc4hLV)
+- [对话链接](https://opncd.ai/share/Kieu5sv4)
+- [对话链接](https://opncd.ai/share/dAy1qAWq)
+- [对话链接](https://opncd.ai/share/hYax12Iw)
+
+## 📦 项目下载链接
+
+- [https://wwbol.lanzout.com/iuLmG3wvb2af](https://wwbol.lanzout.com/iuLmG3wvb2af)
+
 ## 🏆 高赞评论
 
 - **拒绝内耗左右横跳** (👍480): 今天发 ，就是梁圣，20 号发就是梁子[吃瓜]

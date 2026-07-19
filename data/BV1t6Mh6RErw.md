@@ -11,6 +11,12 @@
 
 > 还有什么想看的欢迎评论区留言
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/EYJa8Tle)
+- [对话链接](https://opncd.ai/share/XGCzXWBj)
+- [对话链接](https://opncd.ai/share/o8R56xdE)
+
 ## 🏆 高赞评论
 
 - **AndyW安迪** (👍653): 我前两天想让 AI 帮我做一个单机游戏的外挂，所有人都不给我做。ChatGPT、Claude、GLM-5.2 都不行，只有 DeepSeek 大哥愿意冒这个“道德风险”去做。

@@ -25,14 +25,16 @@
     "download": []
   },
   "all_share_links": [],
-  "all_download_links": [],
+  "all_download_links": [
+    "https://wwbol.lanzout.com/iOeUy3x62s4h"
+  ],
   "comments": {
-    "total": 17,
+    "total": 18,
     "top_comments": [
       {
         "user": "能不能_好好说话",
         "message": "我这几天一直在高强度的看DeepSeek V四正式版的灰测，我可以很笃定的说这个模型它在变强，从一开始我对他的评估是4.8opus级别，到现在绝对有堪比，甚至是超过fable5的水平了，而且他有非常强的前端想象能力，如果说心盲症是想象不出任何物体，那么这个模型就是心盲症的绝对反义词，哪怕没有多模态，它也拥有堪比甚至超过多模态模型的前端构建能力，哪怕正式版出来之后还不是多模态，那么给它挂载一个K3或者是K2.7之类的带有多模态的模型的技能，那它肯定也能完很好的完成各种前端任务。",
-        "likes": 40,
+        "likes": 41,
         "time": "2026-07-18 10:28:46"
       },
       {
@@ -78,6 +80,16 @@
         "time": "2026-07-18 21:44:04"
       }
     ],
-    "up_replies_with_links": []
+    "up_replies_with_links": [
+      {
+        "reply_to": "回复 阿峰不坏",
+        "message": "可以的，https://wwbol.lanzout.com/iOeUy3x62s4h",
+        "share_links": [],
+        "download_links": [
+          "https://wwbol.lanzout.com/iOeUy3x62s4h"
+        ],
+        "time": "2026-07-18 16:00:30"
+      }
+    ]
   }
 }

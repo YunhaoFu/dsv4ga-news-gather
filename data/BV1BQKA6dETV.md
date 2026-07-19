@@ -7,6 +7,10 @@
 - **播放/点赞/评论**: 14742 / 374 / 88
 - **视频链接**: [B站观看](https://www.bilibili.com/video/BV1BQKA6dETV)
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6](https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6)
+
 ## 🏆 高赞评论
 
 - **啊呜么么么么么** (👍362): 大伙已经在椅子上瘫好了，就是不知道原子弹到底什么时候炸

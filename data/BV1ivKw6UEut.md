@@ -12,6 +12,10 @@
 > -第1首和第6首很惊喜，其他的发挥比较稳定。
 目前测下来鲸鱼好像不会太劲的风格，大部分都比较平缓（也可能是提示词不太精确）
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w](https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w)
+
 ## 🏆 高赞评论
 
 - **是个-糊涂鬼-呀_** (👍112): 人类至今未能理解小聋瞎DS是怎么写出来的[吃瓜]

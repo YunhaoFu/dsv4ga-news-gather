@@ -67,8 +67,13 @@ DOWNLOAD_PATTERNS = [
     r'https?://github\.com/[^\s]+',
     r'https?://gitee\.com/[^\s]+',
     r'https?://pan\.baidu\.com/[^\s]+',
+    r'https?://pan\.quark\.cn/[^\s]+',
+    r'https?://wwbcc\.lanzou[a-z\.]+/[^\s]+',
+    r'https?://[^\s]+\.lanzou[a-z\.]+/[^\s]+',
     r'https?://[^\s]+\.zip',
     r'https?://[^\s]+\.tar\.gz',
+    r'https?://www\.bilibili\.com/opus/[^\s]+',
+    r'https?://b23\.tv/[A-Za-z0-9]+',
 ]
 
 def extract_urls(text: str, patterns: list) -> list:
@@ -144,13 +149,28 @@ def get_video_info(bvid_or_url: str) -> dict:
 
 # ---------- 评论提取 ----------
 
+def _collect_up_reply(msg: str, reply_to: str, ctime: int, up_mid: int) -> dict:
+    """从UP主的一条留言中提取链接，返回记录或None"""
+    share_urls = extract_urls(msg, SHARE_PATTERNS)
+    dl_urls = extract_urls(msg, DOWNLOAD_PATTERNS)
+    if share_urls or dl_urls:
+        return {
+            "reply_to": reply_to,
+            "message": msg,
+            "share_links": share_urls,
+            "download_links": dl_urls,
+            "time": datetime.fromtimestamp(ctime, tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
+        }
+    return None
+
 def get_comments(aid: int, up_mid: int, max_pages: int = 5) -> dict:
     """
-    获取视频评论，重点关注UP主的回复
+    获取视频评论，提取UP主本人发的所有留言中的链接
     返回: { top_comments: [], up_replies_with_links: [] }
     """
     all_replies = []
     up_replies_with_links = []
+    seen_msgs = set()  # 去重
 
     for pn in range(1, max_pages + 1):
         params = sign_params({
@@ -162,7 +182,19 @@ def get_comments(aid: int, up_mid: int, max_pages: int = 5) -> dict:
             cdata = r.json()
             if cdata.get('code') != 0:
                 break
-            replies = cdata['data'].get('replies', [])
+            data = cdata['data']
+
+            # ☆ 关键修复: 检查置顶评论 (top_replies)
+            for t in data.get('top_replies') or []:
+                if int(t['member']['mid']) == up_mid:
+                    msg = t['content']['message'].strip()
+                    if msg not in seen_msgs:
+                        seen_msgs.add(msg)
+                        rec = _collect_up_reply(msg, '(UP主置顶评论)', t['ctime'], up_mid)
+                        if rec:
+                            up_replies_with_links.append(rec)
+
+            replies = data.get('replies', [])
             if not replies:
                 break
             all_replies.extend(replies)
@@ -171,36 +203,26 @@ def get_comments(aid: int, up_mid: int, max_pages: int = 5) -> dict:
         except Exception:
             break
 
-    # 分析评论
+    # 分析评论列表中的UP主留言
     for r in all_replies:
-        # 检查UP主的子回复
-        for sub in r.get('replies') or []:
-            if sub['member']['mid'] == up_mid:
-                msg = sub['content']['message']
-                share_urls = extract_urls(msg, SHARE_PATTERNS)
-                dl_urls = extract_urls(msg, DOWNLOAD_PATTERNS)
-                if share_urls or dl_urls:
-                    up_replies_with_links.append({
-                        "reply_to": r['member']['uname'],
-                        "message": msg,
-                        "share_links": share_urls,
-                        "download_links": dl_urls,
-                        "time": datetime.fromtimestamp(sub['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
-                    })
+        # UP主自己发的顶级评论
+        if int(r['member']['mid']) == up_mid:
+            msg = r['content']['message'].strip()
+            if msg not in seen_msgs:
+                seen_msgs.add(msg)
+                rec = _collect_up_reply(msg, '(UP主评论)', r['ctime'], up_mid)
+                if rec:
+                    up_replies_with_links.append(rec)
 
-        # 检查UP主自己发的顶级评论
-        if r['member']['mid'] == up_mid:
-            msg = r['content']['message']
-            share_urls = extract_urls(msg, SHARE_PATTERNS)
-            dl_urls = extract_urls(msg, DOWNLOAD_PATTERNS)
-            if share_urls or dl_urls:
-                up_replies_with_links.append({
-                    "reply_to": "(UP主评论)",
-                    "message": msg,
-                    "share_links": share_urls,
-                    "download_links": dl_urls,
-                    "time": datetime.fromtimestamp(r['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
-                })
+        # UP主在别人评论下的子回复
+        for sub in r.get('replies') or []:
+            if int(sub['member']['mid']) == up_mid:
+                msg = sub['content']['message'].strip()
+                if msg not in seen_msgs:
+                    seen_msgs.add(msg)
+                    rec = _collect_up_reply(msg, f"回复 {r['member']['uname']}", sub['ctime'], up_mid)
+                    if rec:
+                        up_replies_with_links.append(rec)
 
     # 取高赞评论
     top_comments = []

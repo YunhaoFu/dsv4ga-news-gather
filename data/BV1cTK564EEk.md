@@ -17,6 +17,10 @@ https://opncd.ai/share/VWXNvxEm
 
 - [对话链接](https://opncd.ai/share/VWXNvxEm)
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96](https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96)
+
 ## 🏆 高赞评论
 
 - **万能灵药** (👍216): 梁叔叔：想玩什么自己做[doge]

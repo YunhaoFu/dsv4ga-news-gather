@@ -7,6 +7,10 @@
 - **播放/点赞/评论**: 12417 / 308 / 157
 - **视频链接**: [B站观看](https://www.bilibili.com/video/BV1zQKN6eEvG)
 
+## 📦 项目下载链接
+
+- [https://b23.tv/BV1xFKN6gEcw](https://b23.tv/BV1xFKN6gEcw)
+
 ## 🏆 高赞评论
 
 - **飯綱九龍** (👍148): md梁子到底还在等什么[良辰共此曲动态表情包_生气]

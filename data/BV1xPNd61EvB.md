@@ -7,6 +7,10 @@
 - **播放/点赞/评论**: 9380 / 218 / 62
 - **视频链接**: [B站观看](https://www.bilibili.com/video/BV1xPNd61EvB)
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/FUljsPS9)
+
 ## 🏆 高赞评论
 
 - **-温醨-** (👍91): 美术转程序王朝了

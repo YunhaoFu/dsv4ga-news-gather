@@ -16,6 +16,10 @@ https://opncd.ai/share/pFST3QQf
 
 - [对话链接](https://opncd.ai/share/pFST3QQf)
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1aMwR6l68P93Uw3x7xnQrVg?pwd=1234](https://pan.baidu.com/s/1aMwR6l68P93Uw3x7xnQrVg?pwd=1234)
+
 ## 🏆 高赞评论
 
 - **UPLUZ** (👍27): 还记得前几天路上车辆疯狂转圈的那一版GTA么，这差距。。

@@ -13,6 +13,10 @@
 
 地址：https://hotsteel2901.github.io/WebGames/DJ_music.html
 
+## 📦 项目下载链接
+
+- [https://h0t5tee1.lanzouu.com/b0188h9uej](https://h0t5tee1.lanzouu.com/b0188h9uej)
+
 ## 🏆 高赞评论
 
 - **难以忘记的存在** (👍9): 这不比网易云日推强？

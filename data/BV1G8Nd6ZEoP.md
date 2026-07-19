@@ -32,6 +32,7 @@ https://opncd.ai/share/tstBHDlJ
 
 ## 🔗 DeepSeek 对话共享链接
 
+- [对话链接](https://opncd.ai/share/cwp0NgU3)
 - [对话链接](https://opncd.ai/share/tstBHDlJ)
 
 ## 🏆 高赞评论

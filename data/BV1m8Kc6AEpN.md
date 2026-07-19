@@ -12,6 +12,10 @@
 > 下载链接在这里面：
 https://www.bilibili.com/opus/1226030824492630041
 
+## 📦 项目下载链接
+
+- [https://www.bilibili.com/opus/1226030824492630041](https://www.bilibili.com/opus/1226030824492630041)
+
 ## 🏆 高赞评论
 
 - **能不能_好好说话** (👍91): 可想而知， DeepSeek出正式版后，会有大批天才程序员横空出世

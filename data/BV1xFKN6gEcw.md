@@ -11,6 +11,14 @@
 
 > 一轮对话 oneshot直出 上一次对话一半的时候路由到老模型了，这次重测，绝对的顶级水准
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/82S3b6Bl)
+
+## 📦 项目下载链接
+
+- [https://wwbol.lanzout.com/iHkcp3x6skgh](https://wwbol.lanzout.com/iHkcp3x6skgh)
+
 ## 🏆 高赞评论
 
 - **我的游戏之旅** (👍494): 都快二十号了还不发布[笑哭]

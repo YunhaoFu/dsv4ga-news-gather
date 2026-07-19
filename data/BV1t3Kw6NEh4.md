@@ -15,6 +15,10 @@
 
 - [对话链接](https://opncd.ai/share/HxZDUO3z)
 
+## 📦 项目下载链接
+
+- [https://b23.tv/BV116KA6PEc1](https://b23.tv/BV116KA6PEc1)
+
 ## 🏆 高赞评论
 
 - **kuzers** (👍100): 感觉这两天疑似有向许愿机转变[热]

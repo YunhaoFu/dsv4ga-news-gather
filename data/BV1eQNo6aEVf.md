@@ -11,6 +11,11 @@
 
 > 可能是灰测路由，请谨慎观看
 
+## 📦 项目下载链接
+
+- [https://wwbpj.lanzouw.com/iNDdd3x6v04d](https://wwbpj.lanzouw.com/iNDdd3x6v04d)
+- [https://wwbpj.lanzouw.com/ib4p23x6up1e](https://wwbpj.lanzouw.com/ib4p23x6up1e)
+
 ## 🏆 高赞评论
 
 - **盖_九_幽** (👍50): 鲸正恩！再带我们小鲸子冲一次吧[笑哭]我不想续费kimi了

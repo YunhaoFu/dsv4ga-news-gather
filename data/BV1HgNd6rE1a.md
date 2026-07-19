@@ -17,6 +17,10 @@ https://opncd.ai/share/Mvfs0rED
 
 - [对话链接](https://opncd.ai/share/Mvfs0rED)
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak](https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak)
+
 ## 🏆 高赞评论
 
 - **Delight-linger** (👍248): 我真的会因为DEEPSEEK一天震惊一次

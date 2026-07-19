@@ -14,8 +14,12 @@
 
 ## 🔗 DeepSeek 对话共享链接
 
-- [对话链接](https://opncd.ai/share/zV6Rvj7A)
 - [对话链接](https://opncd.ai/share/4mkZ7ciu)
+- [对话链接](https://opncd.ai/share/zV6Rvj7A)
+
+## 📦 项目下载链接
+
+- [https://b23.tv/BV18KNz6gEJD](https://b23.tv/BV18KNz6gEJD)
 
 ## 🏆 高赞评论
 

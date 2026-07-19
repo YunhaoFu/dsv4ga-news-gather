@@ -17,6 +17,10 @@ https://opncd.ai/share/x13ODD7j
 
 - [对话链接](https://opncd.ai/share/x13ODD7j)
 
+## 📦 项目下载链接
+
+- [https://b23.tv/WDrRrwW](https://b23.tv/WDrRrwW)
+
 ## 🏆 高赞评论
 
 - **冬眠の松鼠_** (👍83): 感觉很无敌，只求梁圣不要降智[吃瓜]

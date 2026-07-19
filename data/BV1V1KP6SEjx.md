@@ -19,6 +19,13 @@ AI实用工具看下面视频👇：
 4、ChatBox+烟神殿AI：国内直连、聊天生图全能：https://b23.tv/isZKf88
 有企业高并发API需求联系我~
 
+## 📦 项目下载链接
+
+- [https://b23.tv/3KqJAQE](https://b23.tv/3KqJAQE)
+- [https://b23.tv/gKFBtE9](https://b23.tv/gKFBtE9)
+- [https://b23.tv/isZKf88](https://b23.tv/isZKf88)
+- [https://b23.tv/tNO1N68](https://b23.tv/tNO1N68)
+
 ## 🏆 高赞评论
 
 - **哈基米德Ai** (👍2): 又是 ai 文。Claude 3.5 gpt4.6

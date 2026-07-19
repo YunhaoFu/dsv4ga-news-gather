@@ -11,6 +11,17 @@
 
 > 这次的游戏效果不及预期，凑合着看吧
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/EYJa8Tle)
+- [对话链接](https://opncd.ai/share/XGCzXWBj)
+- [对话链接](https://opncd.ai/share/o8R56xdE)
+
+## 📦 项目下载链接
+
+- [https://b23.tv/BV1GyMj6dE4Q](https://b23.tv/BV1GyMj6dE4Q)
+- [https://b23.tv/BV1t6Mh6RErw](https://b23.tv/BV1t6Mh6RErw)
+
 ## 🏆 高赞评论
 
 - **独在故乡亦为异客** (👍181): 所谓的 V4 灰测消息在不同平台都见过不少，给我的感觉就是有一小部分可能是真灰测，剩下的基本都是非高峰期抽到了没怎降质的 V4 Pro Preview[怪我咯]

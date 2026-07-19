@@ -12,6 +12,12 @@
 > 节奏光剑玩的太菜了，大伙都没听爽，把音乐让D老师单独提出来了，还做了适配的页面效果，之前的像素鸟音乐也新加了动效，想体验的可以去试试看。
 http://askhow.top/games/游戏音乐厅.html
 
+## 📦 项目下载链接
+
+- [https://b23.tv/BV11oKV6AEMk](https://b23.tv/BV11oKV6AEMk)
+- [https://b23.tv/BV1SMKw6TEPa](https://b23.tv/BV1SMKw6TEPa)
+- [https://b23.tv/BV1VWKj6WEZE](https://b23.tv/BV1VWKj6WEZE)
+
 ## 🏆 高赞评论
 
 - **MinecraftNBDK** (👍45): 唯一的缺点是背景的鸟开无敌了，撞柱子不死[doge]

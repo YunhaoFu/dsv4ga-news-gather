@@ -11,6 +11,10 @@
 
 > 使用deepseek v4正式版历时两天终于完成。一千颗星球数百个星系，可以无缝抵达和登陆。
 
+## 📦 项目下载链接
+
+- [https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw](https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw)
+
 ## 🏆 高赞评论
 
 - **黑岩的玛瑙** (👍57): 不不不，首发星空的我无疑是愤怒的

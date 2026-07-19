@@ -29,7 +29,10 @@
   "all_share_links": [
     "https://opncd.ai/share/7LTaViWX"
   ],
-  "all_download_links": [],
+  "all_download_links": [
+    "https://b23.tv/BV1WrN66NEgD",
+    "https://github.com/myYangyunfan/makerwhale"
+  ],
   "comments": {
     "total": 19,
     "top_comments": [
@@ -42,25 +45,25 @@
       {
         "user": "远雷k",
         "message": "发射键旁边这个唐诗🚀emoji也太deepseek了[笑哭]",
-        "likes": 213,
+        "likes": 217,
         "time": "2026-07-15 22:51:36"
       },
       {
         "user": "NEvance",
         "message": "二十年前我有这ai是不是可以在4399横着走",
-        "likes": 205,
+        "likes": 209,
         "time": "2026-07-16 12:12:28"
       },
       {
         "user": "冬眠の松鼠_",
         "message": "所有的高维碎片，全部复活吧[doge]",
-        "likes": 139,
+        "likes": 141,
         "time": "2026-07-15 22:42:04"
       },
       {
         "user": "桦枫秋",
         "message": "正式版上线第一天服务器就要核弹爆炸了[doge]",
-        "likes": 131,
+        "likes": 132,
         "time": "2026-07-16 02:20:49"
       },
       {
@@ -82,6 +85,25 @@
         "time": "2026-07-15 22:42:28"
       }
     ],
-    "up_replies_with_links": []
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "页面:https://myYangyunfan.github.io/makerwhale\n仓库https://github.com/myYangyunfan/makerwhale\n大家喜欢的可以给我点个星星哦\n我把目前用deepseek正式版做的全部都上传上去了\n还可以进行社区贡献\n对话链接在简介，三轮生成，有没有人挑战一下软登陆月球？[星星眼][星星眼]",
+        "share_links": [],
+        "download_links": [
+          "https://github.com/myYangyunfan/makerwhale"
+        ],
+        "time": "2026-07-15 23:36:45"
+      },
+      {
+        "reply_to": "(UP主评论)",
+        "message": "新视频https://b23.tv/BV1WrN66NEgD \n一句话安卓实用软件系列[打call][打call]",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/BV1WrN66NEgD"
+        ],
+        "time": "2026-07-16 03:08:45"
+      }
+    ]
   }
 }

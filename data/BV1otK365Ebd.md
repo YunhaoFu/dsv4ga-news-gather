@@ -11,6 +11,10 @@
 
 > -
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/ynexRiyf)
+
 ## 🏆 高赞评论
 
 - **冬眠の松鼠_** (👍12): [doge]

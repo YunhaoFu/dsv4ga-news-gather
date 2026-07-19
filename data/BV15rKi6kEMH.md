@@ -7,6 +7,14 @@
 - **播放/点赞/评论**: 28622 / 483 / 444
 - **视频链接**: [B站观看](https://www.bilibili.com/video/BV15rKi6kEMH)
 
+## 🔗 DeepSeek 对话共享链接
+
+- [对话链接](https://opncd.ai/share/9ucTvNUw)
+
+## 📦 项目下载链接
+
+- [夸克网盘: SW_Reducer.zip](https://pan.quark.cn/s/af82a69b303a?pwd=2Ywq)  提取码: 2Ywq
+
 ## 📝 视频简介
 
 > -
