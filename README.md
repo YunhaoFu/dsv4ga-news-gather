@@ -272,6 +272,16 @@
 
 ---
 
+## 🔧 解析工具
+
+> 由 UP 主 [离散性好色](https://space.bilibili.com/3546637284650581) 提供
+
+[**https://op.ovo.re/**](https://op.ovo.re/) — 一个在线解析工具，可以尝试预览大部分 one-shot 生成的代码/游戏效果。
+
+将 opncd.ai 共享链接或下载的代码文件粘贴进去，即可在浏览器中直接运行预览，无需本地搭建环境。
+
+---
+
 ## 🔗 共享对话链接
 
 共 **61** 个共享链接（含 opncd.ai / chat.deepseek.com）：
@@ -401,3 +411,46 @@
 - [https://b23.tv/BV1xFKN6gEcw](https://b23.tv/BV1xFKN6gEcw) — UPLUZ「【疑似DeepSeek正式版】灾害模拟，比前几天看到的又进化了」
 
 ---
+
+## 🛠 项目结构
+
+```
+dsv4ga-news-gather/
+├── README.md                 # 本文件
+├── .gitignore
+├── scripts/
+│   └── bilibili_extractor.py # B站视频信息提取脚本 (WBI签名)
+├── data/                     # 视频数据
+│   ├── BV*.json              # 各视频详细信息
+│   └── BV*.md                # 各视频可读报告
+```
+
+## 📋 使用方法
+
+### 提取新视频
+
+```bash
+python3 scripts/bilibili_extractor.py <BVID_or_b23_url> --output ./data
+```
+
+### 批量提取
+
+```bash
+# 从BVID列表批量提取
+python3 scripts/bilibili_extractor.py --batch bvids.txt --output ./data
+```
+
+### 重新扫描UP主空间
+
+```bash
+# 使用 extractor 的 up-space 模式
+python3 scripts/bilibili_extractor.py --up-space <UID> --output ./data
+```
+
+---
+
+## ⚠️ 说明
+
+1. **共享链接**主要使用 [opncd.ai](https://opncd.ai) 平台（非DeepSeek官方聊天链接），少量为 chat.deepseek.com 共享
+2. 数据来源：Bilibili API (WBI签名)
+3. 下载链接包括网盘（百度/夸克/蓝奏云）、代码仓库（GitHub/Gitee）、B站动态页（opus）等
