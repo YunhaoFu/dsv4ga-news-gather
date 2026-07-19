@@ -54,6 +54,26 @@ HEADERS = {
     'Referer': 'https://www.bilibili.com/'
 }
 
+# ---------- 标题校验 ----------
+
+def validate_title(title: str) -> tuple:
+    """
+    校验视频标题是否符合 DeepSeek V4 灰度测试/正式版 主题。
+    规则: 标题必须包含 "deepseek" (不区分大小写) 且包含 "灰" 或 "正式"。
+    返回: (是否通过, 原因)
+    """
+    tl = title.lower()
+    has_deepseek = 'deepseek' in tl
+    has_gray = '灰' in title
+    has_official = '正式' in title
+
+    if not has_deepseek:
+        return False, f'标题不含 "DeepSeek" (不区分大小写): "{title[:50]}..."'
+    if not (has_gray or has_official):
+        return False, f'标题不含 "灰" 或 "正式": "{title[:50]}..."'
+    return True, '通过'
+
+
 # ---------- 链接模式 ----------
 # DeepSeek共享对话链接 (opncd.ai 或 chat.deepseek.com/share)
 SHARE_PATTERNS = [
@@ -257,6 +277,12 @@ def extract_video(bvid_or_url: str, max_comment_pages: int = 3) -> dict:
     print(f"  标题: {info['title']}")
     print(f"  UP主: {info['up_name']}")
     print(f"  发布时间: {info['pub_time']}")
+
+    # 标题校验 - 拒绝非灰测视频
+    ok, reason = validate_title(info['title'])
+    if not ok:
+        print(f"  ❌ [拒绝] {reason}")
+        return {"error": f"标题不符合灰测主题: {reason}", "bvid": info.get('bvid'), "title": info['title']}
 
     # 获取评论
     print(f"  [提取中] 正在获取评论...")
