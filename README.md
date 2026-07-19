@@ -3,7 +3,7 @@
 > **DeepSeek V4 正式版/灰度测试** 哔哩哔哩视频信息汇集
 > 时间范围: 2026-07-06 ~ 2026-07-19  |  最后更新: 2026-07-19 20:00
 
-`📹 灰测视频 130`　`👤 UP主 60`　`🔗 共享链接 61`　`📦 下载链接 46`
+`📹 灰测视频 126`　`👤 UP主 56`　`🔗 共享链接 61`　`📦 下载链接 46`
 
 ---
 
@@ -18,11 +18,11 @@
 | 07-11 | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | **1** |
 | 07-13 | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | **1** |
 | 07-14 | ███░░░░░░░░░░░░░░░░░░░░░░░░░░░ | **4** |
-| 07-15 | ████░░░░░░░░░░░░░░░░░░░░░░░░░░ | **6** |
-| 07-16 | █████████████████░░░░░░░░░░░░░ | **22** |
-| 07-17 | ██████████████████████░░░░░░░░ | **28** |
-| 07-18 | ██████████████████████████████ | **38** |
-| 07-19 | ██████████████████░░░░░░░░░░░░ | **23** |
+| 07-15 | █████░░░░░░░░░░░░░░░░░░░░░░░░░ | **6** |
+| 07-16 | █████████████████░░░░░░░░░░░░░ | **21** |
+| 07-17 | ██████████████████████░░░░░░░░ | **27** |
+| 07-18 | ██████████████████████████████ | **36** |
+| 07-19 | ███████████████████░░░░░░░░░░░ | **23** |
 
 ---
 
@@ -59,37 +59,33 @@
 | 27 | [月隐隐约](https://space.bilibili.com/49876638) | 1 | - | - |
 | 28 | [-_一-_一-](https://space.bilibili.com/100179119) | 1 | - | - |
 | 29 | [不可以包含特殊字符](https://space.bilibili.com/386749948) | 1 | - | - |
-| 30 | [吧必须徐112](https://space.bilibili.com/3690991617837662) | 1 | - | - |
-| 31 | [炽热的钢铁](https://space.bilibili.com/687935502) | 1 | - | 1📦 |
-| 32 | [没有设置一](https://space.bilibili.com/325659305) | 1 | - | - |
-| 33 | [宇智波华人](https://space.bilibili.com/1170895619) | 1 | - | - |
-| 34 | [浪迹天涯人free](https://space.bilibili.com/487326937) | 1 | - | - |
-| 35 | [e4glet](https://space.bilibili.com/335577923) | 1 | - | 1📦 |
-| 36 | [杠精MrS](https://space.bilibili.com/1148592466) | 1 | - | - |
-| 37 | [2258ppq](https://space.bilibili.com/1019564727) | 1 | - | - |
-| 38 | [作手阿九](https://space.bilibili.com/86618635) | 1 | - | - |
-| 39 | [Ai产品小丁](https://space.bilibili.com/228172675) | 1 | - | - |
-| 40 | [紫巅](https://space.bilibili.com/522832632) | 1 | - | - |
-| 41 | [康康不说骚话](https://space.bilibili.com/40163570) | 1 | - | - |
-| 42 | [DaVinci-2nd](https://space.bilibili.com/432070384) | 1 | - | - |
-| 43 | [TwoShenMengxi](https://space.bilibili.com/281098949) | 1 | - | - |
-| 44 | [果汁盒Summer](https://space.bilibili.com/382250095) | 1 | - | - |
-| 45 | [离梦aajjkk](https://space.bilibili.com/3493110560590178) | 1 | - | 2📦 |
-| 46 | [硅谷神奇](https://space.bilibili.com/7823885) | 1 | - | - |
-| 47 | [伊甸的亚托莉](https://space.bilibili.com/183884156) | 1 | - | 1📦 |
-| 48 | [山头小妖](https://space.bilibili.com/20429773) | 1 | - | - |
-| 49 | [小鲤玩游戏_](https://space.bilibili.com/3691001367497322) | 1 | - | - |
-| 50 | [爱摸鱼的月萌](https://space.bilibili.com/153950464) | 1 | - | - |
-| 51 | [Qilin1132](https://space.bilibili.com/517065285) | 1 | - | - |
-| 52 | [咖喱鱼](https://space.bilibili.com/489408359) | 1 | - | - |
-| 53 | [帅气的丝庐海椮潔](https://space.bilibili.com/27680606) | 1 | - | 1📦 |
-| 54 | [添星_tianxing](https://space.bilibili.com/3706985962801907) | 1 | - | 2📦 |
-| 55 | [鱼村长233](https://space.bilibili.com/21097673) | 1 | - | - |
-| 56 | [赤麟方阵2号](https://space.bilibili.com/3546602044131675) | 1 | - | - |
-| 57 | [爱尔奎德的死徒](https://space.bilibili.com/758650) | 1 | - | - |
-| 58 | [三十丁尼](https://space.bilibili.com/2016784174) | 1 | - | - |
-| 59 | [进化中的阿陈](https://space.bilibili.com/2070038273) | 1 | - | - |
-| 60 | [探归者夕迁](https://space.bilibili.com/1180677792) | 1 | - | - |
+| 30 | [炽热的钢铁](https://space.bilibili.com/687935502) | 1 | - | 1📦 |
+| 31 | [宇智波华人](https://space.bilibili.com/1170895619) | 1 | - | - |
+| 32 | [浪迹天涯人free](https://space.bilibili.com/487326937) | 1 | - | - |
+| 33 | [e4glet](https://space.bilibili.com/335577923) | 1 | - | 1📦 |
+| 34 | [杠精MrS](https://space.bilibili.com/1148592466) | 1 | - | - |
+| 35 | [2258ppq](https://space.bilibili.com/1019564727) | 1 | - | - |
+| 36 | [作手阿九](https://space.bilibili.com/86618635) | 1 | - | - |
+| 37 | [Ai产品小丁](https://space.bilibili.com/228172675) | 1 | - | - |
+| 38 | [紫巅](https://space.bilibili.com/522832632) | 1 | - | - |
+| 39 | [康康不说骚话](https://space.bilibili.com/40163570) | 1 | - | - |
+| 40 | [DaVinci-2nd](https://space.bilibili.com/432070384) | 1 | - | - |
+| 41 | [TwoShenMengxi](https://space.bilibili.com/281098949) | 1 | - | - |
+| 42 | [果汁盒Summer](https://space.bilibili.com/382250095) | 1 | - | - |
+| 43 | [离梦aajjkk](https://space.bilibili.com/3493110560590178) | 1 | - | 2📦 |
+| 44 | [伊甸的亚托莉](https://space.bilibili.com/183884156) | 1 | - | 1📦 |
+| 45 | [山头小妖](https://space.bilibili.com/20429773) | 1 | - | - |
+| 46 | [小鲤玩游戏_](https://space.bilibili.com/3691001367497322) | 1 | - | - |
+| 47 | [Qilin1132](https://space.bilibili.com/517065285) | 1 | - | - |
+| 48 | [咖喱鱼](https://space.bilibili.com/489408359) | 1 | - | - |
+| 49 | [帅气的丝庐海椮潔](https://space.bilibili.com/27680606) | 1 | - | 1📦 |
+| 50 | [添星_tianxing](https://space.bilibili.com/3706985962801907) | 1 | - | 2📦 |
+| 51 | [鱼村长233](https://space.bilibili.com/21097673) | 1 | - | - |
+| 52 | [赤麟方阵2号](https://space.bilibili.com/3546602044131675) | 1 | - | - |
+| 53 | [爱尔奎德的死徒](https://space.bilibili.com/758650) | 1 | - | - |
+| 54 | [三十丁尼](https://space.bilibili.com/2016784174) | 1 | - | - |
+| 55 | [进化中的阿陈](https://space.bilibili.com/2070038273) | 1 | - | - |
+| 56 | [探归者夕迁](https://space.bilibili.com/1180677792) | 1 | - | - |
 
 ---
 
@@ -130,105 +126,101 @@
 | 29 | 07-18 21:40 | [cacl2_lhg](https://space.bilibili.com/486071964) | [🔗 DeepSeek V4 正式版灰度测试制作的我的世界版马车(含多种不同赛道)](https://www.bilibili.com/video/BV1WbKK6gEeU) |
 | 30 | 07-18 21:18 | [宇智波华人](https://space.bilibili.com/1170895619) | [用deepseek做的小游戏，三国斗飞机！！！](https://www.bilibili.com/video/BV1C6KA6PEQR) |
 | 31 | 07-18 21:01 | [梦回0](https://space.bilibili.com/238343565) | [📦 dsv4正式版还原《星空Starfield》1000颗星球可无缝起降，陶德你的梦想deepseek帮你实现了！](https://www.bilibili.com/video/BV1wyKA6aErM) |
-| 32 | 07-18 20:47 | [爱摸鱼的月萌](https://space.bilibili.com/153950464) | [【中配】Anthropic 发展遇冷｜Kimi K3.1、Grok 4.6、DeepSeek v4 正式版、美国政府 Gold Eagle 模型，还有机器人综合](https://www.bilibili.com/video/BV1maKA6zEZL) |
-| 33 | 07-18 19:44 | [赤麟方阵2号](https://space.bilibili.com/3546602044131675) | [deepseek灰度测试，地球防卫军试玩](https://www.bilibili.com/video/BV1qRKA69EgZ) |
-| 34 | 07-18 19:35 | [bili_3493108501187431](https://space.bilibili.com/3493108501187431) | [📦 deepseekv4正式版生成的战争雷霆优化版](https://www.bilibili.com/video/BV1BQKA6dETV) |
-| 35 | 07-18 19:23 | [硅谷神奇](https://space.bilibili.com/7823885) | [Anthropic的变故……Kimi K3.1、Grok 4.6、DeepSeek v4正式版、美国政府“金鹰”计划，以及机器人综合格斗！](https://www.bilibili.com/video/BV1ioKA6pEvH) |
-| 36 | 07-18 18:54 | [山头小妖](https://space.bilibili.com/20429773) | [用deepseek，一天开发游戏的进度（新游戏开发中：末日堡垒对抗）](https://www.bilibili.com/video/BV1jiKP6dEmh) |
-| 37 | 07-18 18:50 | [Aki_2519](https://space.bilibili.com/1086907113) | [🔗 [疑似Deepseek v4正式版]类Teardown游戏生成](https://www.bilibili.com/video/BV1RBKP6pEM5) |
-| 38 | 07-18 18:02 | [UPLUZ](https://space.bilibili.com/4926822) | [📦 【疑似DeepSeek正式版】这才是真正的音乐.jpg②](https://www.bilibili.com/video/BV1TRKP6CEnW) |
-| 39 | 07-18 17:50 | [紫巅](https://space.bilibili.com/522832632) | [（灰测）DeepSeek正式版一次生成重生细胞](https://www.bilibili.com/video/BV1PcKN6zEUn) |
-| 40 | 07-18 17:35 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 双叉臂悬挂测试后续 没有人可以诋毁V4正式版](https://www.bilibili.com/video/BV1xFKN6gEcw) |
-| 41 | 07-18 16:46 | [TwoShenMengxi](https://space.bilibili.com/281098949) | [deepseek正式版无人深空X我的世界（目前已坠机）](https://www.bilibili.com/video/BV1aFKw6kExR) |
-| 42 | 07-18 16:35 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 【dsv4正式版】用Godot与C#一句话复刻[网吧模拟器]游戏](https://www.bilibili.com/video/BV1t3Kw6NEh4) |
-| 43 | 07-18 16:35 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】震惊瘫坐！节奏光剑都被他搞出来了！](https://www.bilibili.com/video/BV1SMKw6TEPa) |
-| 44 | 07-18 16:13 | [杠精MrS](https://space.bilibili.com/1148592466) | [deepseekv4pro  max疑似灰度正式版，一句话生成合金弹头，引擎也是自己写的无敌了](https://www.bilibili.com/video/BV1FmKc6QE3J) |
-| 45 | 07-18 16:11 | [炽热的钢铁](https://space.bilibili.com/687935502) | [📦 疑似灰度到了deepseek-v4-pro正式版！只用一句话让大肥鱼手搓了5首电音！](https://www.bilibili.com/video/BV19oKc6yEaM) |
-| 46 | 07-18 16:01 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek V4 正式版 测试](https://www.bilibili.com/video/BV1afKc6VEdE) |
-| 47 | 07-18 15:56 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 ds灰度  超视距8192格MC 1轮出+2轮修bug优化](https://www.bilibili.com/video/BV1i9Kc62EeM) |
-| 48 | 07-18 15:53 | [雨下冰梧桐](https://space.bilibili.com/3493137009871493) | [请让我真诚的说DEEPSEEK V4 灰度测试正式版，很出色，很厉害，很优秀，但不完美，还是会有BUG的，这是最真诚的话，且不接受反驳。](https://www.bilibili.com/video/BV1vdKc6LEVw) |
-| 49 | 07-18 15:24 | [伊甸的亚托莉](https://space.bilibili.com/183884156) | [📦 【疑似deepseekv4正式版】ai里的贝多芬   多种音乐生成测试](https://www.bilibili.com/video/BV1ivKw6UEut) |
-| 50 | 07-18 15:14 | [-温醨-](https://space.bilibili.com/514165293) | [疑似deepseekv4灰度测试，仅提供部分素材，另外部分素材由ai自己生成，逻辑一遍过，第二遍改了下画风](https://www.bilibili.com/video/BV1sLKw6aEZX) |
-| 51 | 07-18 13:55 | [小小小名不是小明](https://space.bilibili.com/316052822) | [V8声浪模拟，比地平线好听 DS V4 灰测生成](https://www.bilibili.com/video/BV1RqKw67EJj) |
-| 52 | 07-18 13:26 | [康康不说骚话](https://space.bilibili.com/40163570) | [霓虹浪人-deepseek一锅出版本](https://www.bilibili.com/video/BV1REKA6EEp5) |
-| 53 | 07-18 11:32 | [鱼村长233](https://space.bilibili.com/21097673) | [Deepseekv4正式版灰测，音乐创建和nes模拟器](https://www.bilibili.com/video/BV1pEKF6QEJ5) |
-| 54 | 07-18 11:13 | [雨下冰梧桐](https://space.bilibili.com/3493137009871493) | [单网页小游戏《方块世界》，这次我不蹭DEEPSEEK V4灰度测试正式版，抛弃流量密码，看一看真实数据。](https://www.bilibili.com/video/BV1tSKF6hEWQ) |
-| 55 | 07-18 10:14 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 dsv4灰度版 （ds自己建模） csgo 死斗模式+爆破](https://www.bilibili.com/video/BV1G6KF6qEMe) |
-| 56 | 07-18 10:07 | [果汁盒Summer](https://space.bilibili.com/382250095) | [用DeepSeek（疑似正式版）复刻战双帕弥什](https://www.bilibili.com/video/BV1d5Kc6VEs2) |
-| 57 | 07-18 07:59 | [stupid_scout](https://space.bilibili.com/517637254) | [📦 DeepseekV4正式版 类战地游戏彻底翻新 加了许多内容（下载链接在评论区）](https://www.bilibili.com/video/BV1m8Kc6AEpN) |
-| 58 | 07-18 04:45 | [LikrFG](https://space.bilibili.com/505727661) | [🔗 疑似 deepseek v4 正式版模型测试](https://www.bilibili.com/video/BV1SpNf6FERw) |
-| 59 | 07-18 04:36 | [小小小名不是小明](https://space.bilibili.com/316052822) | [📦 有V8！DS v4正式版游戏两则【马里奥 和 赛车】快速更新第四期，纯玩嗨了分享成果](https://www.bilibili.com/video/BV114Nf64E9m) |
-| 60 | 07-18 02:12 | [添星_tianxing](https://space.bilibili.com/3706985962801907) | [📦 deepseek正式版，4块钱做的小游戏](https://www.bilibili.com/video/BV1ocNo6iE6K) |
-| 61 | 07-18 00:07 | [离梦aajjkk](https://space.bilibili.com/3493110560590178) | [📦 DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。](https://www.bilibili.com/video/BV1eQNo6aEVf) |
-| 62 | 07-17 23:36 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [DeepSeek V4正式版 三角洲行动和森林](https://www.bilibili.com/video/BV1vbNZ6TEkC) |
-| 63 | 07-17 23:11 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 DS v4正式版一句话生成【截图翻译工具、精品独立游戏】快速更新第三期，纯玩嗨了分享成果](https://www.bilibili.com/video/BV1sTNZ6HEYu) |
-| 64 | 07-17 23:00 | [Qilin1132](https://space.bilibili.com/517065285) | [当你让deepseek v4灰度正式版和预览版做同样的游戏时](https://www.bilibili.com/video/BV1n7NZ6yE5T) |
-| 65 | 07-17 22:50 | [梦回0](https://space.bilibili.com/238343565) | [deepseek v4正式版，制作飞车类型游戏](https://www.bilibili.com/video/BV1CVNZ67EYZ) |
-| 66 | 07-17 22:20 | [风味光猫](https://space.bilibili.com/364213249) | [🔗📦 ［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比](https://www.bilibili.com/video/BV1iBNR6YEXt) |
-| 67 | 07-17 21:22 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 dsv4灰度--（不搜素材纯自己建模）1轮出+1轮修bug的超高质量gta](https://www.bilibili.com/video/BV139NR6WEJY) |
-| 68 | 07-17 21:20 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [v4灰度正式版-两个前端版本的对比](https://www.bilibili.com/video/BV14cNd6mEAq) |
-| 69 | 07-17 20:13 | [没有设置一](https://space.bilibili.com/325659305) | [deepseek把claude fable5开源了☝️](https://www.bilibili.com/video/BV1BENd6KEGs) |
-| 70 | 07-17 19:46 | [星光与雪](https://space.bilibili.com/1225574391) | [🔗 DeepSeek v4正式版多轮对话复刻《王国·两位君主》](https://www.bilibili.com/video/BV1xPNd61EvB) |
-| 71 | 07-17 19:28 | [黑韬](https://space.bilibili.com/4473556) | [🔗📦 DeepseekV4正式版手搓的歌剧《卡门》动画](https://www.bilibili.com/video/BV1HgNd6rE1a) |
-| 72 | 07-17 19:02 | [s就是这样s](https://space.bilibili.com/4200244) | [🔗 疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本](https://www.bilibili.com/video/BV1wDNd6LErB) |
-| 73 | 07-17 18:33 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 来看看v4灰测前端 隐藏的巨大潜力（AI生成的提示词）](https://www.bilibili.com/video/BV1G8Nd6ZEoP) |
-| 74 | 07-17 17:15 | [DaVinci-2nd](https://space.bilibili.com/432070384) | [没灰度到dsV4正式版或者灰度到坠机了的进来](https://www.bilibili.com/video/BV1V9KJ68Ee7) |
-| 75 | 07-17 16:36 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 核弹之作-疑似dsv4正式版灰度-我的世界/星际拓荒 曲率方块](https://www.bilibili.com/video/BV1vhKn6PEA9) |
-| 76 | 07-17 16:03 | [e4glet](https://space.bilibili.com/335577923) | [📦 DeepSeek 3D Walkman播放器](https://www.bilibili.com/video/BV1FEKn6VEzo) |
-| 77 | 07-17 15:41 | [猫伊cat](https://space.bilibili.com/167311) | [🔗 【Vibecoding】Claude和Deepseek合力做的可以弹奏的小太阳](https://www.bilibili.com/video/BV1sDKn6nEJ3) |
-| 78 | 07-17 15:05 | [浪迹天涯人free](https://space.bilibili.com/487326937) | [deepseek正式版灰度做雷霆战机](https://www.bilibili.com/video/BV1DBKn6bEK1) |
-| 79 | 07-17 13:56 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 谁敢质疑d老师的审美-疑似dsv4灰度之只用SVG图作我的世界](https://www.bilibili.com/video/BV1JAKH6GE6p) |
-| 80 | 07-17 11:10 | [-温醨-](https://space.bilibili.com/514165293) | [deepseek v4正式版灰度，我的世界+孢子，二次修改](https://www.bilibili.com/video/BV1VGKJ6tEKk) |
-| 81 | 07-17 10:07 | [星光与雪](https://space.bilibili.com/1225574391) | [DeepSeek v4正式版多轮对话生成光遇](https://www.bilibili.com/video/BV1rqKJ63EnN) |
-| 82 | 07-17 09:47 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似dsv4灰度- 我的深空，在原提示词基础上加强美术提示词看看效果（没用联网）](https://www.bilibili.com/video/BV1frKJ6qEYY) |
-| 83 | 07-17 07:24 | [爱尔奎德的死徒](https://space.bilibili.com/758650) | [DeepSeek v4灰度正式版+Z-image生成游戏，学院昆特牌](https://www.bilibili.com/video/BV1uLK76mE8S) |
-| 84 | 07-17 06:35 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3](https://www.bilibili.com/video/BV1feK76eEm3) |
-| 85 | 07-17 04:36 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek v4正式版 测试](https://www.bilibili.com/video/BV1DXK76HEKt) |
-| 86 | 07-17 03:55 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek v4正式版测试，一句生成游戏](https://www.bilibili.com/video/BV1LdK56XEoe) |
-| 87 | 07-17 02:41 | [-温醨-](https://space.bilibili.com/514165293) | [🔗 疑似dsv4正式版灰测，我的世界+孢子](https://www.bilibili.com/video/BV1T7KL6BEFp) |
-| 88 | 07-17 02:35 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [DeepSeek V4 魔兽世界 高清重制版](https://www.bilibili.com/video/BV1w4KL6aEiG) |
-| 89 | 07-17 01:31 | [Delight-linger](https://space.bilibili.com/1699039750) | [双日凌空! 对比测试K3与Deepseekv4(灰度正式版)实力](https://www.bilibili.com/video/BV15CKL6DEer) |
-| 90 | 07-16 23:57 | [kdzzzds](https://space.bilibili.com/323637465) | [不严谨测试](https://www.bilibili.com/video/BV1f8KV6DENS) |
-| 91 | 07-16 23:55 | [PotnQ](https://space.bilibili.com/149206792) | [📦 DSV4正式版灰度无人深空超级伪无缝登陆](https://www.bilibili.com/video/BV1ZaKV6JEnA) |
-| 92 | 07-16 23:21 | [探归者夕迁](https://space.bilibili.com/1180677792) | [Deepseekv4正式版-我的太空计划 试玩 软着陆登月](https://www.bilibili.com/video/BV1yJKV6bE3A) |
-| 93 | 07-16 22:52 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [📦 DeepSeek V4正式版 多轮对话生成魔兽世界](https://www.bilibili.com/video/BV1mRKV6eEKa) |
-| 94 | 07-16 22:47 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】像素鸟flappybird-预览版与正式版效果对比](https://www.bilibili.com/video/BV11oKV6AEMk) |
-| 95 | 07-16 22:04 | [stupid_scout](https://space.bilibili.com/517637254) | [DeepseekV4正式版 测试传送门（功能实现很不错！还有一些传送门问题测试）](https://www.bilibili.com/video/BV19rKV6VEFW) |
-| 96 | 07-16 21:07 | [黑韬](https://space.bilibili.com/4473556) | [🔗📦 DeepseekV4正式版生成的逆转裁判！](https://www.bilibili.com/video/BV1cTK564EEk) |
-| 97 | 07-16 19:28 | [cacl2_lhg](https://space.bilibili.com/486071964) | [📦 疑似Deepseek V4正式版生成的仿马力欧赛车小游戏](https://www.bilibili.com/video/BV1miK56iEpg) |
-| 98 | 07-16 17:59 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [v4灰度正式版，svg拉弓动画测试](https://www.bilibili.com/video/BV1hpKG6qErw) |
-| 99 | 07-16 17:12 | [stupid_scout](https://space.bilibili.com/517637254) | [DeepseekV4正式版 我只是让他删注释 竟然顺手修了游戏bug](https://www.bilibili.com/video/BV1BuKG6jEtc) |
-| 100 | 07-16 17:10 | [s就是这样s](https://space.bilibili.com/4200244) | [🔗📦 疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》](https://www.bilibili.com/video/BV1rrKG6sEAn) |
-| 101 | 07-16 16:57 | [梦回0](https://space.bilibili.com/238343565) | [📦 deepseek v4 正式版生成只狼版网页游戏](https://www.bilibili.com/video/BV1CzKG6dE6u) |
-| 102 | 07-16 15:53 | [stupid_scout](https://space.bilibili.com/517637254) | [📦 DeepseekV4正式版生成的战地游戏（效果吊炸天了！！）](https://www.bilibili.com/video/BV1hPKV6zERi) |
-| 103 | 07-16 15:05 | [吧必须徐112](https://space.bilibili.com/3690991617837662) | [【7月最新】免费白嫖！DeepSeek V4 自由版免费用，不限次数！](https://www.bilibili.com/video/BV19cKV6rETb) |
-| 104 | 07-16 14:44 | [三十丁尼](https://space.bilibili.com/2016784174) | [dsv4生成可自定义音乐的下落式音游](https://www.bilibili.com/video/BV1v3Kg6TEoD) |
-| 105 | 07-16 14:01 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗 核弹爆炸，dsv4正式版一次性生成多款安卓游戏，涵盖跑酷，AR，2D打击等等](https://www.bilibili.com/video/BV1qMKg6uEJu) |
-| 106 | 07-16 12:37 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】Besiege围攻，物理模拟很不错](https://www.bilibili.com/video/BV1MAK36aESZ) |
-| 107 | 07-16 11:30 | [飞越麦当劳](https://space.bilibili.com/1929605923) | [🔗 deepseek v4正式版灰测，生成恐怖游戏](https://www.bilibili.com/video/BV1otK365Ebd) |
-| 108 | 07-16 07:45 | [飯綱九龍](https://space.bilibili.com/35822724) | [🔗 【东方】Deepseek-v4正式版（疑似）灰度一次生成 - 东 方 智 械 录](https://www.bilibili.com/video/BV1qgN66xEQk) |
-| 109 | 07-16 07:22 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [🔗 dsv4灰度正式版-修正前两期以及展示骑马与砍杀](https://www.bilibili.com/video/BV1s3Ku6EEMi) |
-| 110 | 07-16 01:47 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [疑似dsv4正式版灰度-后室](https://www.bilibili.com/video/BV1JUN668ESb) |
-| 111 | 07-16 01:40 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [疑似dsv4正式版灰度-最有氛围的日系恐怖游戏，预览与正式版对比](https://www.bilibili.com/video/BV17RN66xE5L) |
-| 112 | 07-15 23:04 | [UPLUZ](https://space.bilibili.com/4926822) | [📦 【疑似DeepSeek正式版】塞尔达世界](https://www.bilibili.com/video/BV1VoNB6jEro) |
-| 113 | 07-15 22:40 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 Deepseekv4正式版-坎巴拉太空计划+我的世界---实操登录月球（硬着陆）3轮对话](https://www.bilibili.com/video/BV18KNz6gEJD) |
-| 114 | 07-15 22:07 | [作手阿九](https://space.bilibili.com/86618635) | [deepseekV4pro一句话生成的幸存者游戏](https://www.bilibili.com/video/BV1LQNB6SELA) |
-| 115 | 07-15 21:07 | [飯綱九龍](https://space.bilibili.com/35822724) | [🔗 疑似dsv4正式版灰度-我的世界X无人深空](https://www.bilibili.com/video/BV1MTNz6zEPi) |
-| 116 | 07-15 18:48 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 Deepseek正式版灰度 木筏求生+我的世界（我的木筏）](https://www.bilibili.com/video/BV1FrNi6SEyJ) |
-| 117 | 07-15 00:21 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗📦 疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）](https://www.bilibili.com/video/BV1tVN86CEVS) |
-| 118 | 07-14 22:02 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 （以坠机）疑似dsv4正式版灰测  暮色森林（做一半坠机了）](https://www.bilibili.com/video/BV1WANh6gEQp) |
-| 119 | 07-14 16:15 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似deepseekv4正式版灰度测试-拳皇](https://www.bilibili.com/video/BV177N96FEep) |
-| 120 | 07-14 15:43 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗📦 疑似deepseek v4正式版灰度-我的世界地狱末地地形测试（地形为一次出）](https://www.bilibili.com/video/BV1LHN96xE4K) |
-| 121 | 07-14 14:07 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似deepseekv4正式版灰测-无人深空](https://www.bilibili.com/video/BV1UqN96LEcv) |
-| 122 | 07-13 14:17 | [2258ppq](https://space.bilibili.com/1019564727) | [dsv4 正式版 测试2](https://www.bilibili.com/video/BV1GDN16eEab) |
-| 123 | 07-11 03:15 | [不可以包含特殊字符](https://space.bilibili.com/386749948) | [DeepSeek4.0正式版灰度测试小游戏开发](https://www.bilibili.com/video/BV15xNW63Ehf) |
-| 124 | 07-10 13:20 | [飞越麦当劳](https://space.bilibili.com/1929605923) | [不知道是不是被deepseek v4正式版灰度到了，用一句话生成的，但效果确实好](https://www.bilibili.com/video/BV1eqNE6tEQA) |
-| 125 | 07-09 19:09 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗 DeepSeek V4正式版一句话生成《后室》和恐怖游戏](https://www.bilibili.com/video/BV1n7MH6SEeA) |
-| 126 | 07-09 15:41 | [小小小名不是小明](https://space.bilibili.com/316052822) | [国产之光再进化！DeepSeek V4正式版简测，附带横评Gemini3.5 Pro / Grok4.5等](https://www.bilibili.com/video/BV1fLMJ6GEJ6) |
-| 127 | 07-09 07:00 | [Delight-linger](https://space.bilibili.com/1699039750) | [灰度测试dsv4正式版？泰拉瑞亚-以撒结合-RTS-浏览器操作系统-割绳子-星露谷全测试](https://www.bilibili.com/video/BV1awM562EpX) |
-| 128 | 07-08 19:16 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗📦 灰度测试：DeepSeek V4正式版一句话生成GTA5](https://www.bilibili.com/video/BV1KmMg68EbF) |
-| 129 | 07-07 22:47 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗 DeepSeek V4正式版一句话生成CSGO（生成记录透明）](https://www.bilibili.com/video/BV1t6Mh6RErw) |
-| 130 | 07-07 01:09 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [📦 DeepSeek V4正式版生成的《我的世界》](https://www.bilibili.com/video/BV1ERTR6zECb) |
+| 32 | 07-18 19:44 | [赤麟方阵2号](https://space.bilibili.com/3546602044131675) | [deepseek灰度测试，地球防卫军试玩](https://www.bilibili.com/video/BV1qRKA69EgZ) |
+| 33 | 07-18 19:35 | [bili_3493108501187431](https://space.bilibili.com/3493108501187431) | [📦 deepseekv4正式版生成的战争雷霆优化版](https://www.bilibili.com/video/BV1BQKA6dETV) |
+| 34 | 07-18 18:54 | [山头小妖](https://space.bilibili.com/20429773) | [用deepseek，一天开发游戏的进度（新游戏开发中：末日堡垒对抗）](https://www.bilibili.com/video/BV1jiKP6dEmh) |
+| 35 | 07-18 18:50 | [Aki_2519](https://space.bilibili.com/1086907113) | [🔗 [疑似Deepseek v4正式版]类Teardown游戏生成](https://www.bilibili.com/video/BV1RBKP6pEM5) |
+| 36 | 07-18 18:02 | [UPLUZ](https://space.bilibili.com/4926822) | [📦 【疑似DeepSeek正式版】这才是真正的音乐.jpg②](https://www.bilibili.com/video/BV1TRKP6CEnW) |
+| 37 | 07-18 17:50 | [紫巅](https://space.bilibili.com/522832632) | [（灰测）DeepSeek正式版一次生成重生细胞](https://www.bilibili.com/video/BV1PcKN6zEUn) |
+| 38 | 07-18 17:35 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 双叉臂悬挂测试后续 没有人可以诋毁V4正式版](https://www.bilibili.com/video/BV1xFKN6gEcw) |
+| 39 | 07-18 16:46 | [TwoShenMengxi](https://space.bilibili.com/281098949) | [deepseek正式版无人深空X我的世界（目前已坠机）](https://www.bilibili.com/video/BV1aFKw6kExR) |
+| 40 | 07-18 16:35 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 【dsv4正式版】用Godot与C#一句话复刻[网吧模拟器]游戏](https://www.bilibili.com/video/BV1t3Kw6NEh4) |
+| 41 | 07-18 16:35 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】震惊瘫坐！节奏光剑都被他搞出来了！](https://www.bilibili.com/video/BV1SMKw6TEPa) |
+| 42 | 07-18 16:13 | [杠精MrS](https://space.bilibili.com/1148592466) | [deepseekv4pro  max疑似灰度正式版，一句话生成合金弹头，引擎也是自己写的无敌了](https://www.bilibili.com/video/BV1FmKc6QE3J) |
+| 43 | 07-18 16:11 | [炽热的钢铁](https://space.bilibili.com/687935502) | [📦 疑似灰度到了deepseek-v4-pro正式版！只用一句话让大肥鱼手搓了5首电音！](https://www.bilibili.com/video/BV19oKc6yEaM) |
+| 44 | 07-18 16:01 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek V4 正式版 测试](https://www.bilibili.com/video/BV1afKc6VEdE) |
+| 45 | 07-18 15:56 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 ds灰度  超视距8192格MC 1轮出+2轮修bug优化](https://www.bilibili.com/video/BV1i9Kc62EeM) |
+| 46 | 07-18 15:53 | [雨下冰梧桐](https://space.bilibili.com/3493137009871493) | [请让我真诚的说DEEPSEEK V4 灰度测试正式版，很出色，很厉害，很优秀，但不完美，还是会有BUG的，这是最真诚的话，且不接受反驳。](https://www.bilibili.com/video/BV1vdKc6LEVw) |
+| 47 | 07-18 15:24 | [伊甸的亚托莉](https://space.bilibili.com/183884156) | [📦 【疑似deepseekv4正式版】ai里的贝多芬   多种音乐生成测试](https://www.bilibili.com/video/BV1ivKw6UEut) |
+| 48 | 07-18 15:14 | [-温醨-](https://space.bilibili.com/514165293) | [疑似deepseekv4灰度测试，仅提供部分素材，另外部分素材由ai自己生成，逻辑一遍过，第二遍改了下画风](https://www.bilibili.com/video/BV1sLKw6aEZX) |
+| 49 | 07-18 13:55 | [小小小名不是小明](https://space.bilibili.com/316052822) | [V8声浪模拟，比地平线好听 DS V4 灰测生成](https://www.bilibili.com/video/BV1RqKw67EJj) |
+| 50 | 07-18 13:26 | [康康不说骚话](https://space.bilibili.com/40163570) | [霓虹浪人-deepseek一锅出版本](https://www.bilibili.com/video/BV1REKA6EEp5) |
+| 51 | 07-18 11:32 | [鱼村长233](https://space.bilibili.com/21097673) | [Deepseekv4正式版灰测，音乐创建和nes模拟器](https://www.bilibili.com/video/BV1pEKF6QEJ5) |
+| 52 | 07-18 11:13 | [雨下冰梧桐](https://space.bilibili.com/3493137009871493) | [单网页小游戏《方块世界》，这次我不蹭DEEPSEEK V4灰度测试正式版，抛弃流量密码，看一看真实数据。](https://www.bilibili.com/video/BV1tSKF6hEWQ) |
+| 53 | 07-18 10:14 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 dsv4灰度版 （ds自己建模） csgo 死斗模式+爆破](https://www.bilibili.com/video/BV1G6KF6qEMe) |
+| 54 | 07-18 10:07 | [果汁盒Summer](https://space.bilibili.com/382250095) | [用DeepSeek（疑似正式版）复刻战双帕弥什](https://www.bilibili.com/video/BV1d5Kc6VEs2) |
+| 55 | 07-18 07:59 | [stupid_scout](https://space.bilibili.com/517637254) | [📦 DeepseekV4正式版 类战地游戏彻底翻新 加了许多内容（下载链接在评论区）](https://www.bilibili.com/video/BV1m8Kc6AEpN) |
+| 56 | 07-18 04:45 | [LikrFG](https://space.bilibili.com/505727661) | [🔗 疑似 deepseek v4 正式版模型测试](https://www.bilibili.com/video/BV1SpNf6FERw) |
+| 57 | 07-18 04:36 | [小小小名不是小明](https://space.bilibili.com/316052822) | [📦 有V8！DS v4正式版游戏两则【马里奥 和 赛车】快速更新第四期，纯玩嗨了分享成果](https://www.bilibili.com/video/BV114Nf64E9m) |
+| 58 | 07-18 02:12 | [添星_tianxing](https://space.bilibili.com/3706985962801907) | [📦 deepseek正式版，4块钱做的小游戏](https://www.bilibili.com/video/BV1ocNo6iE6K) |
+| 59 | 07-18 00:07 | [离梦aajjkk](https://space.bilibili.com/3493110560590178) | [📦 DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。](https://www.bilibili.com/video/BV1eQNo6aEVf) |
+| 60 | 07-17 23:36 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [DeepSeek V4正式版 三角洲行动和森林](https://www.bilibili.com/video/BV1vbNZ6TEkC) |
+| 61 | 07-17 23:11 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 DS v4正式版一句话生成【截图翻译工具、精品独立游戏】快速更新第三期，纯玩嗨了分享成果](https://www.bilibili.com/video/BV1sTNZ6HEYu) |
+| 62 | 07-17 23:00 | [Qilin1132](https://space.bilibili.com/517065285) | [当你让deepseek v4灰度正式版和预览版做同样的游戏时](https://www.bilibili.com/video/BV1n7NZ6yE5T) |
+| 63 | 07-17 22:50 | [梦回0](https://space.bilibili.com/238343565) | [deepseek v4正式版，制作飞车类型游戏](https://www.bilibili.com/video/BV1CVNZ67EYZ) |
+| 64 | 07-17 22:20 | [风味光猫](https://space.bilibili.com/364213249) | [🔗📦 ［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比](https://www.bilibili.com/video/BV1iBNR6YEXt) |
+| 65 | 07-17 21:22 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 dsv4灰度--（不搜素材纯自己建模）1轮出+1轮修bug的超高质量gta](https://www.bilibili.com/video/BV139NR6WEJY) |
+| 66 | 07-17 21:20 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [v4灰度正式版-两个前端版本的对比](https://www.bilibili.com/video/BV14cNd6mEAq) |
+| 67 | 07-17 19:46 | [星光与雪](https://space.bilibili.com/1225574391) | [🔗 DeepSeek v4正式版多轮对话复刻《王国·两位君主》](https://www.bilibili.com/video/BV1xPNd61EvB) |
+| 68 | 07-17 19:28 | [黑韬](https://space.bilibili.com/4473556) | [🔗📦 DeepseekV4正式版手搓的歌剧《卡门》动画](https://www.bilibili.com/video/BV1HgNd6rE1a) |
+| 69 | 07-17 19:02 | [s就是这样s](https://space.bilibili.com/4200244) | [🔗 疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本](https://www.bilibili.com/video/BV1wDNd6LErB) |
+| 70 | 07-17 18:33 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 来看看v4灰测前端 隐藏的巨大潜力（AI生成的提示词）](https://www.bilibili.com/video/BV1G8Nd6ZEoP) |
+| 71 | 07-17 17:15 | [DaVinci-2nd](https://space.bilibili.com/432070384) | [没灰度到dsV4正式版或者灰度到坠机了的进来](https://www.bilibili.com/video/BV1V9KJ68Ee7) |
+| 72 | 07-17 16:36 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 核弹之作-疑似dsv4正式版灰度-我的世界/星际拓荒 曲率方块](https://www.bilibili.com/video/BV1vhKn6PEA9) |
+| 73 | 07-17 16:03 | [e4glet](https://space.bilibili.com/335577923) | [📦 DeepSeek 3D Walkman播放器](https://www.bilibili.com/video/BV1FEKn6VEzo) |
+| 74 | 07-17 15:41 | [猫伊cat](https://space.bilibili.com/167311) | [🔗 【Vibecoding】Claude和Deepseek合力做的可以弹奏的小太阳](https://www.bilibili.com/video/BV1sDKn6nEJ3) |
+| 75 | 07-17 15:05 | [浪迹天涯人free](https://space.bilibili.com/487326937) | [deepseek正式版灰度做雷霆战机](https://www.bilibili.com/video/BV1DBKn6bEK1) |
+| 76 | 07-17 13:56 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 谁敢质疑d老师的审美-疑似dsv4灰度之只用SVG图作我的世界](https://www.bilibili.com/video/BV1JAKH6GE6p) |
+| 77 | 07-17 11:10 | [-温醨-](https://space.bilibili.com/514165293) | [deepseek v4正式版灰度，我的世界+孢子，二次修改](https://www.bilibili.com/video/BV1VGKJ6tEKk) |
+| 78 | 07-17 10:07 | [星光与雪](https://space.bilibili.com/1225574391) | [DeepSeek v4正式版多轮对话生成光遇](https://www.bilibili.com/video/BV1rqKJ63EnN) |
+| 79 | 07-17 09:47 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似dsv4灰度- 我的深空，在原提示词基础上加强美术提示词看看效果（没用联网）](https://www.bilibili.com/video/BV1frKJ6qEYY) |
+| 80 | 07-17 07:24 | [爱尔奎德的死徒](https://space.bilibili.com/758650) | [DeepSeek v4灰度正式版+Z-image生成游戏，学院昆特牌](https://www.bilibili.com/video/BV1uLK76mE8S) |
+| 81 | 07-17 06:35 | [小小小名不是小明](https://space.bilibili.com/316052822) | [🔗📦 测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3](https://www.bilibili.com/video/BV1feK76eEm3) |
+| 82 | 07-17 04:36 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek v4正式版 测试](https://www.bilibili.com/video/BV1DXK76HEKt) |
+| 83 | 07-17 03:55 | [夜之叶归一](https://space.bilibili.com/361892809) | [deepseek v4正式版测试，一句生成游戏](https://www.bilibili.com/video/BV1LdK56XEoe) |
+| 84 | 07-17 02:41 | [-温醨-](https://space.bilibili.com/514165293) | [🔗 疑似dsv4正式版灰测，我的世界+孢子](https://www.bilibili.com/video/BV1T7KL6BEFp) |
+| 85 | 07-17 02:35 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [DeepSeek V4 魔兽世界 高清重制版](https://www.bilibili.com/video/BV1w4KL6aEiG) |
+| 86 | 07-17 01:31 | [Delight-linger](https://space.bilibili.com/1699039750) | [双日凌空! 对比测试K3与Deepseekv4(灰度正式版)实力](https://www.bilibili.com/video/BV15CKL6DEer) |
+| 87 | 07-16 23:57 | [kdzzzds](https://space.bilibili.com/323637465) | [不严谨测试](https://www.bilibili.com/video/BV1f8KV6DENS) |
+| 88 | 07-16 23:55 | [PotnQ](https://space.bilibili.com/149206792) | [📦 DSV4正式版灰度无人深空超级伪无缝登陆](https://www.bilibili.com/video/BV1ZaKV6JEnA) |
+| 89 | 07-16 23:21 | [探归者夕迁](https://space.bilibili.com/1180677792) | [Deepseekv4正式版-我的太空计划 试玩 软着陆登月](https://www.bilibili.com/video/BV1yJKV6bE3A) |
+| 90 | 07-16 22:52 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [📦 DeepSeek V4正式版 多轮对话生成魔兽世界](https://www.bilibili.com/video/BV1mRKV6eEKa) |
+| 91 | 07-16 22:47 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】像素鸟flappybird-预览版与正式版效果对比](https://www.bilibili.com/video/BV11oKV6AEMk) |
+| 92 | 07-16 22:04 | [stupid_scout](https://space.bilibili.com/517637254) | [DeepseekV4正式版 测试传送门（功能实现很不错！还有一些传送门问题测试）](https://www.bilibili.com/video/BV19rKV6VEFW) |
+| 93 | 07-16 21:07 | [黑韬](https://space.bilibili.com/4473556) | [🔗📦 DeepseekV4正式版生成的逆转裁判！](https://www.bilibili.com/video/BV1cTK564EEk) |
+| 94 | 07-16 19:28 | [cacl2_lhg](https://space.bilibili.com/486071964) | [📦 疑似Deepseek V4正式版生成的仿马力欧赛车小游戏](https://www.bilibili.com/video/BV1miK56iEpg) |
+| 95 | 07-16 17:59 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [v4灰度正式版，svg拉弓动画测试](https://www.bilibili.com/video/BV1hpKG6qErw) |
+| 96 | 07-16 17:12 | [stupid_scout](https://space.bilibili.com/517637254) | [DeepseekV4正式版 我只是让他删注释 竟然顺手修了游戏bug](https://www.bilibili.com/video/BV1BuKG6jEtc) |
+| 97 | 07-16 17:10 | [s就是这样s](https://space.bilibili.com/4200244) | [🔗📦 疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》](https://www.bilibili.com/video/BV1rrKG6sEAn) |
+| 98 | 07-16 16:57 | [梦回0](https://space.bilibili.com/238343565) | [📦 deepseek v4 正式版生成只狼版网页游戏](https://www.bilibili.com/video/BV1CzKG6dE6u) |
+| 99 | 07-16 15:53 | [stupid_scout](https://space.bilibili.com/517637254) | [📦 DeepseekV4正式版生成的战地游戏（效果吊炸天了！！）](https://www.bilibili.com/video/BV1hPKV6zERi) |
+| 100 | 07-16 14:44 | [三十丁尼](https://space.bilibili.com/2016784174) | [dsv4生成可自定义音乐的下落式音游](https://www.bilibili.com/video/BV1v3Kg6TEoD) |
+| 101 | 07-16 14:01 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗 核弹爆炸，dsv4正式版一次性生成多款安卓游戏，涵盖跑酷，AR，2D打击等等](https://www.bilibili.com/video/BV1qMKg6uEJu) |
+| 102 | 07-16 12:37 | [UPLUZ](https://space.bilibili.com/4926822) | [【疑似DeepSeek正式版】Besiege围攻，物理模拟很不错](https://www.bilibili.com/video/BV1MAK36aESZ) |
+| 103 | 07-16 11:30 | [飞越麦当劳](https://space.bilibili.com/1929605923) | [🔗 deepseek v4正式版灰测，生成恐怖游戏](https://www.bilibili.com/video/BV1otK365Ebd) |
+| 104 | 07-16 07:45 | [飯綱九龍](https://space.bilibili.com/35822724) | [🔗 【东方】Deepseek-v4正式版（疑似）灰度一次生成 - 东 方 智 械 录](https://www.bilibili.com/video/BV1qgN66xEQk) |
+| 105 | 07-16 07:22 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [🔗 dsv4灰度正式版-修正前两期以及展示骑马与砍杀](https://www.bilibili.com/video/BV1s3Ku6EEMi) |
+| 106 | 07-16 01:47 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [疑似dsv4正式版灰度-后室](https://www.bilibili.com/video/BV1JUN668ESb) |
+| 107 | 07-16 01:40 | [Augenstern_-__-](https://space.bilibili.com/372702868) | [疑似dsv4正式版灰度-最有氛围的日系恐怖游戏，预览与正式版对比](https://www.bilibili.com/video/BV17RN66xE5L) |
+| 108 | 07-15 23:04 | [UPLUZ](https://space.bilibili.com/4926822) | [📦 【疑似DeepSeek正式版】塞尔达世界](https://www.bilibili.com/video/BV1VoNB6jEro) |
+| 109 | 07-15 22:40 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 Deepseekv4正式版-坎巴拉太空计划+我的世界---实操登录月球（硬着陆）3轮对话](https://www.bilibili.com/video/BV18KNz6gEJD) |
+| 110 | 07-15 22:07 | [作手阿九](https://space.bilibili.com/86618635) | [deepseekV4pro一句话生成的幸存者游戏](https://www.bilibili.com/video/BV1LQNB6SELA) |
+| 111 | 07-15 21:07 | [飯綱九龍](https://space.bilibili.com/35822724) | [🔗 疑似dsv4正式版灰度-我的世界X无人深空](https://www.bilibili.com/video/BV1MTNz6zEPi) |
+| 112 | 07-15 18:48 | [Delight-linger](https://space.bilibili.com/1699039750) | [🔗📦 Deepseek正式版灰度 木筏求生+我的世界（我的木筏）](https://www.bilibili.com/video/BV1FrNi6SEyJ) |
+| 113 | 07-15 00:21 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗📦 疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）](https://www.bilibili.com/video/BV1tVN86CEVS) |
+| 114 | 07-14 22:02 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 （以坠机）疑似dsv4正式版灰测  暮色森林（做一半坠机了）](https://www.bilibili.com/video/BV1WANh6gEQp) |
+| 115 | 07-14 16:15 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似deepseekv4正式版灰度测试-拳皇](https://www.bilibili.com/video/BV177N96FEep) |
+| 116 | 07-14 15:43 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗📦 疑似deepseek v4正式版灰度-我的世界地狱末地地形测试（地形为一次出）](https://www.bilibili.com/video/BV1LHN96xE4K) |
+| 117 | 07-14 14:07 | [kdzzzds](https://space.bilibili.com/323637465) | [🔗 疑似deepseekv4正式版灰测-无人深空](https://www.bilibili.com/video/BV1UqN96LEcv) |
+| 118 | 07-13 14:17 | [2258ppq](https://space.bilibili.com/1019564727) | [dsv4 正式版 测试2](https://www.bilibili.com/video/BV1GDN16eEab) |
+| 119 | 07-11 03:15 | [不可以包含特殊字符](https://space.bilibili.com/386749948) | [DeepSeek4.0正式版灰度测试小游戏开发](https://www.bilibili.com/video/BV15xNW63Ehf) |
+| 120 | 07-10 13:20 | [飞越麦当劳](https://space.bilibili.com/1929605923) | [不知道是不是被deepseek v4正式版灰度到了，用一句话生成的，但效果确实好](https://www.bilibili.com/video/BV1eqNE6tEQA) |
+| 121 | 07-09 19:09 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗 DeepSeek V4正式版一句话生成《后室》和恐怖游戏](https://www.bilibili.com/video/BV1n7MH6SEeA) |
+| 122 | 07-09 15:41 | [小小小名不是小明](https://space.bilibili.com/316052822) | [国产之光再进化！DeepSeek V4正式版简测，附带横评Gemini3.5 Pro / Grok4.5等](https://www.bilibili.com/video/BV1fLMJ6GEJ6) |
+| 123 | 07-09 07:00 | [Delight-linger](https://space.bilibili.com/1699039750) | [灰度测试dsv4正式版？泰拉瑞亚-以撒结合-RTS-浏览器操作系统-割绳子-星露谷全测试](https://www.bilibili.com/video/BV1awM562EpX) |
+| 124 | 07-08 19:16 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗📦 灰度测试：DeepSeek V4正式版一句话生成GTA5](https://www.bilibili.com/video/BV1KmMg68EbF) |
+| 125 | 07-07 22:47 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [🔗 DeepSeek V4正式版一句话生成CSGO（生成记录透明）](https://www.bilibili.com/video/BV1t6Mh6RErw) |
+| 126 | 07-07 01:09 | [冬眠の松鼠_](https://space.bilibili.com/3546711534341091) | [📦 DeepSeek V4正式版生成的《我的世界》](https://www.bilibili.com/video/BV1ERTR6zECb) |
 
 ---
 
