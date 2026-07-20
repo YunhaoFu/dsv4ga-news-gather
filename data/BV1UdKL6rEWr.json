@@ -1,0 +1,99 @@
+{
+  "bvid": "BV1UdKL6rEWr",
+  "aid": 116930954401569,
+  "title": "Deepseek V4正式版自编自导的幽灵诡计！",
+  "up_name": "黑韬",
+  "up_mid": 4473556,
+  "up_face": "https://i1.hdslb.com/bfs/face/0169b5b6cb47bf08a8a8bcbeff9653dfac183f4a.jpg",
+  "desc": "演出! 奇观!\n这次尝试多轮对话优化，其实一开始就吓我一跳，这个质感很惊艳，之前看它做复合弓动画就感觉它对动画和演出应该很在行，调试了几轮，没什么技巧，基本上就是有什么想改的告诉它，剧本、系统、演出其实都是它自己设计的，非常不错了，这是在目前没有多模态的情况下做出来的。",
+  "duration": 388,
+  "pub_time_ts": 1784224813,
+  "pub_time": "2026-07-17 02:00:13",
+  "stats": {
+    "view": 6584,
+    "like": 151,
+    "coin": 22,
+    "favorite": 60,
+    "share": 40,
+    "reply": 34
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/QKMEiIOS"
+  ],
+  "all_download_links": [
+    "https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak"
+  ],
+  "comments": {
+    "total": 18,
+    "top_comments": [
+      {
+        "user": "大清是真吃人吃是动词",
+        "message": "这用在教育行业那不是天翻地覆的变化吗",
+        "likes": 37,
+        "time": "2026-07-17 14:05:59"
+      },
+      {
+        "user": "ArtChang",
+        "message": "要是有多模态要被吓死了",
+        "likes": 28,
+        "time": "2026-07-17 14:57:45"
+      },
+      {
+        "user": "czhko",
+        "message": "标题还以为Deepseek V4正式版是自编自导的诡计[doge_金箍]",
+        "likes": 17,
+        "time": "2026-07-17 18:57:28"
+      },
+      {
+        "user": "AItair_",
+        "message": "速度有点快，0.5看完了。剧本还不错，和游戏设计融合度也很好，除了文本d指导文风有点太浓外，感觉扩展扩展当个独立游戏的某一关都可以了。",
+        "likes": 14,
+        "time": "2026-07-17 22:09:15"
+      },
+      {
+        "user": "游鱼彩虹",
+        "message": "老灯=老登，还蛮会玩梗的。[打call]",
+        "likes": 13,
+        "time": "2026-07-17 19:59:38"
+      },
+      {
+        "user": "Sariel沙拉酱",
+        "message": "比预览版强多了啊，预览版 V4-F 的剧本没法看[笑哭]",
+        "likes": 4,
+        "time": "2026-07-19 16:45:08"
+      },
+      {
+        "user": "MugenXEO",
+        "message": "这剧本关卡都是DS自己编的？太nb了吧？",
+        "likes": 3,
+        "time": "2026-07-19 00:52:59"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "不错不错[doge]",
+        "likes": 2,
+        "time": "2026-07-17 02:19:44"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "回复 LeonWQL78",
+        "message": "https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak 提取码: r8ak\nhttps://opncd.ai/share/QKMEiIOS",
+        "share_links": [
+          "https://opncd.ai/share/QKMEiIOS"
+        ],
+        "download_links": [
+          "https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak"
+        ],
+        "time": "2026-07-19 14:55:22"
+      }
+    ]
+  }
+}

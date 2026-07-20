@@ -1,0 +1,71 @@
+{
+  "bvid": "BV1H2K56fEpu",
+  "aid": 116929561893802,
+  "title": "DeepSeek v4正式版用Godot生成的紫禁城",
+  "up_name": "星光与雪",
+  "up_mid": 1225574391,
+  "up_face": "https://i0.hdslb.com/bfs/face/a77620b357c91088cd271a8497bd25e66c2c4c91.jpg",
+  "desc": "",
+  "duration": 83,
+  "pub_time_ts": 1784203749,
+  "pub_time": "2026-07-16 20:09:09",
+  "stats": {
+    "view": 7191,
+    "like": 101,
+    "coin": 12,
+    "favorite": 43,
+    "share": 13,
+    "reply": 12
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 6,
+    "top_comments": [
+      {
+        "user": "无心坏人",
+        "message": "up还没坠机吗[doge]",
+        "likes": 14,
+        "time": "2026-07-16 20:43:48"
+      },
+      {
+        "user": "泉盛纱织",
+        "message": "哈？没见过竟然也能像模像样的[笑哭]",
+        "likes": 6,
+        "time": "2026-07-16 20:30:17"
+      },
+      {
+        "user": "jiasdmingzu_x",
+        "message": "不要为难小龙虾[尴尬]",
+        "likes": 2,
+        "time": "2026-07-16 20:49:26"
+      },
+      {
+        "user": "书剑卦灵256",
+        "message": "godot咋用deepseek生成呀？是claude code接了godot的mcp吗",
+        "likes": 0,
+        "time": "2026-07-17 00:22:36"
+      },
+      {
+        "user": "白术owo",
+        "message": "正能量[支持][支持]",
+        "likes": 0,
+        "time": "2026-07-16 21:49:16"
+      },
+      {
+        "user": "展开讲讲_",
+        "message": "这是网上找的素材吗？dp啥时候建模能这么好了",
+        "likes": 0,
+        "time": "2026-07-16 20:24:30"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

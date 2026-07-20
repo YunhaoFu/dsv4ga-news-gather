@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1JNNS6DEq2",
+  "aid": 116913355100514,
+  "title": "疑似deepseekv4灰度-墨水塔防小游戏",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "应评论区网友生成的。\n装了superpowers，发现他调用superpowers非常积极。即便我不输入指令，他也会调用。\n三句话生成，第一句是总体功能。第二句和第三句都是修正对齐。",
+  "duration": 171,
+  "pub_time_ts": 1783956333,
+  "pub_time": "2026-07-13 23:25:33",
+  "stats": {
+    "view": 2446,
+    "like": 59,
+    "coin": 4,
+    "favorite": 5,
+    "share": 2,
+    "reply": 25
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/GumezW7g"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 6,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "哈哈哈，这怪物贴图有点难绷啊[吃瓜]",
+        "likes": 8,
+        "time": "2026-07-13 23:27:43"
+      },
+      {
+        "user": "Augenstern_-__-",
+        "message": "不知道up还有没有兴趣试试这个[吃瓜]\n创建一个网页版可运行的3D日式心理恐怖游戏场景。\n\n类型：\n第一人称恐怖探索游戏，WebGL实时3D渲染，Three.js网页游戏风格，浏览器端运行，沉浸式交互体验。\n\n整体视觉：\n日式独立恐怖游戏美学，复古PS1/PS2时代低多边形3D建模，低面数模型，粗糙老旧贴图，轻微材质失真，模拟早期游戏画面效果。场景具有强烈心理压迫感、孤独感和未知恐惧，避免血腥，强调环境叙事与精神恐怖。\n\n3D场景：\n废弃日本住宅楼内部，狭长昏暗的走廊，老旧木质房门，破损墙壁，发霉墙面，脱落的墙纸，地面散落旧报纸、玩具、废弃家具和神秘物品。\n\n环境设计：\n空间结构略微异常，走廊",
+        "likes": 5,
+        "time": "2026-07-13 23:27:43"
+      },
+      {
+        "user": "夏工r",
+        "message": "感觉就是跟GLM的差不多。好像这个游戏有些太简单了，没有区分度。不过我的那个的话，它只有一个关卡。你这个有好几关。",
+        "likes": 3,
+        "time": "2026-07-13 23:31:28"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "https://opncd.ai/share/GumezW7g",
+        "likes": 1,
+        "time": "2026-07-13 23:27:36"
+      },
+      {
+        "user": "月浊浪",
+        "message": "怎么回事呢？怎么那么多人发ds v4正式版测试的视频？",
+        "likes": 0,
+        "time": "2026-07-14 16:13:31"
+      },
+      {
+        "user": "哈珈玛耶",
+        "message": "upup，试试我的世界+the isle吧",
+        "likes": 0,
+        "time": "2026-07-16 18:42:53"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主评论)",
+        "message": "https://opncd.ai/share/GumezW7g",
+        "share_links": [
+          "https://opncd.ai/share/GumezW7g"
+        ],
+        "download_links": [],
+        "time": "2026-07-13 23:27:36"
+      }
+    ]
+  }
+}

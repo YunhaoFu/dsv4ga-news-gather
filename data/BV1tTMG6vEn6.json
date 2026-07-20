@@ -1,0 +1,99 @@
+{
+  "bvid": "BV1tTMG6vEn6",
+  "aid": 116885303595488,
+  "title": "DeepSeek V4正式版《CS:GO》补录",
+  "up_name": "冬眠の松鼠_",
+  "up_mid": 3546711534341091,
+  "up_face": "https://i0.hdslb.com/bfs/face/bbeb8374af195a11e1deda31b364f36ed2d59a77.jpg",
+  "desc": "之前录的视频太短了，很多功能没体现出来",
+  "duration": 183,
+  "pub_time_ts": 1783528631,
+  "pub_time": "2026-07-09 00:37:11",
+  "stats": {
+    "view": 27923,
+    "like": 356,
+    "coin": 25,
+    "favorite": 80,
+    "share": 128,
+    "reply": 135
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/XGCzXWBj",
+    "https://opncd.ai/share/EYJa8Tle",
+    "https://opncd.ai/share/o8R56xdE"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "齐天大圣wy",
+        "message": "不是，人家这个是 V4 的正式版，连 4.1 都不是。为什么评论一堆人说要对标斐波五啊？这个连我都有点看不下去了。",
+        "likes": 190,
+        "time": "2026-07-09 13:23:40"
+      },
+      {
+        "user": "拨雨撩云",
+        "message": "这真的是一次就生成的游戏吗[笑哭]也太强了，今晚up没发gta外别的游戏的视频，是因为它不稳，所以别的游戏没那么亮眼吗",
+        "likes": 54,
+        "time": "2026-07-09 00:44:29"
+      },
+      {
+        "user": "冰冻傻子",
+        "message": "旧时a➗堂前燕，飞入寻常百姓家",
+        "likes": 29,
+        "time": "2026-07-11 07:40:30"
+      },
+      {
+        "user": "整点薯条Dispatch",
+        "message": "这对吗，全网只有你灰度到了[笑哭]",
+        "likes": 29,
+        "time": "2026-07-09 12:36:29"
+      },
+      {
+        "user": "只想当个安静的单身狗",
+        "message": "【Fable 5 解禁后离谱了：一次做出火箭联盟、蜘蛛侠和滑板3-哔哩哔哩】 https://b23.tv/HF4Jnla\n\nup能不能测试一下这几个，能直观的对比一下[打call][打call]",
+        "likes": 24,
+        "time": "2026-07-09 05:37:49"
+      },
+      {
+        "user": "一条贼欠打的咸鱼",
+        "message": "@冬眠の松鼠_ 先说一下哈，他好像有视觉能力了，之前截屏功能它是没有办法去截取内容，截取内容之后，它不会展示出来的，但现在它可以了，而且还能从思考过程中看到他的分析，给灰度到有视觉功能的了，怪不得 API 的界面要更新，他好像还做了个光影",
+        "likes": 11,
+        "time": "2026-07-10 17:43:51"
+      },
+      {
+        "user": "一个存在的路人",
+        "message": "up你怎么迷上这个了？见你天天发，我这天天刷到",
+        "likes": 11,
+        "time": "2026-07-09 08:42:10"
+      },
+      {
+        "user": "二零二五还是废物",
+        "message": "这是flash还是pro？",
+        "likes": 6,
+        "time": "2026-07-09 10:09:14"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "https://opncd.ai/share/o8R56xdE\nhttps://opncd.ai/share/XGCzXWBj\nhttps://opncd.ai/share/EYJa8Tle\n灰度测试似乎已结束，以上分别是我让它写日恐、群星、CSGO的对话记录。希望V4正式版发布的那一天能重回国模巅峰[再见]",
+        "share_links": [
+          "https://opncd.ai/share/XGCzXWBj",
+          "https://opncd.ai/share/EYJa8Tle",
+          "https://opncd.ai/share/o8R56xdE"
+        ],
+        "download_links": [],
+        "time": "2026-07-10 14:16:22"
+      }
+    ]
+  }
+}

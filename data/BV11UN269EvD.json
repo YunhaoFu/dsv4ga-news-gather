@@ -1,0 +1,77 @@
+{
+  "bvid": "BV11UN269EvD",
+  "aid": 116912902182110,
+  "title": "疑似deepseekv4正式版灰测-传说之下undertale",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "两句话生成。第一次让他生成，结果只有战斗和对话。第二次让他加了地图。\n\n提示词：写一个 网页版 的传说之下（undertale)  越还原越好   不会的，不可了解的特性 可以去 联网搜索。",
+  "duration": 161,
+  "pub_time_ts": 1783949581,
+  "pub_time": "2026-07-13 21:33:01",
+  "stats": {
+    "view": 3096,
+    "like": 75,
+    "coin": 10,
+    "favorite": 14,
+    "share": 9,
+    "reply": 15
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 7,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "有疑似DeepSeek V4正式版的地方就有我[星星眼]",
+        "likes": 41,
+        "time": "2026-07-13 21:35:53"
+      },
+      {
+        "user": "不准点击我",
+        "message": "疑似正式版🤔\n另一个号还是跟一个老年人一样，写半天连屏幕都是黑的，写得跟没写一样，还用了2000多万token，而这个号也就900万token制造了图片中的效果😡",
+        "likes": 15,
+        "time": "2026-07-14 09:09:28"
+      },
+      {
+        "user": "回力之文明",
+        "message": "[星星眼]来啦，有高维碎片的地方就有我",
+        "likes": 3,
+        "time": "2026-07-14 02:17:38"
+      },
+      {
+        "user": "UPLUZ",
+        "message": "这个还原度好高",
+        "likes": 2,
+        "time": "2026-07-13 21:55:15"
+      },
+      {
+        "user": "刘是b",
+        "message": "祈福抽到正式版qwq",
+        "likes": 1,
+        "time": "2026-07-13 21:43:38"
+      },
+      {
+        "user": "我是制送快递",
+        "message": "测测Galgame[星星眼]",
+        "likes": 0,
+        "time": "2026-07-13 23:05:31"
+      },
+      {
+        "user": "呐喊声的",
+        "message": "支持一下up！",
+        "likes": 0,
+        "time": "2026-07-13 21:40:55"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

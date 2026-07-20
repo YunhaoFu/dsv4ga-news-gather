@@ -1,0 +1,97 @@
+{
+  "bvid": "BV1fxK361E9u",
+  "aid": 116927464739326,
+  "title": "【疑似DeepSeek正式版】一轮对话生成Windows性能监控桌面浮窗",
+  "up_name": "UPLUZ",
+  "up_mid": 4926822,
+  "up_face": "https://i0.hdslb.com/bfs/face/ce5109f538fe319034c092408f38a7c2d5a7bd48.jpg",
+  "desc": "梁！",
+  "duration": 48,
+  "pub_time_ts": 1784171904,
+  "pub_time": "2026-07-16 11:18:24",
+  "stats": {
+    "view": 26720,
+    "like": 328,
+    "coin": 16,
+    "favorite": 233,
+    "share": 57,
+    "reply": 187
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [
+    "https://b23.tv/BV139No6wEyV",
+    "http://askhow.top/util/DeepSeekMonitor.zip"
+  ],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "呐喊声的",
+        "message": "试了下相同的提示词，完美复刻了。",
+        "likes": 170,
+        "time": "2026-07-16 15:59:51"
+      },
+      {
+        "user": "UPLUZ",
+        "message": "应评论区要求，一轮对话直出，除了右上角的❌点了没反应，必须右键退出以外，感觉没啥毛病。",
+        "likes": 106,
+        "time": "2026-07-16 11:19:24"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我也灰度到了[doge]",
+        "likes": 64,
+        "time": "2026-07-16 11:19:31"
+      },
+      {
+        "user": "bulingstar9277",
+        "message": "我也灰度到了，灰度测试的deepseek缓存命中比预览版还要夸张，我真不知道该咋说了[星星眼]真是又强又便宜，我还没做完，做完发出来看看",
+        "likes": 49,
+        "time": "2026-07-16 23:57:17"
+      },
+      {
+        "user": "疯狂的贝弗利",
+        "message": "非程序员问下大家，是不是意味着我也可以跟deepseek提需求，然后做出一些小的app、应用、小程序了？",
+        "likes": 44,
+        "time": "2026-07-16 21:47:50"
+      },
+      {
+        "user": "值得九文大钱的茴香豆",
+        "message": "礼貌问下，怎么判断自己是否被灰度到了呢",
+        "likes": 24,
+        "time": "2026-07-16 20:13:36"
+      },
+      {
+        "user": "莫一隐坤",
+        "message": "感觉写这些常见的对ds来说太简单了，我用来写autojs6代码，ds10次有5次报错，还有部分问题写30次也没法用，gpt却能每次都能运行而且很完善[笑哭]",
+        "likes": 19,
+        "time": "2026-07-16 23:24:15"
+      },
+      {
+        "user": "大雪米小饼",
+        "message": "不知道咋整的 昨天调API能识图了 可能设置问题 也可能是ds新模型",
+        "likes": 19,
+        "time": "2026-07-16 18:19:12"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "https://b23.tv/BV139No6wEyV \n朋友们，mac版也做好了，需要的自取\n\nmac版 http://askhow.top/util/GlassMonitor-1.0.dmg\nwindow版 http://askhow.top/util/DeepSeekMonitor.zip",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/BV139No6wEyV",
+          "http://askhow.top/util/DeepSeekMonitor.zip"
+        ],
+        "time": "2026-07-18 01:07:19"
+      }
+    ]
+  }
+}

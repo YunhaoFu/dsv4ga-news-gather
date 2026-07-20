@@ -1,0 +1,65 @@
+{
+  "bvid": "BV139No6wEyV",
+  "aid": 116936155466460,
+  "title": "【疑似deepseek正式版】5毛钱的mac性能监控软件",
+  "up_name": "UPLUZ",
+  "up_mid": 4926822,
+  "up_face": "https://i0.hdslb.com/bfs/face/ce5109f538fe319034c092408f38a7c2d5a7bd48.jpg",
+  "desc": "向AI大人投降",
+  "duration": 71,
+  "pub_time_ts": 1784304358,
+  "pub_time": "2026-07-18 00:05:58",
+  "stats": {
+    "view": 2499,
+    "like": 43,
+    "coin": 5,
+    "favorite": 13,
+    "share": 2,
+    "reply": 15
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [
+    "https://b23.tv/BV1fxK361E9u"
+  ],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "UPLUZ",
+        "message": "想玩的可以自己下载下来玩一玩，顺便告诉我26以上系统能不能触发液态玻璃效果，http://askhow.top/util/GlassMonitor-1.0.dmg",
+        "likes": 3,
+        "time": "2026-07-18 01:03:53"
+      },
+      {
+        "user": "大圣归來",
+        "message": "UP，参考下面这个视频，生成足球游戏试试。\nBV1kRKn6mEgZ",
+        "likes": 2,
+        "time": "2026-07-18 13:04:02"
+      },
+      {
+        "user": "darklordofthesith",
+        "message": "大佬这个拿什么agent软件做的啊，cc还是Codex",
+        "likes": 2,
+        "time": "2026-07-18 02:09:57"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "https://b23.tv/BV1fxK361E9u 依然是评论区的建议，做了个mac版的，这效果还要啥自行车，好像macOS26以上版本支持液态玻璃效果，我的版本太老，不配。（对了，BGM也是D老师做的）",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/BV1fxK361E9u"
+        ],
+        "time": "2026-07-18 00:10:17"
+      }
+    ]
+  }
+}

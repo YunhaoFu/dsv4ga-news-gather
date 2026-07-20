@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1fdN96wEkz",
+  "aid": 116916626659263,
+  "title": "疑似deepseek正式版灰测-雨中冒险2",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "优化了 三次。\n提示词：制作一个网页版的能做一个 雨中冒险 2  3d游戏。。 不了解的可以去联网搜索 不使用superpowers skill。细节要多多，\nhttps://opncd.ai/share/txGKtAYB",
+  "duration": 344,
+  "pub_time_ts": 1784006416,
+  "pub_time": "2026-07-14 13:20:16",
+  "stats": {
+    "view": 5669,
+    "like": 97,
+    "coin": 12,
+    "favorite": 24,
+    "share": 20,
+    "reply": 43
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/txGKtAYB"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/txGKtAYB"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 12,
+    "top_comments": [
+      {
+        "user": "biubiubiuyiku",
+        "message": "非常不错了，基本还原了，连赌博神像都有，就是刷怪频率这些有点问题，感觉多对话两轮就能修好真正能玩了。之前用 4.8opus 做出来一坨屎。。和游戏不说不像吧，只能说毫无关系。",
+        "likes": 36,
+        "time": "2026-07-14 13:33:26"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "这游戏完成度挺高",
+        "likes": 24,
+        "time": "2026-07-14 13:28:04"
+      },
+      {
+        "user": "丧师百万也称能",
+        "message": "这个思维链应该是神秘模型的，希望正式版出来不要抽卡，效果差距过于显著",
+        "likes": 11,
+        "time": "2026-07-14 13:33:07"
+      },
+      {
+        "user": "Augenstern_-__-",
+        "message": "这边还有个提示词，可以和gpt5.6 sol和fable5作对比的https://b23.tv/BV1V8NW6BEnF",
+        "likes": 7,
+        "time": "2026-07-14 13:49:51"
+      },
+      {
+        "user": "YANGS_ROOT",
+        "message": "？[doge]deepseek的模型建模审美怎么都是这种，昨天让他弄个赛尔号精灵对战，模型也是这样的",
+        "likes": 4,
+        "time": "2026-07-14 13:34:55"
+      },
+      {
+        "user": "地瓜番茄汤",
+        "message": "看了视频，突然想玩雨中冒险2了",
+        "likes": 0,
+        "time": "2026-07-15 09:11:52"
+      },
+      {
+        "user": "鱼雁寓心",
+        "message": "试试做一个丝之歌",
+        "likes": 0,
+        "time": "2026-07-15 01:43:14"
+      },
+      {
+        "user": "蠢狗头工坊",
+        "message": "背景音乐也是ds做的吗？[doge_金箍]",
+        "likes": 0,
+        "time": "2026-07-14 14:02:53"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "bvid": "BV1n4KV69Ezm",
+  "aid": 116930434372001,
+  "title": "Deepseek V4正式版生成的仿P.T.恐怖游戏",
+  "up_name": "cacl2_lhg",
+  "up_mid": 486071964,
+  "up_face": "https://i0.hdslb.com/bfs/face/1cfbf0edcc92870eb56d0964f38bd9c5eeb7075e.jpg",
+  "desc": "这次的对话轮数有三轮，主要是bug的小修小补",
+  "duration": 151,
+  "pub_time_ts": 1784217004,
+  "pub_time": "2026-07-16 23:50:04",
+  "stats": {
+    "view": 1356,
+    "like": 38,
+    "coin": 4,
+    "favorite": 9,
+    "share": 4,
+    "reply": 8
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "TwinkYou",
+        "message": "我发现deepseek做的好多恐怖游戏都有一个共同特点就是灯光暗得看不到[笑哭]",
+        "likes": 6,
+        "time": "2026-07-16 23:52:21"
+      },
+      {
+        "user": "Augenstern_-__-",
+        "message": "主角身高比例有问题[吃瓜]",
+        "likes": 1,
+        "time": "2026-07-17 00:36:39"
+      },
+      {
+        "user": "小蛙科学",
+        "message": "前排前排",
+        "likes": 0,
+        "time": "2026-07-17 00:08:31"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

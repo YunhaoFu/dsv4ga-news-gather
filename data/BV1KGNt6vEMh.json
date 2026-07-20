@@ -1,0 +1,108 @@
+{
+  "bvid": "BV1KGNt6vEMh",
+  "aid": 116918405305773,
+  "title": "疑似deepseekv4正式版灰测-愤怒的小鸟",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "功能一次直出，第二个对话改成了关卡全解锁。\nhttps://opncd.ai/share/gEcCEN3m",
+  "duration": 130,
+  "pub_time_ts": 1784033487,
+  "pub_time": "2026-07-14 20:51:27",
+  "stats": {
+    "view": 11336,
+    "like": 167,
+    "coin": 16,
+    "favorite": 59,
+    "share": 39,
+    "reply": 94
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/gEcCEN3m"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/gEcCEN3m"
+  ],
+  "all_download_links": [
+    "https://b23.tv/7H6wmYQ"
+  ],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "核爆 奥特曼 瘫坐",
+        "likes": 132,
+        "time": "2026-07-14 20:57:53"
+      },
+      {
+        "user": "bili_41000732801",
+        "message": "对话里出现了：“全部资源均为原创程序生成，无任何受版权保护的素材”。\n模型对齐做的挺到位。这大概会是正式版的检查点",
+        "likes": 36,
+        "time": "2026-07-14 21:13:12"
+      },
+      {
+        "user": "账号可能被盗谨防诈骗",
+        "message": "已严肃观看",
+        "likes": 32,
+        "time": "2026-07-14 21:03:40"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "坠机了",
+        "likes": 30,
+        "time": "2026-07-14 21:53:41"
+      },
+      {
+        "user": "八小时不摸鱼的大冤种",
+        "message": "这滔天的对话次数、打字机般的岀码速度、优雅可读得代码质量，关键是这价格对比起来基本等于免费啊！[笑哭]",
+        "likes": 19,
+        "time": "2026-07-15 08:29:02"
+      },
+      {
+        "user": "DaVinci-2nd",
+        "message": "依旧瘫坐原子弹爆炸[Ave Mujica_怎么突然]",
+        "likes": 10,
+        "time": "2026-07-14 21:04:36"
+      },
+      {
+        "user": "小锦毛鼠123",
+        "message": "这比之前智谱 GLM 5.2 测的强[打call]",
+        "likes": 10,
+        "time": "2026-07-14 21:03:46"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "功能一次直出，第二个对话改成了关卡全解锁。\nhttps://opncd.ai/share/gEcCEN3m",
+        "likes": 7,
+        "time": "2026-07-14 20:59:14"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "【（以坠机）疑似dsv4正式版灰测  暮色森林（做一半坠机了）-哔哩哔哩】 https://b23.tv/7H6wmYQ",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/7H6wmYQ"
+        ],
+        "time": "2026-07-14 22:08:18"
+      },
+      {
+        "reply_to": "(UP主评论)",
+        "message": "功能一次直出，第二个对话改成了关卡全解锁。\nhttps://opncd.ai/share/gEcCEN3m",
+        "share_links": [
+          "https://opncd.ai/share/gEcCEN3m"
+        ],
+        "download_links": [],
+        "time": "2026-07-14 20:59:14"
+      }
+    ]
+  }
+}

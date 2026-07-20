@@ -1,0 +1,97 @@
+{
+  "bvid": "BV1LvNt6DEbe",
+  "aid": 116918153385766,
+  "title": "疑似deepseekv4正式版灰度测试 部落冲突",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "一句话直出。https://opncd.ai/share/7OeT0kL2",
+  "duration": 408,
+  "pub_time_ts": 1784029532,
+  "pub_time": "2026-07-14 19:45:32",
+  "stats": {
+    "view": 3398,
+    "like": 83,
+    "coin": 12,
+    "favorite": 4,
+    "share": 8,
+    "reply": 36
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/7OeT0kL2"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/7OeT0kL2"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 14,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "有点意思[doge]",
+        "likes": 19,
+        "time": "2026-07-14 19:46:52"
+      },
+      {
+        "user": "佀骛罶祺",
+        "message": "能不能让他写个钢铁雄心4[星星眼]",
+        "likes": 3,
+        "time": "2026-07-14 22:17:13"
+      },
+      {
+        "user": "-温醨-",
+        "message": "能不能试着让他做个孢子看看？",
+        "likes": 3,
+        "time": "2026-07-14 20:43:40"
+      },
+      {
+        "user": "呐喊声的",
+        "message": "这完成度有点高啊",
+        "likes": 2,
+        "time": "2026-07-14 20:02:58"
+      },
+      {
+        "user": "卿离卿离卿",
+        "message": "哥，这个单机版部落冲突还有跳过24h功能我是真想玩",
+        "likes": 1,
+        "time": "2026-07-15 17:46:34"
+      },
+      {
+        "user": "啊咕咕咕鸽子",
+        "message": "除了pvp模式，其它确实和部落冲突一模一样，牛哇",
+        "likes": 1,
+        "time": "2026-07-14 20:28:36"
+      },
+      {
+        "user": "六祖沙蛇",
+        "message": "士兵的逻辑不太行，但框架基本都有了",
+        "likes": 0,
+        "time": "2026-07-16 15:50:52"
+      },
+      {
+        "user": "Miku_Engel",
+        "message": "帝国时代能搞不",
+        "likes": 0,
+        "time": "2026-07-15 10:49:14"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "一句话直出。\nhttps://opncd.ai/share/7OeT0kL2\n提示词： 做网页游戏 做一个 部落冲突 网络游戏 要求 玩法尽可能要还原  可以去联网搜索。\nUI和美术细节一定要漂亮。不使用superpowers skill 。  加入2倍速 3倍速 和跳过24小时的功能来模拟。\n所有基础的玩法要齐全，最好1：1还原原作的前期流程。\n音效 和 交互 要做好 尤其是音效。",
+        "share_links": [
+          "https://opncd.ai/share/7OeT0kL2"
+        ],
+        "download_links": [],
+        "time": "2026-07-14 19:46:51"
+      }
+    ]
+  }
+}

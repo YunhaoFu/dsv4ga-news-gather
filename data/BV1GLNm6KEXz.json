@@ -1,0 +1,95 @@
+{
+  "bvid": "BV1GLNm6KEXz",
+  "aid": 116912684014367,
+  "title": "疑似deepseek-v4正式版-恐怖迷宫-一句话生成",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "评论区要求 \n提示词：\n做一个网页版3D后室恐怖游戏，尽量还原WD版后室氛围。第一人称视角，玩家身高1.7m左右，场景按真实比例制作，天花板约5m高。地图采用无限迷宫式设计，黄色旧墙纸、地毯、老式荧光灯、灰尘、污渍、昏暗光照、VHS录像感都要有。加入随机生成地图、探索解谜、手电筒、电量系统和沉浸式3D音效。怪物AI希望有巡逻、搜索、追踪、攻击逻辑，能根据声音和玩家行为发现目标，不瞬移、不穿墙，追逐时有压迫感。整体目标是让玩家感觉进入了一个真实存在的异常空间，而不是普通游戏地图",
+  "duration": 125,
+  "pub_time_ts": 1783946033,
+  "pub_time": "2026-07-13 20:33:53",
+  "stats": {
+    "view": 3234,
+    "like": 61,
+    "coin": 4,
+    "favorite": 13,
+    "share": 7,
+    "reply": 33
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/yc7EORJE"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 10,
+    "top_comments": [
+      {
+        "user": "月夜下的琉璃色",
+        "message": "恐怖游戏还真是舒适区[喜极而泣]",
+        "likes": 25,
+        "time": "2026-07-13 20:40:14"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "【疑似deepseekv4正式版灰测-传说之下undertale】https://www.bilibili.com/video/BV11UN269EvD?vd_source=fadb6a68cd8a002b6e42205d730dc3a2\n新视频 传说之下",
+        "likes": 9,
+        "time": "2026-07-13 21:37:01"
+      },
+      {
+        "user": "Fofbgskkbvdk",
+        "message": "没准ds内部就喜欢玩恐怖游戏[doge]",
+        "likes": 5,
+        "time": "2026-07-13 21:23:26"
+      },
+      {
+        "user": "夏工r",
+        "message": "素材图",
+        "likes": 4,
+        "time": "2026-07-13 21:32:14"
+      },
+      {
+        "user": "懒得想名称2345",
+        "message": "UP主加油！",
+        "likes": 3,
+        "time": "2026-07-13 20:35:22"
+      },
+      {
+        "user": "夏工r",
+        "message": "我用glm试了一下这个素材，画面好了很多，不过这个游戏玩法有点单调，好像都是普攻",
+        "likes": 1,
+        "time": "2026-07-13 22:35:57"
+      },
+      {
+        "user": "紫禁WU",
+        "message": "DeepSeek虽然强，但还是没有gpt5.6厉害，关键倍率也不必deepseek贵多少",
+        "likes": 0,
+        "time": "2026-07-15 00:51:00"
+      },
+      {
+        "user": "GPT等AI订阅-可开票15",
+        "message": "AI让知识学习变得更像互动交流✧",
+        "likes": 0,
+        "time": "2026-07-14 02:40:38"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "https://opncd.ai/share/yc7EORJE",
+        "share_links": [
+          "https://opncd.ai/share/yc7EORJE"
+        ],
+        "download_links": [],
+        "time": "2026-07-13 20:34:57"
+      }
+    ]
+  }
+}

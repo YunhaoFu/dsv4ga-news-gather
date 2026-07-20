@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1CHKP6KErJ",
+  "aid": 116940433591056,
+  "title": "基于Deepseekv4正式版灰测的原神启动——二维方块大世界",
+  "up_name": "飯綱九龍",
+  "up_mid": 35822724,
+  "up_face": "https://i0.hdslb.com/bfs/face/70331bca6d8369b8f256acb123146186d7435e67.jpg",
+  "desc": "https://opncd.ai/share/x18q57WQ",
+  "duration": 269,
+  "pub_time_ts": 1784369438,
+  "pub_time": "2026-07-18 18:10:38",
+  "stats": {
+    "view": 9157,
+    "like": 169,
+    "coin": 6,
+    "favorite": 27,
+    "share": 46,
+    "reply": 33
+  },
+  "tags": [],
+  "share_links": [
+    "https://opncd.ai/share/x18q57WQ"
+  ],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/x18q57WQ"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 15,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我就知道，会有这一天[笑哭]",
+        "likes": 106,
+        "time": "2026-07-18 18:16:11"
+      },
+      {
+        "user": "侥幸的侥幸",
+        "message": "bro这是灰度到了嘛，怎么判断自己有没有灰度到瓦[鸭科夫_干嘛鸭]",
+        "likes": 15,
+        "time": "2026-07-18 18:40:03"
+      },
+      {
+        "user": "聊来里狼",
+        "message": "原神瑞亚",
+        "likes": 13,
+        "time": "2026-07-18 21:32:21"
+      },
+      {
+        "user": "旌湖居士",
+        "message": "这个是用agent做的吗？还是API就可以做出来啊",
+        "likes": 10,
+        "time": "2026-07-18 19:17:47"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "这个走路太不自然了，怎么不修一下[doge]",
+        "likes": 7,
+        "time": "2026-07-18 18:40:16"
+      },
+      {
+        "user": "黑岩的玛瑙",
+        "message": "怎么是2d的不过，美术ds自己搓的吗",
+        "likes": 7,
+        "time": "2026-07-18 18:14:32"
+      },
+      {
+        "user": "偷偷的悄悄的沉默",
+        "message": "没让它去获取原神音频吗",
+        "likes": 7,
+        "time": "2026-07-18 18:36:57"
+      },
+      {
+        "user": "赤石大王_A_A_A",
+        "message": "急急急，我真要急眼了，死活刷不出",
+        "likes": 3,
+        "time": "2026-07-18 18:29:08"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

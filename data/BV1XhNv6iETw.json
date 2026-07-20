@@ -1,0 +1,95 @@
+{
+  "bvid": "BV1XhNv6iETw",
+  "aid": 116922263800263,
+  "title": "【deepseekv4正式版】制作我的深空（我的世界融合无人深空）",
+  "up_name": "北宸Polariss",
+  "up_mid": 11211141,
+  "up_face": "https://i0.hdslb.com/bfs/face/562e8fba2152977798a804a2b583033df546b3b4.jpg",
+  "desc": "",
+  "duration": 1856,
+  "pub_time_ts": 1784092524,
+  "pub_time": "2026-07-15 13:15:24",
+  "stats": {
+    "view": 9339,
+    "like": 165,
+    "coin": 33,
+    "favorite": 42,
+    "share": 46,
+    "reply": 144
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/eu7TNWyn"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "I修行者I",
+        "message": "一块钱做个小游戏，这个成本无敌了。周五是人工智能大会，华为950集群真机展示，正好又是经典的利空发布时间点，周末发酵两天，下周一坐等美股大跌。深度求索现在推理和训练完全可以基于华为全国产集群来做，华为单卡不如英伟达强，但集群秒杀英伟达，现在模型也可以秒杀AO，逻辑也一样，单轮可能平均比fable5差一丢丢，但凭借低谷是它1/60的价格，一切都是浮云。",
+        "likes": 88,
+        "time": "2026-07-15 13:49:01"
+      },
+      {
+        "user": "一条贼欠打的咸鱼",
+        "message": "不对，大模型不是这样做的，你应该先攻光刻机，再攻训练卡，最后攻软件生态，然后把参数量提到10t再落后于mythos发布啊😭😭😭",
+        "likes": 58,
+        "time": "2026-07-15 15:01:17"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "我去感觉比我那个破万的效果好很多啊[打call]",
+        "likes": 38,
+        "time": "2026-07-15 14:16:49"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "厉害了[doge]",
+        "likes": 26,
+        "time": "2026-07-15 13:29:31"
+      },
+      {
+        "user": "SurOOOprise",
+        "message": "agent能力肉眼可见感觉有很大的提升，可以期待一下发布的时候和glm的对比如何。",
+        "likes": 21,
+        "time": "2026-07-15 14:50:22"
+      },
+      {
+        "user": "海十Mirage",
+        "message": "有人说你们用fable5冒充ds呢",
+        "likes": 20,
+        "time": "2026-07-15 15:11:40"
+      },
+      {
+        "user": "你的是我DIO达",
+        "message": "神人一个",
+        "likes": 17,
+        "time": "2026-07-15 15:01:05"
+      },
+      {
+        "user": "杠精MrS",
+        "message": "二次元立绘也是代码生成的[笑哭]无敌了",
+        "likes": 11,
+        "time": "2026-07-16 04:18:18"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "opencode链接：https://opncd.ai/share/eu7TNWyn",
+        "share_links": [
+          "https://opncd.ai/share/eu7TNWyn"
+        ],
+        "download_links": [],
+        "time": "2026-07-15 13:44:10"
+      }
+    ]
+  }
+}

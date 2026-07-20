@@ -1,0 +1,104 @@
+{
+  "bvid": "BV12SNq6wEDP",
+  "aid": 116923102665689,
+  "title": "疑似deepseek v4正式版灰度   戴森球x我的世界",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "",
+  "duration": 815,
+  "pub_time_ts": 1784105275,
+  "pub_time": "2026-07-15 16:47:55",
+  "stats": {
+    "view": 8274,
+    "like": 173,
+    "coin": 35,
+    "favorite": 28,
+    "share": 53,
+    "reply": 143
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/lORSRs65"
+  ],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "底特律肥宅",
+        "message": "我承认在我提这个组合建议的时候其实是心虚的，但是现在看来d老师还真接住了",
+        "likes": 80,
+        "time": "2026-07-15 17:07:49"
+      },
+      {
+        "user": "GrotesqueG",
+        "message": "[笑哭]这么些天在各位up那里把各种“dsv4正式版”的“vibe game producing”例子看下来，感觉这个“未知模型”确实很有特点：可以很明显地从二维画面游戏和部分固定俯仰角的三维画面游戏中看出，确实就像是个没有多模态的模型能搞出来的美术水平（这方面fable5是另一极，所以不管这个“未知模型”到底是啥我觉得和fable5可能是最美有关系的x，不论是从水平还是风格上看）；但对于“可以取巧”的一些项目（比如mc得益于大量人类开源项目的积累，在规划游戏玩法和美术素材创作上会有便利；又比如几位up都测试过的恐怖游戏，也有不少用画面效果补偿美术水平的“小巧思”），这个“未知模型”在我个人看",
+        "likes": 63,
+        "time": "2026-07-15 17:02:12"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "另一个半路路由到预览了，最后效果很垃圾，不想发了。\n现在新对话不好使。如果恢复了，我想换一套新的提示词重做一遍我的戴森球。",
+        "likes": 37,
+        "time": "2026-07-15 17:39:06"
+      },
+      {
+        "user": "kdzzzds",
+        "message": "下一期  尝试复刻机械动力按W思索（在这个视频项目的基础上）\n群星+文明\n新对话又双坠机了",
+        "likes": 29,
+        "time": "2026-07-15 17:32:05"
+      },
+      {
+        "user": "月夜下的琉璃色",
+        "message": "依旧瘫倒[doge]",
+        "likes": 24,
+        "time": "2026-07-15 17:15:26"
+      },
+      {
+        "user": "hxtakutaku",
+        "message": "等出来，我也要试试mc+龙珠格斗。 mc指挥机器人（机器人接上大模型）建造岛屿（看看能做到什么程度）。甚至mc+四驱车比赛，每款赛车有各自的能力和技能，各种神奇场景+跑道。",
+        "likes": 23,
+        "time": "2026-07-15 16:57:23"
+      },
+      {
+        "user": "゚QTY",
+        "message": "Fable5？不过是 D 指导的识图 OCR 罢了🤓",
+        "likes": 19,
+        "time": "2026-07-15 17:26:33"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "你们看着会糊吗？为什么我看着有点糊？",
+        "likes": 15,
+        "time": "2026-07-15 16:56:53"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "回复 kdzzzds",
+        "message": "视频对话：https://opncd.ai/share/lORSRs65",
+        "share_links": [
+          "https://opncd.ai/share/lORSRs65"
+        ],
+        "download_links": [],
+        "time": "2026-07-15 17:39:18"
+      },
+      {
+        "reply_to": "(UP主评论)",
+        "message": "https://opncd.ai/share/lORSRs65\n录屏是我的原因，我没有调好设置\n这次是伪一次直出，中间意外中断了",
+        "share_links": [
+          "https://opncd.ai/share/lORSRs65"
+        ],
+        "download_links": [],
+        "time": "2026-07-15 17:11:24"
+      }
+    ]
+  }
+}

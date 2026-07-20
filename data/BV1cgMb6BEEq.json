@@ -1,0 +1,110 @@
+{
+  "bvid": "BV1cgMb6BEEq",
+  "aid": 116878794103327,
+  "title": "DeepSeek V4正式版 再次测试《我的世界》",
+  "up_name": "冬眠の松鼠_",
+  "up_mid": 3546711534341091,
+  "up_face": "https://i0.hdslb.com/bfs/face/bbeb8374af195a11e1deda31b364f36ed2d59a77.jpg",
+  "desc": "我装上了OpenCode，用和室友同样的提示词再次写了《我的世界》",
+  "duration": 107,
+  "pub_time_ts": 1783428941,
+  "pub_time": "2026-07-07 20:55:41",
+  "stats": {
+    "view": 30581,
+    "like": 382,
+    "coin": 27,
+    "favorite": 144,
+    "share": 147,
+    "reply": 148
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [
+    "https://opncd.ai/share/XGCzXWBj",
+    "https://opncd.ai/share/EYJa8Tle",
+    "https://opncd.ai/share/o8R56xdE"
+  ],
+  "all_download_links": [
+    "https://b23.tv/BV1t6Mh6RErw"
+  ],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "冬眠の松鼠_",
+        "message": "opencode是我新装的，没加任何东西。一开始用cc试了一下，效果不太理想，不清楚原因。目前正常让它写csgo，大伙儿有什么想看的也可以跟我讲",
+        "likes": 62,
+        "time": "2026-07-07 21:22:24"
+      },
+      {
+        "user": "L_Shy_P",
+        "message": "Open Code页面都是中文的，DeepSeek思考依旧英文[笑哭]",
+        "likes": 42,
+        "time": "2026-07-08 00:12:29"
+      },
+      {
+        "user": "DaVinci-2nd",
+        "message": "如果deepseek正式版真表现这个程度，那么已经超过GPT5.5和GLM5.2，直逼fable5去了[doge]",
+        "likes": 34,
+        "time": "2026-07-08 08:09:25"
+      },
+      {
+        "user": "DD健",
+        "message": "果然比我的预览版强，我的跑出来全是黑块块",
+        "likes": 31,
+        "time": "2026-07-07 21:12:34"
+      },
+      {
+        "user": "等着珊珊",
+        "message": "确实跟我用预览版的完全不一样，我这出的结果进去就是黑屏，玩不了一点[笑哭]",
+        "likes": 14,
+        "time": "2026-07-07 22:09:34"
+      },
+      {
+        "user": "Fofbgskkbvdk",
+        "message": "不是，不应该是每次提问或者每轮对话概率路由到灰测吗？怎么你是api灰测啊？",
+        "likes": 14,
+        "time": "2026-07-07 22:42:07"
+      },
+      {
+        "user": "bili_57815425068",
+        "message": "试试其他游戏，比如泰拉瑞亚，星露谷物语",
+        "likes": 13,
+        "time": "2026-07-07 21:18:59"
+      },
+      {
+        "user": "MathsLover",
+        "message": "【开源最强GLM5.2对决GPT5.5做我的世界谁更强？-哔哩哔哩】 https://b23.tv/0kG1bpm\n这个是gpt5.5+codex和glm5.2+opencode的结果。gpt做的东西相对更多，生物还做了不少。洞穴啥的也做了，合成系统做了(第一轮有bug)。但是比不上fable的光影效果",
+        "likes": 12,
+        "time": "2026-07-08 05:21:40"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "V4正式版一句话生成《CS：GO》，大伙儿速来看[微笑]\nhttps://b23.tv/BV1t6Mh6RErw",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/BV1t6Mh6RErw"
+        ],
+        "time": "2026-07-07 22:49:47"
+      },
+      {
+        "reply_to": "(UP主评论)",
+        "message": "https://opncd.ai/share/o8R56xdE\nhttps://opncd.ai/share/XGCzXWBj\nhttps://opncd.ai/share/EYJa8Tle\n灰度测试似乎已结束，以上分别是我让它写日恐、群星、CSGO的对话记录。希望V4正式版发布的那一天能重回国模巅峰[再见]",
+        "share_links": [
+          "https://opncd.ai/share/XGCzXWBj",
+          "https://opncd.ai/share/EYJa8Tle",
+          "https://opncd.ai/share/o8R56xdE"
+        ],
+        "download_links": [],
+        "time": "2026-07-10 14:15:46"
+      }
+    ]
+  }
+}
