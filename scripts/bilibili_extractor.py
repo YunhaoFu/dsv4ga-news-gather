@@ -63,12 +63,12 @@ def validate_title(title: str) -> tuple:
     返回: (是否通过, 原因)
     """
     tl = title.lower()
-    has_deepseek = 'deepseek' in tl
+    has_ds_keyword = 'deepseek' in tl or 'ds' in tl
     has_gray = '灰' in title
     has_official = '正式' in title
 
-    if not has_deepseek:
-        return False, f'标题不含 "DeepSeek" (不区分大小写): "{title[:50]}..."'
+    if not has_ds_keyword:
+        return False, f'标题不含 "DeepSeek" 或 "ds" (不区分大小写): "{title[:50]}..."'
     if not (has_gray or has_official):
         return False, f'标题不含 "灰" 或 "正式": "{title[:50]}..."'
     return True, '通过'
