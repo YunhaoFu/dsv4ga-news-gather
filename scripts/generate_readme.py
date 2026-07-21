@@ -70,7 +70,10 @@ def format_readme(videos):
     
     max_count = max(date_count.values()) if date_count else 1
     sorted_dates = sorted(date_count.keys())
-    
+
+    lines.append("| 日期 | 分布 | 数量 |")
+    lines.append("|------|------|------|")
+
     for date in sorted_dates:
         count = date_count[date]
         bar_len = max(1, int(count / max_count * 30))
