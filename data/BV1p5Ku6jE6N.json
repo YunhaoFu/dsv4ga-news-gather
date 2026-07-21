@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1p5Ku6jE6N",
+  "aid": 116926558837288,
+  "title": "dsv4灰度正式版-池核模拟器",
+  "up_name": "Augenstern_-__-",
+  "up_mid": 372702868,
+  "up_face": "https://i1.hdslb.com/bfs/face/f2af5ce5785bdfda02066f711bb3fd3e431fc022.jpg",
+  "desc": "三轮出，第一轮是因为画面渲染问题，这个过于专业，解释不了。第二轮修复渲染问题，但是画面有点稍微单调，在其一个空间天花板上有一个像手电筒照下来的圆柱形扩散光，看起来很假。第三轮加强反光材质渲染质量，去掉比较假的地方",
+  "duration": 143,
+  "pub_time_ts": 1784157907,
+  "pub_time": "2026-07-16 07:25:07",
+  "stats": {
+    "view": 16522,
+    "like": 303,
+    "coin": 17,
+    "favorite": 186,
+    "share": 78,
+    "reply": 94
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 19,
+    "top_comments": [
+      {
+        "user": "呐喊声的",
+        "message": "deepseek这审美也不错呀，我都怀疑他平时是不是偷懒了，故意弄几个方块来糊弄我[笑哭]？",
+        "likes": 113,
+        "time": "2026-07-16 13:26:16"
+      },
+      {
+        "user": "kuzers",
+        "message": "这个水大概是deepseek特化过的，比我见过的其他好很多",
+        "likes": 87,
+        "time": "2026-07-16 08:14:02"
+      },
+      {
+        "user": "I修行者I",
+        "message": "这个水有点离谱，整个美术这几天看过最好的",
+        "likes": 71,
+        "time": "2026-07-16 08:07:38"
+      },
+      {
+        "user": "-swrdwr",
+        "message": "DeepSeek：用户们，我在做了，我在做了，我和我背后的制作团队们都在努力，深度求索的制作人先生们都在努力，不要再吵了[疼]",
+        "likes": 44,
+        "time": "2026-07-16 20:40:26"
+      },
+      {
+        "user": "蠢狗头工坊",
+        "message": "有一种4399以前的那种unity demo游戏的美",
+        "likes": 37,
+        "time": "2026-07-16 10:26:02"
+      },
+      {
+        "user": "天街小雨润草青",
+        "message": "同样的提示词fable5生成的[思考]水面倒影ok，但地板上没有倒影。不过这个瓷砖的材质我喜欢",
+        "likes": 19,
+        "time": "2026-07-18 14:11:10"
+      },
+      {
+        "user": "冯十合",
+        "message": "这效果是真不赖",
+        "likes": 19,
+        "time": "2026-07-16 08:01:40"
+      },
+      {
+        "user": "梁梁凉凉成梁凉",
+        "message": "我在 Arena 上抽到了 gpt-5.6-sol-xhigh ，一模一样的提示词丢进去，生成出来一片灰，一看控制台一秒几百个报错[笑哭]",
+        "likes": 15,
+        "time": "2026-07-16 22:56:04"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

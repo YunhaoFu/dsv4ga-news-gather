@@ -1,0 +1,59 @@
+{
+  "bvid": "BV1VRMp6VEd2",
+  "aid": 116890772968462,
+  "title": "deepseekV4正式版测试",
+  "up_name": "战术自娱",
+  "up_mid": 491713675,
+  "up_face": "http://i1.hdslb.com/bfs/face/0c56121925bb3b5b83056cae5f3a5ce866341d92.jpg",
+  "desc": "deep seekV4正式版测试，不同类似的测试例子，游戏，物理模型",
+  "duration": 382,
+  "pub_time_ts": 1783611784,
+  "pub_time": "2026-07-09 23:43:04",
+  "stats": {
+    "view": 4111,
+    "like": 19,
+    "coin": 0,
+    "favorite": 5,
+    "share": 2,
+    "reply": 8
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 4,
+    "top_comments": [
+      {
+        "user": "这是个一个名字",
+        "message": "感觉有点像小时候在4399上玩的我的世界小游戏了",
+        "likes": 3,
+        "time": "2026-07-12 00:12:00"
+      },
+      {
+        "user": "冬冥Luncot",
+        "message": "世界类型 旧的（） 1块钱[doge_金箍]",
+        "likes": 3,
+        "time": "2026-07-10 04:57:04"
+      },
+      {
+        "user": "花花子稍",
+        "message": "还是用中转吧，gpt5.6和claude opus4.8这些顶级都才4毛多一百万，不比dp4香。一月省下一个亿。dp4虽好还是不太用的起",
+        "likes": 1,
+        "time": "2026-07-15 15:14:49"
+      },
+      {
+        "user": "战术自娱",
+        "message": "@_MCMR 感谢提供api[doge][doge]",
+        "likes": 0,
+        "time": "2026-07-09 23:52:21"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

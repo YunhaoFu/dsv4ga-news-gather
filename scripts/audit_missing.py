@@ -25,6 +25,16 @@ SESSION.headers.update({
     'Referer': 'https://www.bilibili.com/',
 })
 
+# 登录态支持：B 站的空间视频列表接口 (x/space/wbi/arc/search) 对未登录请求会返回
+# HTTP 412 / code=-352（风控），此时刷新 WBI key 重试无效。提供 SESSDATA cookie 可解除。
+# 用法：export BILI_SESSDATA="你的SESSDATA值"  再运行本脚本。
+SESSDATA = os.environ.get('BILI_SESSDATA')
+if SESSDATA:
+    SESSION.cookies.set('SESSDATA', SESSDATA, domain='.bilibili.com', path='/')
+    print(f"[cookie] 已注入 SESSDATA (长度 {len(SESSDATA)})")
+else:
+    print("[cookie] 未检测到 BILI_SESSDATA 环境变量，将以游客身份请求（空间接口可能被风控拦截）")
+
 # Cache WBI keys
 _WBI_KEYS = None
 
@@ -57,14 +67,19 @@ def get_up_videos(mid, max_retries=3):
     """获取某 UP 主的所有视频列表，返回 (视频列表, 总计数量)"""
     all_videos = []
     total = 0
-    
+    risk_controlled = False  # 是否已判定为风控/未登录（不可靠重试）
+
     for pn in range(1, 5):
         for attempt in range(max_retries):
             try:
                 time.sleep(3)
                 params = enc_wbi({'mid': str(mid), 'ps': '30', 'pn': str(pn)})
-                r = SESSION.get('https://api.bilibili.com/x/space/wbi/arc/search', 
-                               params=params, timeout=10)
+                r = SESSION.get('https://api.bilibili.com/x/space/wbi/arc/search',
+                                params=params, timeout=10)
+                # 风控接口会直接返回 HTML (HTTP 412)，连 JSON 都不是
+                if r.status_code == 412:
+                    risk_controlled = True
+                    break
                 data = r.json()
                 if data.get('code') == 0:
                     vlist = data['data']['list']['vlist']
@@ -74,11 +89,16 @@ def get_up_videos(mid, max_retries=3):
                         return all_videos, total
                     break
                 elif data.get('code') == -352:
-                    # WBI signature error - refresh keys and retry
+                    # -352 可能是 WBI 签名过期，也可能是风控。
+                    # 仅在第 1 次尝试时刷新 key 重试一次；若已重试过仍 -352，
+                    # 则判定为风控/未登录，停止盲目重试。
                     global _WBI_KEYS
-                    _WBI_KEYS = None
-                    time.sleep(5)
-                    continue
+                    if attempt == 0:
+                        _WBI_KEYS = None
+                        time.sleep(5)
+                        continue
+                    risk_controlled = True
+                    break
                 else:
                     print(f"    API error: {data.get('message','')}")
                     time.sleep(5)
@@ -87,10 +107,16 @@ def get_up_videos(mid, max_retries=3):
                 print(f"    Exception: {e}")
                 time.sleep(5)
                 continue
-        else:
+        if risk_controlled:
+            break
+        if attempt >= max_retries - 1:
             print(f"    Failed after {max_retries} retries for page {pn}")
             break
-    
+
+    if risk_controlled:
+        print(f"  ⚠ 空间接口被风控 (HTTP 412 / code -352)，疑似未登录。")
+        print(f"    解决：export BILI_SESSDATA=\"你的SESSDATA\" 后重试（从浏览器 Cookie 获取）。")
+
     return all_videos, total
 
 def is_dsv4_video(title):

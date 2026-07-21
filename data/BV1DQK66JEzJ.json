@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1DQK66JEzJ",
+  "aid": 116947195005904,
+  "title": "疑似DS V4正式版灰度，一句话生成奥日黑暗森林",
+  "up_name": "一夜暴富-_-_-",
+  "up_mid": 286515523,
+  "up_face": "https://i1.hdslb.com/bfs/face/319174d493945c60518d9fbd51188bf73fed1782.jpg",
+  "desc": "用的官方api然后我连接上godot的mcp，指令就是让他做一个横版跳跃游戏，自己寻找免版权的资源，像素风，要像奥日，磨了一个上午出来的，狠狠被震惊了，虽然和奥日没啥关系，但是游戏非常完整。之前用glm5.2，用了一周的额度，连游戏都无法启动，在godot里面做游戏的难度感觉比网页高很多。",
+  "duration": 211,
+  "pub_time_ts": 1784472816,
+  "pub_time": "2026-07-19 22:53:36",
+  "stats": {
+    "view": 3876,
+    "like": 66,
+    "coin": 8,
+    "favorite": 21,
+    "share": 8,
+    "reply": 42
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 13,
+    "top_comments": [
+      {
+        "user": "中三",
+        "message": "我也觉得接godot做比直接生成网页难度高好多，感觉ai的能力有些被引擎限制了",
+        "likes": 15,
+        "time": "2026-07-20 00:58:45"
+      },
+      {
+        "user": "wydfwujawc",
+        "message": "估计正式版不发是在等专武一起发了",
+        "likes": 6,
+        "time": "2026-07-20 12:49:35"
+      },
+      {
+        "user": "如此这般便这般",
+        "message": "倒着走，搞反方向的通病",
+        "likes": 3,
+        "time": "2026-07-20 02:04:10"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "好好好，牛逼牛逼",
+        "likes": 3,
+        "time": "2026-07-19 23:43:18"
+      },
+      {
+        "user": "中三",
+        "message": "黑暗森林说是",
+        "likes": 2,
+        "time": "2026-07-20 00:57:13"
+      },
+      {
+        "user": "中三",
+        "message": "这是godot项目？！请问素材是怎么解决的呀",
+        "likes": 1,
+        "time": "2026-07-20 00:57:47"
+      },
+      {
+        "user": "一条芦",
+        "message": "不是说ds正式版都坠机了嘛，up你这是新灰度到的？[哦呼]",
+        "likes": 1,
+        "time": "2026-07-19 23:03:11"
+      },
+      {
+        "user": "一蓑烟雨任平生abc",
+        "message": "除了音效有点难绷，其他都挺不错",
+        "likes": 0,
+        "time": "2026-07-20 21:28:46"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

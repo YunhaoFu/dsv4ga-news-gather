@@ -15,11 +15,22 @@ import json
 import re
 import os
 import sys
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 BJT = timezone(timedelta(hours=8))
 
 # ---------- WBI签名工具 ----------
+# 标准 B 站 WBI 签名：将 img_key+sub_key 按官方混淆表重排后取前 32 位作为 mixin_key，
+# 再对参数做特殊字符过滤、排序、拼接时间戳，最后拼接 mixin_key 做 MD5。
+# 注意：早期实现误用 md5(img_key+sub_key) 整串作为 mixin_key，这不是官方算法，
+# 仅在部分对签名校验宽松的接口（如评论接口）侥幸可用，在严格的 WBI 接口上会失败。
+_WBI_MIXIN_ENC_TAB = [
+    46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35, 27, 43, 5, 49,
+    33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13, 37, 48, 7, 16, 24, 55, 40,
+    61, 26, 17, 0, 1, 60, 51, 30, 4, 22, 25, 54, 21, 56, 59, 6, 63, 57, 62, 11,
+    36, 20, 34, 44, 52
+]
 _WBI_CACHE = {"mixin_key": None, "expires_at": 0}
 
 def _get_mixin_key():
@@ -34,20 +45,22 @@ def _get_mixin_key():
     wbi_img = nav.json()['data']['wbi_img']
     img_key = wbi_img['img_url'].split('/')[-1].split('.')[0]
     sub_key = wbi_img['sub_url'].split('/')[-1].split('.')[0]
-    mixin_key = hashlib.md5(f"{img_key}{sub_key}".encode()).hexdigest()
+    orig = f"{img_key}{sub_key}"
+    mixin_key = ''.join(orig[i] for i in _WBI_MIXIN_ENC_TAB)[:32]
     _WBI_CACHE["mixin_key"] = mixin_key
     _WBI_CACHE["expires_at"] = now + 3600  # cache 1 hour
     return mixin_key
 
 def sign_params(params: dict) -> dict:
-    """给B站API参数加上WBI签名"""
+    """给B站API参数加上标准WBI签名"""
     mixin_key = _get_mixin_key()
-    sorted_p = dict(sorted(params.items()))
-    wts = str(int(time.time()))
-    sorted_p['wts'] = wts
-    query = '&'.join([f'{k}={sorted_p[k]}' for k in sorted(sorted_p.keys())])
-    sorted_p['w_rid'] = hashlib.md5(f"{query}{mixin_key}".encode()).hexdigest()
-    return sorted_p
+    params = dict(sorted(params.items()))
+    params['wts'] = str(int(time.time()))
+    # 过滤 B 站约定的特殊字符（与官方实现一致）
+    params = {k: ''.join(filter(lambda c: c not in "!'()*", str(v))) for k, v in params.items()}
+    query = urllib.parse.urlencode(params)
+    params['w_rid'] = hashlib.md5(f"{query}{mixin_key}".encode()).hexdigest()
+    return params
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',

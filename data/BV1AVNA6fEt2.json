@@ -1,0 +1,65 @@
+{
+  "bvid": "BV1AVNA6fEt2",
+  "aid": 116902265363156,
+  "title": "疑似灰度到dsv4p正式版后做的coding测试",
+  "up_name": "Nazidada",
+  "up_mid": 1788287073,
+  "up_face": "https://i0.hdslb.com/bfs/face/ccc643fad558edc95adf3263cd29b333add38d98.jpg",
+  "desc": "使用模型:DeepSeek V4 Pro\n渠道：DeepSeek Platform（api）\n工具：Claude Code\n感觉是被灰度到了 有清楚的朋友可以说一声",
+  "duration": 59,
+  "pub_time_ts": 1783787246,
+  "pub_time": "2026-07-12 00:27:26",
+  "stats": {
+    "view": 3167,
+    "like": 35,
+    "coin": 0,
+    "favorite": 8,
+    "share": 1,
+    "reply": 17
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 5,
+    "top_comments": [
+      {
+        "user": "DaVinci-2nd",
+        "message": "我感觉我用上真货了[Ave Mujica_怎么突然]",
+        "likes": 27,
+        "time": "2026-07-12 04:44:51"
+      },
+      {
+        "user": "2258ppq",
+        "message": "感觉更像是有 skill 加持的预览版啊[笑哭]",
+        "likes": 3,
+        "time": "2026-07-12 00:56:38"
+      },
+      {
+        "user": "库哈库空",
+        "message": "好家伙，你这个和我做的差不多一摸一样，我被困在底下的空气墙里了[笑哭]",
+        "likes": 2,
+        "time": "2026-07-12 12:00:05"
+      },
+      {
+        "user": "Nazidada",
+        "message": "从空文件夹开始对话了三次，后两次主要是修bug\n就是烧tokens确实快",
+        "likes": 1,
+        "time": "2026-07-12 00:30:46"
+      },
+      {
+        "user": "有币必投doge",
+        "message": "我真的要受不了啦，看你们天天发视频而我又用不了，馋死我了[笑哭]",
+        "likes": 0,
+        "time": "2026-07-13 19:20:28"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

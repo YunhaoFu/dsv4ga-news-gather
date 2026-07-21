@@ -1,0 +1,83 @@
+{
+  "bvid": "BV11BM76UE44",
+  "aid": 116887853730093,
+  "title": "这期神了，dsv4灰度版生成的mc",
+  "up_name": "新鲜生萝卜",
+  "up_mid": 513776916,
+  "up_face": "https://i0.hdslb.com/bfs/face/09254d48afce2f9c658cd47690085c998f998fd6.jpg",
+  "desc": "感谢@_MCMR 大佬提供的灰度测试apikey",
+  "duration": 127,
+  "pub_time_ts": 1783567161,
+  "pub_time": "2026-07-09 11:19:21",
+  "stats": {
+    "view": 208685,
+    "like": 7191,
+    "coin": 53,
+    "favorite": 687,
+    "share": 413,
+    "reply": 318
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "星星火车-",
+        "message": "ds敢涨价，至少证明他们内部认为正式版是比预览版要强很多的",
+        "likes": 1217,
+        "time": "2026-07-09 22:42:50"
+      },
+      {
+        "user": "星星火车-",
+        "message": "ds敢涨价，至少证明他们内部认为正式版是比预览版要强很多的",
+        "likes": 1217,
+        "time": "2026-07-09 22:42:50"
+      },
+      {
+        "user": "星星火车-",
+        "message": "ds敢涨价，至少证明他们内部认为正式版是比预览版要强很多的",
+        "likes": 1217,
+        "time": "2026-07-09 22:42:50"
+      },
+      {
+        "user": "薛宝钗呀吼",
+        "message": "这个10年间放4399也是夯爆了",
+        "likes": 772,
+        "time": "2026-07-10 19:57:02"
+      },
+      {
+        "user": "薛宝钗呀吼",
+        "message": "这个10年间放4399也是夯爆了",
+        "likes": 772,
+        "time": "2026-07-10 19:57:02"
+      },
+      {
+        "user": "薛宝钗呀吼",
+        "message": "这个10年间放4399也是夯爆了",
+        "likes": 772,
+        "time": "2026-07-10 19:57:02"
+      },
+      {
+        "user": "哈基哈基薯",
+        "message": "DeepSeek本身不算顶尖，但它就像所有AI模型身后的蜗牛，被追上了就是死[doge][支持]",
+        "likes": 351,
+        "time": "2026-07-14 06:46:40"
+      },
+      {
+        "user": "哈基哈基薯",
+        "message": "DeepSeek本身不算顶尖，但它就像所有AI模型身后的蜗牛，被追上了就是死[doge][支持]",
+        "likes": 351,
+        "time": "2026-07-14 06:46:40"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

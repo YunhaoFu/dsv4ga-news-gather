@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1xhNP6KE1G",
+  "aid": 116903506875459,
+  "title": "疑似deepseekV4正式版 实战：三轮速通了我的项目新功能构建",
+  "up_name": "DaVinci-2nd",
+  "up_mid": 432070384,
+  "up_face": "https://i1.hdslb.com/bfs/face/b066cf8745a32ecc502c4d0988cc319977910702.jpg",
+  "desc": "直接使用我自己的自研游戏引擎项目进行实战测试，只能用邪门来形容，一块六毛钱解决了几十块都很难拿下的东西",
+  "duration": 59,
+  "pub_time_ts": 1783806049,
+  "pub_time": "2026-07-12 05:40:49",
+  "stats": {
+    "view": 9141,
+    "like": 190,
+    "coin": 6,
+    "favorite": 53,
+    "share": 25,
+    "reply": 80
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 18,
+    "top_comments": [
+      {
+        "user": "黄天火",
+        "message": "这下梁圣出门真要带保镖了，天妒英才不是闹着玩的[嘟嘟]",
+        "likes": 79,
+        "time": "2026-07-12 12:20:49"
+      },
+      {
+        "user": "小布儿乔亚的矫矫矫情",
+        "message": "DeepSeek要是保持这个势头再配合昇腾芯片的顺利上市加速，那么最晚明年上半年，最早今年下半年，我们能够一起欣赏美股的崩塌了[笑哭]",
+        "likes": 58,
+        "time": "2026-07-12 12:49:30"
+      },
+      {
+        "user": "FLAW君",
+        "message": "up这思路和我一样，遇到v4解决不了的bug就上glm，结果昨天为了解决个问题烧了我60多。不过确实是花了不到50分钟给解决了[笑哭]。今早想买一个glm5.2的Coding plan，结果还抢不到，只能说正式版赶紧来吧，能有GLM5.2的8成水平就帮大忙了",
+        "likes": 53,
+        "time": "2026-07-12 10:21:07"
+      },
+      {
+        "user": "jiasdmingzu_x",
+        "message": "glm5.2：完了，冲我来的[尴尬]",
+        "likes": 38,
+        "time": "2026-07-12 10:17:55"
+      },
+      {
+        "user": "月夜下的琉璃色",
+        "message": "难道说……",
+        "likes": 34,
+        "time": "2026-07-12 12:10:56"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我实名羡慕[笑哭][笑哭]",
+        "likes": 20,
+        "time": "2026-07-12 13:30:35"
+      },
+      {
+        "user": "小弟弟09",
+        "message": "王朝了[星星眼]",
+        "likes": 18,
+        "time": "2026-07-12 05:50:27"
+      },
+      {
+        "user": "Bruhgogo",
+        "message": "我用网页端专业版Deepseek在一天内速通了多线程引擎[笑哭]",
+        "likes": 10,
+        "time": "2026-07-12 12:05:44"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1Q1NT6pEcY",
+  "aid": 116905671138665,
+  "title": "疑似deepseekV4正式版-思维链详解：它是如何高质量完成任务的",
+  "up_name": "DaVinci-2nd",
+  "up_mid": 432070384,
+  "up_face": "https://i1.hdslb.com/bfs/face/b066cf8745a32ecc502c4d0988cc319977910702.jpg",
+  "desc": "个人分析的感觉是：\n预览版就像一个书呆子，空有一堆知识但是实操时很难搞清楚自己应该干嘛\n正式版就像一个有充分经验的业内人士，知道如何解决系统性问题，不会仅依靠死知识\n说明模型的后训练非常重要，对输出质量的优化是质的飞跃\n（注：我不会提供我的API的）",
+  "duration": 326,
+  "pub_time_ts": 1783839138,
+  "pub_time": "2026-07-12 14:52:18",
+  "stats": {
+    "view": 48246,
+    "like": 819,
+    "coin": 85,
+    "favorite": 496,
+    "share": 318,
+    "reply": 732
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "女友星顺瞳",
+        "message": "当务之急是快点出官方 agent 把 Claude 和 codex 替代掉，这样 ds 才能基于自己的模型和 agent 数据继续训练迭代，闭源模型强很大程度上也是他们的 agent 强，而且高质量数据更容易获得",
+        "likes": 732,
+        "time": "2026-07-12 23:32:35"
+      },
+      {
+        "user": "女友星顺瞳",
+        "message": "当务之急是快点出官方 agent 把 Claude 和 codex 替代掉，这样 ds 才能基于自己的模型和 agent 数据继续训练迭代，闭源模型强很大程度上也是他们的 agent 强，而且高质量数据更容易获得",
+        "likes": 732,
+        "time": "2026-07-12 23:32:35"
+      },
+      {
+        "user": "女友星顺瞳",
+        "message": "当务之急是快点出官方 agent 把 Claude 和 codex 替代掉，这样 ds 才能基于自己的模型和 agent 数据继续训练迭代，闭源模型强很大程度上也是他们的 agent 强，而且高质量数据更容易获得",
+        "likes": 732,
+        "time": "2026-07-12 23:32:35"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我发现它是隐藏思维链，从来不在思维链里写代码，而预览版很喜欢在思维链里写代码[笑哭]",
+        "likes": 435,
+        "time": "2026-07-12 15:00:04"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我发现它是隐藏思维链，从来不在思维链里写代码，而预览版很喜欢在思维链里写代码[笑哭]",
+        "likes": 435,
+        "time": "2026-07-12 15:00:04"
+      },
+      {
+        "user": "冬眠の松鼠_",
+        "message": "我发现它是隐藏思维链，从来不在思维链里写代码，而预览版很喜欢在思维链里写代码[笑哭]",
+        "likes": 435,
+        "time": "2026-07-12 15:00:04"
+      },
+      {
+        "user": "hxtakutaku",
+        "message": "[傲娇]祖传的 I'M  我将要  but ... wait 等等 这些小元素。应该除了我deep哥以外，应该没第二家ai了。简直是仿伪认证",
+        "likes": 289,
+        "time": "2026-07-12 17:36:19"
+      },
+      {
+        "user": "hxtakutaku",
+        "message": "[傲娇]祖传的 I'M  我将要  but ... wait 等等 这些小元素。应该除了我deep哥以外，应该没第二家ai了。简直是仿伪认证",
+        "likes": 289,
+        "time": "2026-07-12 17:36:19"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

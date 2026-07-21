@@ -1,0 +1,53 @@
+{
+  "bvid": "BV1YZNB61E44",
+  "aid": 116924562342757,
+  "title": "是不是deepseekv4灰测到了？我的世界&3d赛车&造梦西游一句话生成!",
+  "up_name": "小林_sama",
+  "up_mid": 365794104,
+  "up_face": "https://i0.hdslb.com/bfs/face/62982667796af26496b68ff269c75aebfbd5332a.jpg",
+  "desc": "提示词有点简陋，就是你生成一个xxx，效果大家姑且看看吧",
+  "duration": 293,
+  "pub_time_ts": 1784127970,
+  "pub_time": "2026-07-15 23:06:10",
+  "stats": {
+    "view": 2583,
+    "like": 66,
+    "coin": 4,
+    "favorite": 9,
+    "share": 2,
+    "reply": 7
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 3,
+    "top_comments": [
+      {
+        "user": "无心坏人",
+        "message": "up是新建密钥了吗，我看好多人都被灰度了，我试了一下发现我没用[笑哭]",
+        "likes": 7,
+        "time": "2026-07-15 23:21:03"
+      },
+      {
+        "user": "小林_sama",
+        "message": "提示词简陋了点，就是生成一个xxx，如果丰富点估计效果更惊艳[doge]",
+        "likes": 3,
+        "time": "2026-07-15 23:18:20"
+      },
+      {
+        "user": "斗门不断修正公示",
+        "message": "感觉不错，也是用opencode做的吗",
+        "likes": 2,
+        "time": "2026-07-15 23:17:57"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}
