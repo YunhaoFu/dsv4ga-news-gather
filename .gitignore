@@ -10,3 +10,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# 审计/草稿中间产物
+output/
