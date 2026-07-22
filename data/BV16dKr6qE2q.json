@@ -1,0 +1,95 @@
+{
+  "bvid": "BV16dKr6qE2q",
+  "aid": 116946825643785,
+  "title": "核爆瘫坐！Deepseekv4pro正式版一句话生成对比Fable5和5.6Sol,KimiK3",
+  "up_name": "しょうぎのハンカチ",
+  "up_mid": 136554747,
+  "up_face": "https://i0.hdslb.com/bfs/face/d3f11f5a7524213e02abc5989eb88a379a0582e0.jpg",
+  "desc": "昨天凌晨跑的存货，看样子灰测已经结束了，大家都坠机了:(\n\n视频网站链接：NAGI BENCH · LLM 测评案例\n\n提示词：\n创建一个精美、高细节的交互式 3D 镂空机械表。\n核心要求：\n• 完全可见的复杂机芯：包括主发条、齿轮系、带游丝的摆轮、擒纵机构、夹板、红宝石轴承等。\n• 真实的金属材质、蓝宝石水晶玻璃、反射、阴影，以及奢华腕表摄影级别的照明效果。\n• 荧光指针与刻度。\n• 交互式控制：支持旋转手表、切换爆炸视图、悬停/点击时高亮显示的零件标签、机芯信息面板。\n• 流畅的动画，达到专业级产品展示质量。\n• 深色优雅背景，带有细微的反射效果。\n\n在一次回复中尽可能真实且令人惊叹地完成。输出为一个完整的、自包含的单 HTML 文件，使用 Three.js (CDN)，所有代码均采用内联形式。",
+  "duration": 127,
+  "pub_time_ts": 1784466968,
+  "pub_time": "2026-07-19 21:16:08",
+  "stats": {
+    "view": 61753,
+    "like": 611,
+    "coin": 27,
+    "favorite": 336,
+    "share": 115,
+    "reply": 223
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [
+    "https://b23.tv/BV1pbK66TEmp"
+  ],
+  "comments": {
+    "total": 60,
+    "top_comments": [
+      {
+        "user": "司徒大统领",
+        "message": "梁子难道要重新定义中旬？[doge]",
+        "likes": 568,
+        "time": "2026-07-19 21:37:13"
+      },
+      {
+        "user": "司徒大统领",
+        "message": "梁子难道要重新定义中旬？[doge]",
+        "likes": 568,
+        "time": "2026-07-19 21:37:13"
+      },
+      {
+        "user": "司徒大统领",
+        "message": "梁子难道要重新定义中旬？[doge]",
+        "likes": 568,
+        "time": "2026-07-19 21:37:13"
+      },
+      {
+        "user": "七彩白纸",
+        "message": "都什么时候了还在灰度还在灰度😡",
+        "likes": 532,
+        "time": "2026-07-20 10:29:42"
+      },
+      {
+        "user": "七彩白纸",
+        "message": "都什么时候了还在灰度还在灰度😡",
+        "likes": 532,
+        "time": "2026-07-20 10:29:42"
+      },
+      {
+        "user": "七彩白纸",
+        "message": "都什么时候了还在灰度还在灰度😡",
+        "likes": 532,
+        "time": "2026-07-20 10:29:42"
+      },
+      {
+        "user": "無慈悲な王",
+        "message": "我瘫坐在核弹上，仿佛看见了椅子爆炸",
+        "likes": 297,
+        "time": "2026-07-20 04:25:35"
+      },
+      {
+        "user": "無慈悲な王",
+        "message": "我瘫坐在核弹上，仿佛看见了椅子爆炸",
+        "likes": 297,
+        "time": "2026-07-20 04:25:35"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "(UP主置顶评论)",
+        "message": "https://b23.tv/BV1pbK66TEmp 另一个库存在这里",
+        "share_links": [],
+        "download_links": [
+          "https://b23.tv/BV1pbK66TEmp"
+        ],
+        "time": "2026-07-20 00:16:44"
+      }
+    ]
+  }
+}
