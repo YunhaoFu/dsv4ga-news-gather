@@ -1,0 +1,95 @@
+{
+  "bvid": "BV1ZiKL6sErD",
+  "aid": 116931172505514,
+  "title": "deepseek v4 正式版加本地部署文生图模型 3句话实现极限脱出同人续作",
+  "up_name": "爱尔奎德的死徒",
+  "up_mid": 758650,
+  "up_face": "https://i1.hdslb.com/bfs/face/a5f6898f6364a58d854fd43b97a0b54abfd4ed01.jpg",
+  "desc": "应该是灰测到我了，思考链出现了大量的I'm\n作为极限脱出系列粉丝，一直想要续作，正好请D老师试试\n程序和故事是D老师写的，图片是D老师自己调用我本地部署的Zimage生成的\n我一共就说了3句话：\n1，我想要做一个极限脱出的续作，可以调用我本地的模型生成图，不清楚的可以上网查资料\n2，没有bgm，找一些极限脱出系列的经典bgm配上\n3，发现一个小bug，修改一下\n\n然后就是现在的成品\n\n更新一下视频，昨天上传太晚了，点了上传我就睡了，今天上午才发现配了个奇怪的bgm，应该是昨天晚上上传的时候我点了啥奇怪的按钮。\n实际生成的游戏用的是按我的要求用经典的极限脱出的bgm，但才发现视频录制时发现没有录制上声音，算了，大家自己脑补吧。",
+  "duration": 992,
+  "pub_time_ts": 1784228277,
+  "pub_time": "2026-07-17 02:57:57",
+  "stats": {
+    "view": 2118,
+    "like": 52,
+    "coin": 4,
+    "favorite": 26,
+    "share": 15,
+    "reply": 33
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [
+    "https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub"
+  ],
+  "comments": {
+    "total": 10,
+    "top_comments": [
+      {
+        "user": "JohnStones3",
+        "message": "zimage时代的眼泪啊，听说团队解散了",
+        "likes": 14,
+        "time": "2026-07-17 04:07:35"
+      },
+      {
+        "user": "spol-",
+        "message": "ai旮旯给木指日可待[樱花萌放表情_比心]",
+        "likes": 11,
+        "time": "2026-07-17 05:38:20"
+      },
+      {
+        "user": "小角牛和披甲龙龟",
+        "message": "可以啊",
+        "likes": 5,
+        "time": "2026-07-17 03:00:15"
+      },
+      {
+        "user": "说对不起你会好受点吗",
+        "message": "算数那里不停的肘击自己，以及算太久没整明白直接摆烂放弃，太鲸鱼了(",
+        "likes": 2,
+        "time": "2026-07-17 20:14:12"
+      },
+      {
+        "user": "喜马拉雅的一阵风",
+        "message": "开联网就是不一样[doge]",
+        "likes": 1,
+        "time": "2026-07-17 04:48:58"
+      },
+      {
+        "user": "plus可开票159L",
+        "message": "说得很清楚明白",
+        "likes": 0,
+        "time": "2026-07-19 17:24:57"
+      },
+      {
+        "user": "ArtChang",
+        "message": "comfyui要被盘活了",
+        "likes": 0,
+        "time": "2026-07-17 20:57:50"
+      },
+      {
+        "user": "一蓑过烟雨",
+        "message": "本地用的啥模型",
+        "likes": 0,
+        "time": "2026-07-17 05:25:29"
+      }
+    ],
+    "up_replies_with_links": [
+      {
+        "reply_to": "回复 II依米草II",
+        "message": "回复 @ArtChang :https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub D老师给我找的[doge]",
+        "share_links": [],
+        "download_links": [
+          "https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub"
+        ],
+        "time": "2026-07-17 21:36:16"
+      }
+    ]
+  }
+}
