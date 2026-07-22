@@ -1,0 +1,83 @@
+{
+  "bvid": "BV1opNd6YEbL",
+  "aid": 116935199167704,
+  "title": "dsv4灰测 mc+塞尔达 荒野之息demo",
+  "up_name": "kdzzzds",
+  "up_mid": 323637465,
+  "up_face": "https://i0.hdslb.com/bfs/face/7e72c58637ff26df68fb30939de078d2bbbfcdbe.jpg",
+  "desc": "B友投稿",
+  "duration": 254,
+  "pub_time_ts": 1784290754,
+  "pub_time": "2026-07-17 20:19:14",
+  "stats": {
+    "view": 2838,
+    "like": 93,
+    "coin": 8,
+    "favorite": 15,
+    "share": 4,
+    "reply": 45
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 16,
+    "top_comments": [
+      {
+        "user": "Delight-linger",
+        "message": "确实不错，不过已经被deepseek整的阈值偏高了[喜极而泣][喜极而泣]",
+        "likes": 33,
+        "time": "2026-07-17 20:31:35"
+      },
+      {
+        "user": "mmmpipi",
+        "message": "梁子你怎么还不发啊😭",
+        "likes": 14,
+        "time": "2026-07-17 20:26:52"
+      },
+      {
+        "user": "I修行者I",
+        "message": "你这个已经看腻了，冬眠松鼠整了个大活，他叫D博士用搜索的美术资源整了一个嗯森林生存游戏，待会会发视频。",
+        "likes": 9,
+        "time": "2026-07-17 20:53:57"
+      },
+      {
+        "user": "一直会相信",
+        "message": "如果灰度到了提示词会是这样的",
+        "likes": 7,
+        "time": "2026-07-17 23:01:19"
+      },
+      {
+        "user": "叫我夜星",
+        "message": "提示：\n灰度到的话，thinking过程应为：\nI'm………\n\n如果没有，为：\nLet me",
+        "likes": 2,
+        "time": "2026-07-18 21:27:15"
+      },
+      {
+        "user": "天秀的金伦",
+        "message": "赶紧让官方给你送token[doge]",
+        "likes": 2,
+        "time": "2026-07-17 20:34:36"
+      },
+      {
+        "user": "darklandz",
+        "message": "如果鲸鱼要加眼睛多模态，只能是从基模重新训练了吗",
+        "likes": 2,
+        "time": "2026-07-17 20:55:32"
+      },
+      {
+        "user": "楪祈inorl",
+        "message": "你是ds测试仙人啊，我每次看都能看到新的[打call][打call]",
+        "likes": 2,
+        "time": "2026-07-17 21:07:20"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}
