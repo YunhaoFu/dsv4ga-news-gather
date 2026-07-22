@@ -95,18 +95,23 @@ SHARE_PATTERNS = [
     r'https?://opencode\.ai/share/\w+',
 ]
 
-# Code下载链接 (GitHub, Gitee, 网盘等)
+# Code下载链接 (GitHub, Gitee, 网盘, 直链等)。
+# 注意: b23.tv 短链 / bilibili opus 动态 只是视频或动态引用，并非可下载的资源，
+# 不能算作下载链接，故不在此列。
+# URL 字符类用 [A-Za-z0-9._~:/?&=#%+-] 显式列举，避免把 URL 后面紧跟的中文/空格
+# 粘连进同一条链接 (例如 "github.com/foo这是我用..." 会变成一条脏链接)。
+_URL = r'https?://[A-Za-z0-9._~:/?&=#%+-]+'
 DOWNLOAD_PATTERNS = [
-    r'https?://github\.com/[^\s]+',
-    r'https?://gitee\.com/[^\s]+',
-    r'https?://pan\.baidu\.com/[^\s]+',
-    r'https?://pan\.quark\.cn/[^\s]+',
-    r'https?://wwbcc\.lanzou[a-z\.]+/[^\s]+',
-    r'https?://[^\s]+\.lanzou[a-z\.]+/[^\s]+',
-    r'https?://[^\s]+\.zip',
-    r'https?://[^\s]+\.tar\.gz',
-    r'https?://www\.bilibili\.com/opus/[^\s]+',
-    r'https?://b23\.tv/[A-Za-z0-9]+',
+    r'https?://github\.com/[A-Za-z0-9._/-]+',
+    r'https?://gitee\.com/[A-Za-z0-9._/-]+',
+    r'https?://pan\.baidu\.com/[A-Za-z0-9._?=&]+',
+    r'https?://pan\.quark\.cn/[A-Za-z0-9._?=&]+',
+    r'https?://wwbcc?\.lanzou[a-z]+\.com/[A-Za-z0-9._/-]+',
+    r'https?://[A-Za-z0-9.-]+\.lanzou[a-z]+\.com/[A-Za-z0-9._/-]+',
+    _URL + r'\.zip',
+    _URL + r'\.tar\.gz',
+    _URL + r'\.dmg',
+    _URL + r'\.exe',
 ]
 
 def extract_urls(text: str, patterns: list) -> list:
