@@ -4,7 +4,7 @@
 使用 WBI 签名调用 B 站 API
 """
 
-import requests, hashlib, time, json, os, sys, urllib.parse
+import requests, hashlib, time, json, os, sys, re, urllib.parse
 from functools import reduce
 from datetime import datetime, timezone, timedelta
 
@@ -24,6 +24,42 @@ SESSION.headers.update({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Referer': 'https://www.bilibili.com/',
 })
+
+# 代理支持: 当 B 站对某 IP 风控 (HTTP 412) 时，自动轮换到下一个代理出口 IP 重试，
+# 直到跑通或代理池耗尽，无需每次手动换 IP。
+# 用法:
+#   单个代理:  export BILI_PROXY="http://user:pass@host:port"   或  --proxy http://...
+#   代理池:    export BILI_PROXY_POOL="http://a:1,http://b:2,http://c:3"  或  --proxy-pool "a,b,c"
+#             (遇到 412 会依次轮换，跑完一轮仍未成功才放弃该 UP 主)
+PROXY_POOL = []
+_single = os.environ.get('BILI_PROXY')
+if _single:
+    PROXY_POOL = [_single]
+_pool_env = os.environ.get('BILI_PROXY_POOL')
+if _pool_env:
+    PROXY_POOL.extend([p.strip() for p in _pool_env.split(',') if p.strip()])
+_PROXY_IDX = 0
+
+def set_proxy(idx=None):
+    """设置/轮换 SESSION 的出口代理。idx 省略时切到下一个。返回当前代理或 None(直连)。"""
+    global _PROXY_IDX
+    if not PROXY_POOL:
+        SESSION.proxies.pop('http', None)
+        SESSION.proxies.pop('https', None)
+        return None
+    if idx is None:
+        _PROXY_IDX = (_PROXY_IDX + 1) % len(PROXY_POOL)
+    else:
+        _PROXY_IDX = idx % len(PROXY_POOL)
+    p = PROXY_POOL[_PROXY_IDX]
+    SESSION.proxies.update({'http': p, 'https': p})
+    return p
+
+if PROXY_POOL:
+    set_proxy(0)
+    print(f"[proxy] 代理池大小: {len(PROXY_POOL)}，当前: {PROXY_POOL[_PROXY_IDX]}")
+else:
+    print("[proxy] 未设置代理 (BILI_PROXY / BILI_PROXY_POOL 为空)，直连请求。")
 
 # 登录态支持：B 站的空间视频列表接口 (x/space/wbi/arc/search) 对未登录请求会返回
 # HTTP 412 / code=-352（风控），此时刷新 WBI key 重试无效。提供 SESSDATA cookie 可解除。
@@ -64,7 +100,9 @@ def enc_wbi(params):
     return params
 
 def get_up_videos(mid, max_retries=3):
-    """获取某 UP 主的所有视频列表，返回 (视频列表, 总计数量)"""
+    """获取某 UP 主的所有视频列表，返回 (视频列表, 总计数量)。
+    遇到 HTTP 412 / code -352 (IP 风控) 时，若配置了代理池则自动轮换出口 IP 重试，
+    跑通即继续；代理池耗尽仍失败才判定为风控放弃该 UP 主。"""
     all_videos = []
     total = 0
     risk_controlled = False  # 是否已判定为风控/未登录（不可靠重试）
@@ -78,6 +116,11 @@ def get_up_videos(mid, max_retries=3):
                                 params=params, timeout=10)
                 # 风控接口会直接返回 HTML (HTTP 412)，连 JSON 都不是
                 if r.status_code == 412:
+                    if PROXY_POOL and len(PROXY_POOL) > 1:
+                        np = set_proxy()  # 轮换到下一个代理出口
+                        print(f"    ⚠ HTTP 412 风控，轮换代理 -> {np}，重试...")
+                        time.sleep(5)
+                        continue
                     risk_controlled = True
                     break
                 data = r.json()
@@ -90,11 +133,14 @@ def get_up_videos(mid, max_retries=3):
                     break
                 elif data.get('code') == -352:
                     # -352 可能是 WBI 签名过期，也可能是风控。
-                    # 仅在第 1 次尝试时刷新 key 重试一次；若已重试过仍 -352，
-                    # 则判定为风控/未登录，停止盲目重试。
-                    global _WBI_KEYS
                     if attempt == 0:
+                        global _WBI_KEYS
                         _WBI_KEYS = None
+                        time.sleep(5)
+                        continue
+                    if PROXY_POOL and len(PROXY_POOL) > 1:
+                        np = set_proxy()
+                        print(f"    ⚠ code -352 风控，轮换代理 -> {np}，重试...")
                         time.sleep(5)
                         continue
                     risk_controlled = True
@@ -124,7 +170,51 @@ def is_dsv4_video(title):
     tl = title.lower()
     return 'deepseek' in tl and ('灰' in title or '正式' in title)
 
+def parse_failed_mids_from_log(log_path):
+    """从一次审计日志中解析出被风控跳过 (获取失败，跳过) 的 UP 主 mid 列表。
+    用于换 IP / 换 cookie 后只重跑失败的部分，避免重复请求已成功的 UP 主。"""
+    failed = []
+    cur_mid = None
+    if not os.path.exists(log_path):
+        print(f"[retry] 日志不存在: {log_path}")
+        return failed
+    with open(log_path, encoding='utf-8') as f:
+        for line in f:
+            m = re.match(r'^▶\s+.+?\(mid=(\d+)\)', line)
+            if m:
+                cur_mid = m.group(1)
+            if cur_mid and '获取失败，跳过' in line:
+                failed.append(cur_mid)
+                cur_mid = None
+    return failed
+
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description='审计遗漏的 DSv4 视频')
+    parser.add_argument('--mids', nargs='+',
+                        help='只审计指定的 mid 列表 (空格分隔)。换 IP/换 cookie 重跑失败部分时用。')
+    parser.add_argument('--retry-log',
+                        help='解析该审计日志中“获取失败，跳过”的 UP 主 mid，仅重跑它们。')
+    parser.add_argument('--proxy',
+                        help='为本次请求设置代理 (覆盖 BILI_PROXY 环境变量)，用于换出口 IP 绕过 HTTP 412 风控。')
+    parser.add_argument('--proxy-pool',
+                        help='代理池，逗号分隔多个出口 IP，遇到 412 自动轮换。例: "http://a:1,http://b:2"')
+    parser.add_argument('--delay', type=float, default=0,
+                        help='每个 UP 主之间的额外休眠秒数，降低触发风控的概率。')
+    args = parser.parse_args()
+
+    # 代理池: CLI 优先级最高，其次环境变量
+    if args.proxy_pool:
+        PROXY_POOL.clear()
+        PROXY_POOL.extend([p.strip() for p in args.proxy_pool.split(',') if p.strip()])
+        set_proxy(0)
+        print(f"[proxy] 代理池大小: {len(PROXY_POOL)}，当前: {PROXY_POOL[_PROXY_IDX]}")
+    elif args.proxy:
+        PROXY_POOL.clear()
+        PROXY_POOL.append(args.proxy)
+        set_proxy(0)
+        print(f"[proxy] 本次使用代理: {args.proxy}")
+
     # Step 1: 从现有 data 文件获取所有 UP 主信息
     print("="*60)
     print("第1步: 读取现有数据中的 UP 主信息")
@@ -160,7 +250,26 @@ def main():
     print(f"  UP 主列表:")
     for mid, info in sorted(up_dict.items(), key=lambda x: -len(x[1]['bvids'])):
         print(f"    {info['name']} (mid={mid}): {len(info['bvids'])} 个视频")
-    
+
+    # 过滤模式: 仅审计指定/失败重跑的 UP 主
+    if args.retry_log:
+        failed = parse_failed_mids_from_log(args.retry_log)
+        if failed:
+            print(f"\n[retry] 从日志解析到 {len(failed)} 个失败 UP 主，仅重跑它们:")
+            for m in failed:
+                print(f"    mid={m}")
+            up_dict = {mid: info for mid, info in up_dict.items() if mid in failed}
+        else:
+            print(f"\n[retry] 日志中未发现失败的 UP 主，无需重跑。")
+            return []
+    elif args.mids:
+        wanted = set(args.mids)
+        print(f"\n[filter] 仅审计指定的 {len(wanted)} 个 mid")
+        up_dict = {mid: info for mid, info in up_dict.items() if mid in wanted}
+        if not up_dict:
+            print(f"  [filter] 警告: 指定 mid 均不在现有 UP 主列表中，退出。")
+            return []
+
     # Step 2: 遍历每个 UP 主，获取完整视频列表
     print(f"\n{'='*60}")
     print("第2步: 遍历所有 UP 主，查找遗漏")
@@ -171,7 +280,12 @@ def main():
     for mid, info in sorted(up_dict.items(), key=lambda x: -len(x[1]['bvids'])):
         name = info['name']
         existing_bvids = info['bvids']
-        
+
+        if args.delay and total_missing is not None:
+            # 在第一个之后的每个 UP 主前休眠，降低触发风控概率
+            if mid != next(iter(up_dict)):
+                time.sleep(args.delay)
+
         print(f"\n▶ {name} (mid={mid})")
         print(f"  已收录: {len(existing_bvids)} 个视频")
         
