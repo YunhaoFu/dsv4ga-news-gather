@@ -384,8 +384,16 @@
 ```
 dsv4ga-news-gather/
 ├── README.md
-├── scripts/bilibili_extractor.py
-└── data/
-    ├── BV*.json
-    └── BV*.md
+├── requirements.txt
+├── scripts/
+│   ├── bilibili_extractor.py   # B站视频信息提取器
+│   ├── generate_readme.py      # 从 data/ 生成 README
+│   └── audit_missing.py        # 审计遗漏的灰测视频
+├── data/
+│   ├── BV*.json                # 视频结构化数据
+│   └── BV*.md                  # 视频 Markdown 摘要
+└── analysis/                   # 量化分析报告
+    ├── intelligence_report.md
+    ├── prompt_report.md
+    └── ...
 ```
