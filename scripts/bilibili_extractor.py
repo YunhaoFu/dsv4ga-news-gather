@@ -104,8 +104,8 @@ _URL = r'https?://[A-Za-z0-9._~:/?&=#%+-]+'
 DOWNLOAD_PATTERNS = [
     r'https?://github\.com/[A-Za-z0-9._/-]+',
     r'https?://gitee\.com/[A-Za-z0-9._/-]+',
-    r'https?://pan\.baidu\.com/[A-Za-z0-9._?=&]+',
-    r'https?://pan\.quark\.cn/[A-Za-z0-9._?=&]+',
+    r'https?://pan\.baidu\.com/[A-Za-z0-9._/?=&]+',
+    r'https?://pan\.quark\.cn/[A-Za-z0-9._/?=&]+',
     r'https?://wwbcc?\.lanzou[a-z]+\.com/[A-Za-z0-9._/-]+',
     r'https?://[A-Za-z0-9.-]+\.lanzou[a-z]+\.com/[A-Za-z0-9._/-]+',
     _URL + r'\.zip',
@@ -262,15 +262,22 @@ def get_comments(aid: int, up_mid: int, max_pages: int = 5) -> dict:
                     if rec:
                         up_replies_with_links.append(rec)
 
-    # 取高赞评论
+    # 取高赞评论（按 message 内容去重，避免 API 分页重复）
     top_comments = []
-    for r in sorted(all_replies, key=lambda x: x.get('like', 0), reverse=True)[:8]:
+    seen_top = set()
+    for r in sorted(all_replies, key=lambda x: x.get('like', 0), reverse=True):
+        msg = r['content']['message'][:300]
+        if msg in seen_top:
+            continue
+        seen_top.add(msg)
         top_comments.append({
             "user": r['member']['uname'],
-            "message": r['content']['message'][:300],
+            "message": msg,
             "likes": r.get('like', 0),
             "time": datetime.fromtimestamp(r['ctime'], tz=BJT).strftime('%Y-%m-%d %H:%M:%S')
         })
+        if len(top_comments) >= 8:
+            break
 
     return {
         "total": len(all_replies),

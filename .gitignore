@@ -13,3 +13,4 @@ Thumbs.db
 
 # 审计/草稿中间产物
 output/
+output.log

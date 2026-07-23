@@ -271,70 +271,70 @@
 
 共 **64** 个：
 
-- [https://opncd.ai/share/ugOzF12y](https://opncd.ai/share/ugOzF12y) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰度- 我的深空，在原提示词基础上加强美术提示词看看效果（没用联网）」
-- [https://opncd.ai/share/UIM2P1Zt](https://opncd.ai/share/UIM2P1Zt) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度 -第二款拳皇」
-- [https://opncd.ai/share/Uljn1XPt](https://opncd.ai/share/Uljn1XPt) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版一句话生成安卓视频剪辑软件，并实操剪辑和导出视频」
+- [https://opncd.ai/share/D0QYZVc5](https://opncd.ai/share/D0QYZVc5) — [kdzzzds](https://space.bilibili.com/323637465)「dsv4灰度版 （ds自己建模） csgo 死斗模式+爆破」
+- [https://opncd.ai/share/dAy1qAWq](https://opncd.ai/share/dAy1qAWq) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
+- [https://opncd.ai/share/jHpl4a2H](https://opncd.ai/share/jHpl4a2H) — [小小小名不是小明](https://space.bilibili.com/316052822)「DeepSeek V4 正式版，帮我生成一首电子音乐【基于strudel.cc代码生成的音乐三首】」
+- [https://opncd.ai/share/vWCHfqpP](https://opncd.ai/share/vWCHfqpP) — [s就是这样s](https://space.bilibili.com/4200244)「疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本」
+- [https://opncd.ai/share/fhiiqugc](https://opncd.ai/share/fhiiqugc) — [kdzzzds](https://space.bilibili.com/323637465)「核弹之作-疑似dsv4正式版灰度-我的世界/星际拓荒 曲率方块」
+- [https://opncd.ai/share/EYJa8Tle](https://opncd.ai/share/EYJa8Tle) — [冬眠の松鼠_](https://space.bilibili.com/3546711534341091)「DeepSeek V4正式版一句话生成《后室》和恐怖游戏」
+- [https://opncd.ai/share/tpjlcjRJ](https://opncd.ai/share/tpjlcjRJ) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
 - [https://opncd.ai/share/x13ODD7j](https://opncd.ai/share/x13ODD7j) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek v4正式版灰度-我的世界地狱末地地形测试（地形为一次出）」
-- [https://opncd.ai/share/eu7TNWyn](https://opncd.ai/share/eu7TNWyn) — [北宸Polariss](https://space.bilibili.com/11211141)「【deepseekv4正式版】制作我的深空（我的世界融合无人深空）」
-- [https://opncd.ai/share/9LaxtOc0](https://opncd.ai/share/9LaxtOc0) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
-- [https://opncd.ai/share/GumezW7g](https://opncd.ai/share/GumezW7g) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4灰度-墨水塔防小游戏」
-- [https://opncd.ai/share/Pybm06QA](https://opncd.ai/share/Pybm06QA) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
-- [https://opncd.ai/share/2legyGFv](https://opncd.ai/share/2legyGFv) — [Aki_2519](https://space.bilibili.com/1086907113)「[疑似Deepseek v4正式版]类Teardown游戏生成」
-- [https://opncd.ai/share/A236FHlb](https://opncd.ai/share/A236FHlb) — [cacl2_lhg](https://space.bilibili.com/486071964)「DeepSeek V4 正式版灰度测试制作的我的世界版马车(含多种不同赛道)」
-- [https://opncd.ai/share/5MEgjF59](https://opncd.ai/share/5MEgjF59) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
+- [https://opncd.ai/share/Mvfs0rED](https://opncd.ai/share/Mvfs0rED) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版手搓的歌剧《卡门》动画」
 - [https://opncd.ai/share/7LTaViWX](https://opncd.ai/share/7LTaViWX) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseekv4正式版-坎巴拉太空计划+我的世界---实操登录月球（硬着陆）3轮对话」
 - [https://opncd.ai/share/TLZxVOMK](https://opncd.ai/share/TLZxVOMK) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
-- [https://opncd.ai/share/KpH2tBRe](https://opncd.ai/share/KpH2tBRe) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek正式版 灰度-blender渲染城市」
-- [https://opncd.ai/share/zV6Rvj7A](https://opncd.ai/share/zV6Rvj7A) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseek正式版灰度 木筏求生+我的世界（我的木筏）」
-- [https://opncd.ai/share/b5MxPvzP](https://opncd.ai/share/b5MxPvzP) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版一段提示词生成黑洞」
-- [https://opncd.ai/share/gEcCEN3m](https://opncd.ai/share/gEcCEN3m) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰测-愤怒的小鸟」
-- [https://opncd.ai/share/XGCzXWBj](https://opncd.ai/share/XGCzXWBj) — [冬眠の松鼠_](https://space.bilibili.com/3546711534341091)「DeepSeek V4正式版一句话生成《后室》和恐怖游戏」
-- [https://opncd.ai/share/ynexRiyf](https://opncd.ai/share/ynexRiyf) — [飞越麦当劳](https://space.bilibili.com/1929605923)「deepseek v4正式版灰测，生成恐怖游戏」
-- [https://opncd.ai/share/fnOGJyIn](https://opncd.ai/share/fnOGJyIn) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）」
-- [https://opncd.ai/share/HDbtzgWg](https://opncd.ai/share/HDbtzgWg) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰测-无人深空」
-- [https://opncd.ai/share/G8zdONkc](https://opncd.ai/share/G8zdONkc) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版-三国志+都市live(提示词来自网友)」
-- [https://opncd.ai/share/CxSMU5C5](https://opncd.ai/share/CxSMU5C5) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
-- [https://opncd.ai/share/Mvfs0rED](https://opncd.ai/share/Mvfs0rED) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版手搓的歌剧《卡门》动画」
-- [https://opncd.ai/share/lORSRs65](https://opncd.ai/share/lORSRs65) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek v4正式版灰度   戴森球x我的世界」
-- [https://opncd.ai/share/6AWmBTvh](https://opncd.ai/share/6AWmBTvh) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4灰度测试-恐怖走廊」
-- [https://opncd.ai/share/9ucTvNUw](https://opncd.ai/share/9ucTvNUw) — [星光与雪](https://space.bilibili.com/1225574391)「DeepSeek v4正式版一句话设计生成减速器」
-- [https://opncd.ai/share/osBL1bs6](https://opncd.ai/share/osBL1bs6) — [kdzzzds](https://space.bilibili.com/323637465)「dsv4灰度--（不搜素材纯自己建模）1轮出+1轮修bug的超高质量gta」
-- [https://opncd.ai/share/8GIBaNh4](https://opncd.ai/share/8GIBaNh4) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度测试-拳皇」
-- [https://opncd.ai/share/hYax12Iw](https://opncd.ai/share/hYax12Iw) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
-- [https://opncd.ai/share/5G7aC4GS](https://opncd.ai/share/5G7aC4GS) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
-- [https://opncd.ai/share/zDqW9H1H](https://opncd.ai/share/zDqW9H1H) — [s就是这样s](https://space.bilibili.com/4200244)「疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》」
-- [https://opncd.ai/share/fhiiqugc](https://opncd.ai/share/fhiiqugc) — [kdzzzds](https://space.bilibili.com/323637465)「核弹之作-疑似dsv4正式版灰度-我的世界/星际拓荒 曲率方块」
-- [https://opncd.ai/share/yc7EORJE](https://opncd.ai/share/yc7EORJE) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek-v4正式版-恐怖迷宫-一句话生成」
-- [https://opncd.ai/share/dAy1qAWq](https://opncd.ai/share/dAy1qAWq) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
-- [https://opncd.ai/share/ESKMNRt4](https://opncd.ai/share/ESKMNRt4) — [不爱亲](https://space.bilibili.com/203218049)「疑似deepseekV4灰度正式版，一句话生成的mc光影包」
-- [https://opncd.ai/share/Zup93aAt](https://opncd.ai/share/Zup93aAt) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
-- [https://opncd.ai/share/xqMmYVxy](https://opncd.ai/share/xqMmYVxy) — [风味光猫](https://space.bilibili.com/364213249)「［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比」
-- [https://opncd.ai/share/x18q57WQ](https://opncd.ai/share/x18q57WQ) — [飯綱九龍](https://space.bilibili.com/35822724)「基于Deepseekv4正式版灰测的原神启动——二维方块大世界」
-- [https://opncd.ai/share/jHpl4a2H](https://opncd.ai/share/jHpl4a2H) — [小小小名不是小明](https://space.bilibili.com/316052822)「DeepSeek V4 正式版，帮我生成一首电子音乐【基于strudel.cc代码生成的音乐三首】」
-- [https://opncd.ai/share/Kieu5sv4](https://opncd.ai/share/Kieu5sv4) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
-- [https://opncd.ai/share/EYJa8Tle](https://opncd.ai/share/EYJa8Tle) — [冬眠の松鼠_](https://space.bilibili.com/3546711534341091)「DeepSeek V4正式版一句话生成《后室》和恐怖游戏」
-- [https://opncd.ai/share/zK0IIfpe](https://opncd.ai/share/zK0IIfpe) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰测    孢子」
-- [https://opncd.ai/share/4ezc4hLV](https://opncd.ai/share/4ezc4hLV) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
-- [https://opncd.ai/share/QKMEiIOS](https://opncd.ai/share/QKMEiIOS) — [黑韬](https://space.bilibili.com/4473556)「Deepseek V4正式版自编自导的幽灵诡计！」
+- [https://opncd.ai/share/UIM2P1Zt](https://opncd.ai/share/UIM2P1Zt) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度 -第二款拳皇」
 - [https://opncd.ai/share/5naO0bVN](https://opncd.ai/share/5naO0bVN) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek正式版：我的世界生存模式制作」
-- [https://opncd.ai/share/ysiqtqQq](https://opncd.ai/share/ysiqtqQq) — [Delight-linger](https://space.bilibili.com/1699039750)「完美复刻-传送门游戏【dsv4正式版】」
+- [https://opncd.ai/share/b5MxPvzP](https://opncd.ai/share/b5MxPvzP) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版一段提示词生成黑洞」
 - [https://opncd.ai/share/TS7WEOCp](https://opncd.ai/share/TS7WEOCp) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
-- [https://opncd.ai/share/7OeT0kL2](https://opncd.ai/share/7OeT0kL2) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度测试 部落冲突」
-- [https://opncd.ai/share/txGKtAYB](https://opncd.ai/share/txGKtAYB) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek正式版灰测-雨中冒险2」
-- [https://opncd.ai/share/VWXNvxEm](https://opncd.ai/share/VWXNvxEm) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版生成的逆转裁判！」
-- [https://opncd.ai/share/D0QYZVc5](https://opncd.ai/share/D0QYZVc5) — [kdzzzds](https://space.bilibili.com/323637465)「dsv4灰度版 （ds自己建模） csgo 死斗模式+爆破」
-- [https://opncd.ai/share/tyfvAfHW](https://opncd.ai/share/tyfvAfHW) — [kdzzzds](https://space.bilibili.com/323637465)「谁敢质疑d老师的审美-疑似dsv4灰度之只用SVG图作我的世界」
+- [https://opncd.ai/share/x18q57WQ](https://opncd.ai/share/x18q57WQ) — [飯綱九龍](https://space.bilibili.com/35822724)「基于Deepseekv4正式版灰测的原神启动——二维方块大世界」
 - [https://opncd.ai/share/o8R56xdE](https://opncd.ai/share/o8R56xdE) — [冬眠の松鼠_](https://space.bilibili.com/3546711534341091)「DeepSeek V4正式版一句话生成《后室》和恐怖游戏」
-- [https://opncd.ai/share/tpjlcjRJ](https://opncd.ai/share/tpjlcjRJ) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
-- [https://opncd.ai/share/BZ0vhYjG](https://opncd.ai/share/BZ0vhYjG) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
-- [https://opncd.ai/share/argynxSr](https://opncd.ai/share/argynxSr) — [Augenstern_-__-](https://space.bilibili.com/372702868)「dsv4灰度正式版-修正前两期以及展示骑马与砍杀」
-- [https://opncd.ai/share/yIYfsyuU](https://opncd.ai/share/yIYfsyuU) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰度测试 赛车」
-- [https://opncd.ai/share/whvZdmHv](https://opncd.ai/share/whvZdmHv) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版-三国志+都市live(提示词来自网友)」
+- [https://opncd.ai/share/Uljn1XPt](https://opncd.ai/share/Uljn1XPt) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版一句话生成安卓视频剪辑软件，并实操剪辑和导出视频」
+- [https://opncd.ai/share/9LaxtOc0](https://opncd.ai/share/9LaxtOc0) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
+- [https://opncd.ai/share/xqMmYVxy](https://opncd.ai/share/xqMmYVxy) — [风味光猫](https://space.bilibili.com/364213249)「［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比」
+- [https://opncd.ai/share/KpH2tBRe](https://opncd.ai/share/KpH2tBRe) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek正式版 灰度-blender渲染城市」
+- [https://opncd.ai/share/fnOGJyIn](https://opncd.ai/share/fnOGJyIn) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）」
+- [https://opncd.ai/share/hYax12Iw](https://opncd.ai/share/hYax12Iw) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
+- [https://opncd.ai/share/zDqW9H1H](https://opncd.ai/share/zDqW9H1H) — [s就是这样s](https://space.bilibili.com/4200244)「疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》」
+- [https://opncd.ai/share/eu7TNWyn](https://opncd.ai/share/eu7TNWyn) — [北宸Polariss](https://space.bilibili.com/11211141)「【deepseekv4正式版】制作我的深空（我的世界融合无人深空）」
+- [https://opncd.ai/share/HDbtzgWg](https://opncd.ai/share/HDbtzgWg) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰测-无人深空」
+- [https://opncd.ai/share/txGKtAYB](https://opncd.ai/share/txGKtAYB) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek正式版灰测-雨中冒险2」
+- [https://opncd.ai/share/5G7aC4GS](https://opncd.ai/share/5G7aC4GS) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
+- [https://opncd.ai/share/4ezc4hLV](https://opncd.ai/share/4ezc4hLV) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
+- [https://opncd.ai/share/VWXNvxEm](https://opncd.ai/share/VWXNvxEm) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版生成的逆转裁判！」
 - [https://opncd.ai/share/4mkZ7ciu](https://opncd.ai/share/4mkZ7ciu) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseek正式版灰度 木筏求生+我的世界（我的木筏）」
-- [https://opncd.ai/share/olnENMEC](https://opncd.ai/share/olnENMEC) — [飯綱九龍](https://space.bilibili.com/35822724)「【东方】Deepseek-v4正式版（疑似）灰度一次生成 - 东 方 智 械 录」
-- [https://opncd.ai/share/vWCHfqpP](https://opncd.ai/share/vWCHfqpP) — [s就是这样s](https://space.bilibili.com/4200244)「疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本」
-- [https://opncd.ai/share/FbdwXgJZ](https://opncd.ai/share/FbdwXgJZ) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
+- [https://opncd.ai/share/XGCzXWBj](https://opncd.ai/share/XGCzXWBj) — [冬眠の松鼠_](https://space.bilibili.com/3546711534341091)「DeepSeek V4正式版一句话生成《后室》和恐怖游戏」
 - [https://opncd.ai/share/FUljsPS9](https://opncd.ai/share/FUljsPS9) — [星光与雪](https://space.bilibili.com/1225574391)「DeepSeek v4正式版多轮对话复刻《王国·两位君主》」
+- [https://opncd.ai/share/tyfvAfHW](https://opncd.ai/share/tyfvAfHW) — [kdzzzds](https://space.bilibili.com/323637465)「谁敢质疑d老师的审美-疑似dsv4灰度之只用SVG图作我的世界」
+- [https://opncd.ai/share/Kieu5sv4](https://opncd.ai/share/Kieu5sv4) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
+- [https://opncd.ai/share/FbdwXgJZ](https://opncd.ai/share/FbdwXgJZ) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
+- [https://opncd.ai/share/Zup93aAt](https://opncd.ai/share/Zup93aAt) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
+- [https://opncd.ai/share/BZ0vhYjG](https://opncd.ai/share/BZ0vhYjG) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4正式版灰度-我的世界X无人深空 相同提示词复刻三次」
+- [https://opncd.ai/share/6AWmBTvh](https://opncd.ai/share/6AWmBTvh) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4灰度测试-恐怖走廊」
+- [https://opncd.ai/share/zV6Rvj7A](https://opncd.ai/share/zV6Rvj7A) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseek正式版灰度 木筏求生+我的世界（我的木筏）」
+- [https://opncd.ai/share/QKMEiIOS](https://opncd.ai/share/QKMEiIOS) — [黑韬](https://space.bilibili.com/4473556)「Deepseek V4正式版自编自导的幽灵诡计！」
+- [https://opncd.ai/share/Pybm06QA](https://opncd.ai/share/Pybm06QA) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
+- [https://opncd.ai/share/yc7EORJE](https://opncd.ai/share/yc7EORJE) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek-v4正式版-恐怖迷宫-一句话生成」
+- [https://opncd.ai/share/whvZdmHv](https://opncd.ai/share/whvZdmHv) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版-三国志+都市live(提示词来自网友)」
+- [https://opncd.ai/share/ugOzF12y](https://opncd.ai/share/ugOzF12y) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰度- 我的深空，在原提示词基础上加强美术提示词看看效果（没用联网）」
+- [https://opncd.ai/share/olnENMEC](https://opncd.ai/share/olnENMEC) — [飯綱九龍](https://space.bilibili.com/35822724)「【东方】Deepseek-v4正式版（疑似）灰度一次生成 - 东 方 智 械 录」
+- [https://opncd.ai/share/GumezW7g](https://opncd.ai/share/GumezW7g) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4灰度-墨水塔防小游戏」
+- [https://opncd.ai/share/8GIBaNh4](https://opncd.ai/share/8GIBaNh4) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度测试-拳皇」
+- [https://opncd.ai/share/osBL1bs6](https://opncd.ai/share/osBL1bs6) — [kdzzzds](https://space.bilibili.com/323637465)「dsv4灰度--（不搜素材纯自己建模）1轮出+1轮修bug的超高质量gta」
+- [https://opncd.ai/share/lORSRs65](https://opncd.ai/share/lORSRs65) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseek v4正式版灰度   戴森球x我的世界」
+- [https://opncd.ai/share/gEcCEN3m](https://opncd.ai/share/gEcCEN3m) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰测-愤怒的小鸟」
+- [https://opncd.ai/share/ynexRiyf](https://opncd.ai/share/ynexRiyf) — [飞越麦当劳](https://space.bilibili.com/1929605923)「deepseek v4正式版灰测，生成恐怖游戏」
+- [https://opncd.ai/share/9ucTvNUw](https://opncd.ai/share/9ucTvNUw) — [星光与雪](https://space.bilibili.com/1225574391)「DeepSeek v4正式版一句话设计生成减速器」
+- [https://opncd.ai/share/2legyGFv](https://opncd.ai/share/2legyGFv) — [Aki_2519](https://space.bilibili.com/1086907113)「[疑似Deepseek v4正式版]类Teardown游戏生成」
+- [https://opncd.ai/share/CxSMU5C5](https://opncd.ai/share/CxSMU5C5) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
+- [https://opncd.ai/share/5MEgjF59](https://opncd.ai/share/5MEgjF59) — [LikrFG](https://space.bilibili.com/505727661)「疑似 deepseek v4 正式版模型测试」
+- [https://opncd.ai/share/7OeT0kL2](https://opncd.ai/share/7OeT0kL2) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度测试 部落冲突」
+- [https://opncd.ai/share/yIYfsyuU](https://opncd.ai/share/yIYfsyuU) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰度测试 赛车」
+- [https://opncd.ai/share/zK0IIfpe](https://opncd.ai/share/zK0IIfpe) — [kdzzzds](https://space.bilibili.com/323637465)「疑似dsv4灰测    孢子」
+- [https://opncd.ai/share/A236FHlb](https://opncd.ai/share/A236FHlb) — [cacl2_lhg](https://space.bilibili.com/486071964)「DeepSeek V4 正式版灰度测试制作的我的世界版马车(含多种不同赛道)」
+- [https://opncd.ai/share/ysiqtqQq](https://opncd.ai/share/ysiqtqQq) — [Delight-linger](https://space.bilibili.com/1699039750)「完美复刻-传送门游戏【dsv4正式版】」
+- [https://opncd.ai/share/ESKMNRt4](https://opncd.ai/share/ESKMNRt4) — [不爱亲](https://space.bilibili.com/203218049)「疑似deepseekV4灰度正式版，一句话生成的mc光影包」
+- [https://opncd.ai/share/G8zdONkc](https://opncd.ai/share/G8zdONkc) — [Delight-linger](https://space.bilibili.com/1699039750)「deepseek正式版-三国志+都市live(提示词来自网友)」
+- [https://opncd.ai/share/argynxSr](https://opncd.ai/share/argynxSr) — [Augenstern_-__-](https://space.bilibili.com/372702868)「dsv4灰度正式版-修正前两期以及展示骑马与砍杀」
 
 ---
 
@@ -342,38 +342,38 @@
 
 共 **32** 个：
 
-- [https://pan.baidu.com/s/1dKYgyQ5Z6CSJMT85Apia3w?pwd=g92s](https://pan.baidu.com/s/1dKYgyQ5Z6CSJMT85Apia3w?pwd=g92s) — [不爱亲](https://space.bilibili.com/203218049)「疑似deepseekV4灰度正式版，一句话生成的mc光影包」
-- [https://pan.baidu.com/s/1YXUj40LccoKOHwb2SR0WSQ](https://pan.baidu.com/s/1YXUj40LccoKOHwb2SR0WSQ) — [梦回0](https://space.bilibili.com/238343565)「王者荣耀融合和平精英，来看看deepseek v4正式版的脑洞吧！」
-- [https://wwbvw.lanzouv.com/iIqhb3wr8qvi](https://wwbvw.lanzouv.com/iIqhb3wr8qvi) — [PotnQ](https://space.bilibili.com/149206792)「疑似Deepseekv4正式版灰测异星工场+我的世界+无人深空[已具备一定可玩性]」
-- [https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6](https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6) — [bili_3493108501187431](https://space.bilibili.com/3493108501187431)「deepseekv4正式版生成的战争雷霆优化版」
 - [https://pan.baidu.com/s/1aF-Auhba6IUrTCBpHpgukw?pwd=6666](https://pan.baidu.com/s/1aF-Auhba6IUrTCBpHpgukw?pwd=6666) — [添星_tianxing](https://space.bilibili.com/3706985962801907)「deepseek正式版，4块钱做的小游戏」
-- [https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub](https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub) — [爱尔奎德的死徒](https://space.bilibili.com/758650)「deepseek v4 正式版加本地部署文生图模型 3句话实现极限脱出同人续作」
-- [https://wwbol.lanzout.com/iuLmG3wvb2af](https://wwbol.lanzout.com/iuLmG3wvb2af) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
-- [https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw](https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw) — [梦回0](https://space.bilibili.com/238343565)「dsv4正式版还原《星空Starfield》1000颗星球可无缝起降，陶德你的梦想deepseek帮你实现了！」
-- [https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w](https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w) — [伊甸的亚托莉](https://space.bilibili.com/183884156)「【疑似deepseekv4正式版】ai里的贝多芬   多种音乐生成测试」
-- [https://h0t5tee1.lanzouu.com/b0188h9uej](https://h0t5tee1.lanzouu.com/b0188h9uej) — [炽热的钢铁](https://space.bilibili.com/687935502)「疑似灰度到了deepseek-v4-pro正式版！只用一句话让大肥鱼手搓了5首电音！」
-- [https://pan.quark.cn/s/3a52f8c7aa2d?pwd=5rEY](https://pan.quark.cn/s/3a52f8c7aa2d?pwd=5rEY) — [PotnQ](https://space.bilibili.com/149206792)「DSV4正式版灰度无人深空超级伪无缝登陆」
 - [https://wwbol.lanzout.com/iOeUy3x62s4h](https://wwbol.lanzout.com/iOeUy3x62s4h) — [小小小名不是小明](https://space.bilibili.com/316052822)「有V8！DS v4正式版游戏两则【马里奥 和 赛车】快速更新第四期，纯玩嗨了分享成果」
-- [https://github.com/wenmingzhi111/small-games-with-deepseek-v4-formal](https://github.com/wenmingzhi111/small-games-with-deepseek-v4-formal) — [回力之文明](https://space.bilibili.com/528086012)「疑似高维空间碎片：DeepSeek V4正式版？流出，fable5同款小游戏直出测试」
-- [https://wwbpj.lanzouw.com/iNDdd3x6v04d](https://wwbpj.lanzouw.com/iNDdd3x6v04d) — [离梦aajjkk](https://space.bilibili.com/3493110560590178)「DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。」
-- [http://askhow.top/util/DeepSeekMonitor.zip](http://askhow.top/util/DeepSeekMonitor.zip) — [UPLUZ](https://space.bilibili.com/4926822)「【疑似DeepSeek正式版】一轮对话生成Windows性能监控桌面浮窗」
-- [https://pan.baidu.com/s/1QH8aM0_7-Fz6nXrogSx8gQ?pwd=8z78](https://pan.baidu.com/s/1QH8aM0_7-Fz6nXrogSx8gQ?pwd=8z78) — [bili_3493108501187431](https://space.bilibili.com/3493108501187431)「deepseekv4正式版恶魔轮盘（2/3d）（存货）」
-- [https://wwbvw.lanzouv.com/b009i6yu7g](https://wwbvw.lanzouv.com/b009i6yu7g) — [PotnQ](https://space.bilibili.com/149206792)「DSV4灰测一款游戏迭代了几百次有多恐怖？」
-- [https://pan.baidu.com/s/133-_KhOEihoiVPHyKXhT2Q](https://pan.baidu.com/s/133-_KhOEihoiVPHyKXhT2Q) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
 - [https://github.com/cct124/HORIZON6_DEMO](https://github.com/cct124/HORIZON6_DEMO) — [s就是这样s](https://space.bilibili.com/4200244)「疑似高维空间碎片，Deepseek正式版灰度，一句话生成《地平线6》」
-- [https://pan.quark.cn/s/03f0985c4de8](https://pan.quark.cn/s/03f0985c4de8) — [风味光猫](https://space.bilibili.com/364213249)「［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比」
-- [https://wwbpj.lanzouw.com/ib4p23x6up1e](https://wwbpj.lanzouw.com/ib4p23x6up1e) — [离梦aajjkk](https://space.bilibili.com/3493110560590178)「DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。」
-- [https://github.com/myYangyunfan/makerwhale](https://github.com/myYangyunfan/makerwhale) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseekv4正式版-坎巴拉太空计划+我的世界---实操登录月球（硬着陆）3轮对话」
-- [https://pan.baidu.com/s/1u9byiOoHNda1a9KhwFS-BA?pwd=1234](https://pan.baidu.com/s/1u9byiOoHNda1a9KhwFS-BA?pwd=1234) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）」
-- [https://pan.quark.cn/s/af82a69b303a?pwd=2Ywq](https://pan.quark.cn/s/af82a69b303a?pwd=2Ywq) — [星光与雪](https://space.bilibili.com/1225574391)「DeepSeek v4正式版一句话设计生成减速器」
-- [https://h0t5tee1.lanzouu.com/ixssu3x8jfxc](https://h0t5tee1.lanzouu.com/ixssu3x8jfxc) — [炽热的钢铁](https://space.bilibili.com/687935502)「ds正式版坠机前，我用它做的所有游戏」
-- [https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777](https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777) — [添星_tianxing](https://space.bilibili.com/3706985962801907)「deepseek正式版，4块钱做的小游戏」
-- [https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96](https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版生成的逆转裁判！」
-- [https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg](https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg) — [梦回0](https://space.bilibili.com/238343565)「deepseek v4 正式版生成只狼版网页游戏」
-- [https://github.com/cct124/voxel-horizon-demo](https://github.com/cct124/voxel-horizon-demo) — [s就是这样s](https://space.bilibili.com/4200244)「疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本」
-- [https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak](https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版手搓的歌剧《卡门》动画」
+- [https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6](https://pan.baidu.com/s/1vtPeqqBM8qpCN7GO3rXM4A?pwd=rcw6) — [bili_3493108501187431](https://space.bilibili.com/3493108501187431)「deepseekv4正式版生成的战争雷霆优化版」
 - [https://wwbol.lanzout.com/iryJC3xa9v2j](https://wwbol.lanzout.com/iryJC3xa9v2j) — [小小小名不是小明](https://space.bilibili.com/316052822)「DeepSeek V4 正式版，帮我生成一首电子音乐【基于strudel.cc代码生成的音乐三首】」
+- [https://pan.quark.cn/s/af82a69b303a?pwd=2Ywq](https://pan.quark.cn/s/af82a69b303a?pwd=2Ywq) — [星光与雪](https://space.bilibili.com/1225574391)「DeepSeek v4正式版一句话设计生成减速器」
+- [https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg](https://pan.baidu.com/s/1A2ECtHWfLrTamXSO8mvKjg) — [梦回0](https://space.bilibili.com/238343565)「deepseek v4 正式版生成只狼版网页游戏」
+- [https://h0t5tee1.lanzouu.com/ixssu3x8jfxc](https://h0t5tee1.lanzouu.com/ixssu3x8jfxc) — [炽热的钢铁](https://space.bilibili.com/687935502)「ds正式版坠机前，我用它做的所有游戏」
+- [https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub](https://github.com/ArboRithmDev/comfyui-arbo-mcp-hub) — [爱尔奎德的死徒](https://space.bilibili.com/758650)「deepseek v4 正式版加本地部署文生图模型 3句话实现极限脱出同人续作」
+- [https://github.com/cct124/voxel-horizon-demo](https://github.com/cct124/voxel-horizon-demo) — [s就是这样s](https://space.bilibili.com/4200244)「疑似DS V4正式版灰度，被这效果吓哭，这是我看过《我的世界》+《无人深空》融合的最好的一个版本」
+- [https://pan.baidu.com/s/1QH8aM0_7-Fz6nXrogSx8gQ?pwd=8z78](https://pan.baidu.com/s/1QH8aM0_7-Fz6nXrogSx8gQ?pwd=8z78) — [bili_3493108501187431](https://space.bilibili.com/3493108501187431)「deepseekv4正式版恶魔轮盘（2/3d）（存货）」
+- [https://github.com/myYangyunfan/makerwhale](https://github.com/myYangyunfan/makerwhale) — [Delight-linger](https://space.bilibili.com/1699039750)「Deepseekv4正式版-坎巴拉太空计划+我的世界---实操登录月球（硬着陆）3轮对话」
+- [https://wwbvw.lanzouv.com/iIqhb3wr8qvi](https://wwbvw.lanzouv.com/iIqhb3wr8qvi) — [PotnQ](https://space.bilibili.com/149206792)「疑似Deepseekv4正式版灰测异星工场+我的世界+无人深空[已具备一定可玩性]」
+- [https://pan.baidu.com/s/1u9byiOoHNda1a9KhwFS-BA?pwd=1234](https://pan.baidu.com/s/1u9byiOoHNda1a9KhwFS-BA?pwd=1234) — [kdzzzds](https://space.bilibili.com/323637465)「疑似deepseekv4正式版灰度   我的世界+无人深空（调小声音）」
+- [http://askhow.top/util/DeepSeekMonitor.zip](http://askhow.top/util/DeepSeekMonitor.zip) — [UPLUZ](https://space.bilibili.com/4926822)「【疑似DeepSeek正式版】一轮对话生成Windows性能监控桌面浮窗」
+- [https://wwbpj.lanzouw.com/ib4p23x6up1e](https://wwbpj.lanzouw.com/ib4p23x6up1e) — [离梦aajjkk](https://space.bilibili.com/3493110560590178)「DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。」
+- [https://h0t5tee1.lanzouu.com/b0188h9uej](https://h0t5tee1.lanzouu.com/b0188h9uej) — [炽热的钢铁](https://space.bilibili.com/687935502)「疑似灰度到了deepseek-v4-pro正式版！只用一句话让大肥鱼手搓了5首电音！」
+- [https://github.com/wenmingzhi111/small-games-with-deepseek-v4-formal](https://github.com/wenmingzhi111/small-games-with-deepseek-v4-formal) — [回力之文明](https://space.bilibili.com/528086012)「疑似高维空间碎片：DeepSeek V4正式版？流出，fable5同款小游戏直出测试」
+- [https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777](https://pan.baidu.com/s/1ymbT-dYs9xZQ21-nw_m7cQ?pwd=7777) — [添星_tianxing](https://space.bilibili.com/3706985962801907)「deepseek正式版，4块钱做的小游戏」
+- [https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak](https://pan.baidu.com/s/11WRO9-4DzoMUGyUvDhdyTg?pwd=r8ak) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版手搓的歌剧《卡门》动画」
+- [https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96](https://pan.baidu.com/s/1xbaedowmkhwL2XeOwISnhg?pwd=4h96) — [黑韬](https://space.bilibili.com/4473556)「DeepseekV4正式版生成的逆转裁判！」
+- [https://wwbpj.lanzouw.com/iNDdd3x6v04d](https://wwbpj.lanzouw.com/iNDdd3x6v04d) — [离梦aajjkk](https://space.bilibili.com/3493110560590178)「DeepSeekv4pro正式版一句话生成4000小球测试，完美无bug（max模式），附带性能测试。」
+- [https://pan.baidu.com/s/1dKYgyQ5Z6CSJMT85Apia3w?pwd=g92s](https://pan.baidu.com/s/1dKYgyQ5Z6CSJMT85Apia3w?pwd=g92s) — [不爱亲](https://space.bilibili.com/203218049)「疑似deepseekV4灰度正式版，一句话生成的mc光影包」
+- [https://pan.quark.cn/s/3a52f8c7aa2d?pwd=5rEY](https://pan.quark.cn/s/3a52f8c7aa2d?pwd=5rEY) — [PotnQ](https://space.bilibili.com/149206792)「DSV4正式版灰度无人深空超级伪无缝登陆」
+- [https://pan.quark.cn/s/03f0985c4de8](https://pan.quark.cn/s/03f0985c4de8) — [风味光猫](https://space.bilibili.com/364213249)「［东方project］DeepSeek疑似灰测与预览版一句话生成弹幕游戏对比」
+- [https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw](https://pan.baidu.com/s/1fEK0pe6Iq1ar9e0JVMUzjw) — [梦回0](https://space.bilibili.com/238343565)「dsv4正式版还原《星空Starfield》1000颗星球可无缝起降，陶德你的梦想deepseek帮你实现了！」
+- [https://pan.baidu.com/s/133-_KhOEihoiVPHyKXhT2Q](https://pan.baidu.com/s/133-_KhOEihoiVPHyKXhT2Q) — [戏场上的老将军](https://space.bilibili.com/2685629)「deepseekv4正式版 超视距8192格MC」
+- [https://pan.baidu.com/s/1YXUj40LccoKOHwb2SR0WSQ](https://pan.baidu.com/s/1YXUj40LccoKOHwb2SR0WSQ) — [梦回0](https://space.bilibili.com/238343565)「王者荣耀融合和平精英，来看看deepseek v4正式版的脑洞吧！」
+- [https://wwbvw.lanzouv.com/b009i6yu7g](https://wwbvw.lanzouv.com/b009i6yu7g) — [PotnQ](https://space.bilibili.com/149206792)「DSV4灰测一款游戏迭代了几百次有多恐怖？」
 - [https://wwbcc.lanzouq.com/b00yb93ogj](https://wwbcc.lanzouq.com/b00yb93ogj) — [stupid_scout](https://space.bilibili.com/517637254)「DeepseekV4正式版生成的战地游戏（效果吊炸天了！！）」
+- [https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w](https://pan.baidu.com/s/1SH-FQgtzezDk0umll4vEqQ?pwd=x57w) — [伊甸的亚托莉](https://space.bilibili.com/183884156)「【疑似deepseekv4正式版】ai里的贝多芬   多种音乐生成测试」
+- [https://wwbol.lanzout.com/iuLmG3wvb2af](https://wwbol.lanzout.com/iuLmG3wvb2af) — [小小小名不是小明](https://space.bilibili.com/316052822)「测试第二期！DeepSeek V4正式版全方面深度测试 附带kimiK3」
 
 ---
 
