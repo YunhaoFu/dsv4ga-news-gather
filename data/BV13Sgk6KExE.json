@@ -1,0 +1,83 @@
+{
+  "bvid": "BV13Sgk6KExE",
+  "aid": 116963351267843,
+  "title": "「DSv4GA」我把DeepSeek做到悬挂演示网页做成了动态壁纸！！",
+  "up_name": "小小小名不是小明",
+  "up_mid": 316052822,
+  "up_face": "https://i2.hdslb.com/bfs/face/1c9dc8397e5f7e2d8778b3d0a5c7f50eca7e65cc.jpg",
+  "desc": "来自DeepSeekV4GA生成的双叉臂悬挂模拟线图，通过Qwen3.8MAX进行了鼠标指针响应动效增加与音频响应式悬架跳动，已发布在小红车：https://steamcommunity.com/sharedfiles/filedetails/?id=3769520019",
+  "duration": 45,
+  "pub_time_ts": 1784719122,
+  "pub_time": "2026-07-22 19:18:42",
+  "stats": {
+    "view": 3579,
+    "like": 92,
+    "coin": 8,
+    "favorite": 21,
+    "share": 3,
+    "reply": 73
+  },
+  "tags": [],
+  "share_links": [],
+  "download_links": [],
+  "comments_links": {
+    "share": [],
+    "download": []
+  },
+  "all_share_links": [],
+  "all_download_links": [],
+  "comments": {
+    "total": 18,
+    "top_comments": [
+      {
+        "user": "知予者",
+        "message": "大家的灰度全坠机，而且最近好像还降智了，最好你要出了[生气]",
+        "likes": 62,
+        "time": "2026-07-22 19:34:05"
+      },
+      {
+        "user": "_Dreemurr_逐梦",
+        "message": "[doge]",
+        "likes": 8,
+        "time": "2026-07-22 21:04:44"
+      },
+      {
+        "user": "Delight-linger",
+        "message": "我猜晚上9点发，和菲尔兹奖同时出，有人信吗[笑哭]",
+        "likes": 6,
+        "time": "2026-07-22 20:15:45"
+      },
+      {
+        "user": "黑塔的黑丝",
+        "message": "测试的除了D老师这个风格剩下的KIMI那个工程图的也很好看",
+        "likes": 4,
+        "time": "2026-07-22 20:28:55"
+      },
+      {
+        "user": "荡殇永魔",
+        "message": "[给心心]",
+        "likes": 3,
+        "time": "2026-07-22 19:22:30"
+      },
+      {
+        "user": "电丰富的",
+        "message": "看得出来爱得v4ga很深沉了",
+        "likes": 2,
+        "time": "2026-07-22 22:14:53"
+      },
+      {
+        "user": "olplko",
+        "message": "怎么还有灰测[星星眼]是什么时候做的呀",
+        "likes": 1,
+        "time": "2026-07-23 17:47:43"
+      },
+      {
+        "user": "起名困难重重",
+        "message": "有没有试过完全从第一性原理开始设计一套悬挂？不要什么已有的设计经验开始？就像围棋AI那样删除所有棋谱，从头开始自我下棋来实现最后的结果？",
+        "likes": 1,
+        "time": "2026-07-23 11:48:09"
+      }
+    ],
+    "up_replies_with_links": []
+  }
+}

@@ -72,18 +72,19 @@ HEADERS = {
 def validate_title(title: str) -> tuple:
     """
     校验视频标题是否符合 DeepSeek V4 灰度测试/正式版 主题。
-    规则: 标题必须包含 "deepseek" (不区分大小写) 且包含 "灰" 或 "正式"。
+    规则: 标题必须包含 "deepseek" 或 "dsv4" (不区分大小写) 且包含 "灰"、"正式" 或 "dsv4"。
     返回: (是否通过, 原因)
     """
     tl = title.lower()
     has_ds_keyword = 'deepseek' in tl or 'ds' in tl
     has_gray = '灰' in title
     has_official = '正式' in title
+    has_dsv4 = 'dsv4' in tl  # 兼容 "DSv4GA" 等变体写法
 
     if not has_ds_keyword:
         return False, f'标题不含 "DeepSeek" 或 "ds" (不区分大小写): "{title[:50]}..."'
-    if not (has_gray or has_official):
-        return False, f'标题不含 "灰" 或 "正式": "{title[:50]}..."'
+    if not (has_gray or has_official or has_dsv4):
+        return False, f'标题不含 "灰"、"正式" 或 "dsv4": "{title[:50]}..."'
     return True, '通过'
 
 
